@@ -15,6 +15,7 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
 
 **WhatService - Boas Vindas Ao Usuário**
 
+
 Caro usuário,
 
 Bem-vindo ao **WhatService** - O seu portal de serviços autônomos!
