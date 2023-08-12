@@ -1,5 +1,24 @@
 # Projeto_Integrador_Proz_Grupo_01
 
+Proz - Portal Tech
+
+Repósitório criado para entrega do projeto integrador confome tema abaixo:
+
+GRUPO 1: 
+Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos  (encanador, pedreiro, pintor).
+
+Marcelo Nascimento dos Santos
+Erik Willams Matias Vasconcelos
+Gilson Antunes Ravaiani
+Fillipe Albuquerque 
+Eduardo Veiga
+
+
+**🚀 Começando**
+
+
+**WhatService - Boas Vindas Ao Usuário**
+
 
 Caro usuário,
 
