@@ -37,3 +37,23 @@ Seja você um cliente em busca do serviço ideal ou um profissional autônomo em
 Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e excelência.
 
 **Equipe WhatService**
+
+
+
+**Agora você vai conhecer a ideia original de nossa nossa plataforma**
+
+**WhatService** é um site brasileiro que atua como uma plataforma online de contratação de serviços. Ele conecta pessoas que estão procurando por serviços diversos a profissionais autônomos ou empresas que oferecem esses serviços. A plataforma abrange uma ampla variedade de categorias, incluindo serviços domésticos, reformas, aulas particulares, serviços de tecnologia, serviços de saúde, entre outros.
+
+O funcionamento básico do **WhatService** é o seguinte:
+
+**Solicitação de Serviços**: Os usuários que precisam de um serviço específico podem criar uma solicitação na plataforma, descrevendo o que precisam. Isso pode variar desde a instalação de um ar condicionado até aulas de idiomas.
+
+**Orçamentos e Propostas**: Profissionais cadastrados na plataforma, que atuam na área relacionada ao serviço solicitado, podem enviar orçamentos e propostas para os usuários. Eles podem incluir detalhes sobre preços, disponibilidade e qualificações.
+
+**Escolha do Profissional**: O usuário pode revisar os orçamentos e propostas recebidos, verificar perfis dos profissionais, ler avaliações de outros usuários e, em seguida, selecionar o profissional que melhor atenda às suas necessidades.
+
+**Prestação do Serviço**: Uma vez que o usuário seleciona um profissional, o serviço é prestado conforme o combinado entre as partes. Após a conclusão, é comum que os usuários possam avaliar e deixar feedback sobre o profissional.
+
+**Pagamento**: O pagamento pelo serviço pode ser tratado diretamente entre o usuário e o profissional, seguindo as condições acordadas.
+
+O **WhatService** facilita a busca por profissionais e serviços, tornando o processo de contratação mais conveniente e transparente. Também oferece uma maneira para profissionais autônomos ou pequenas empresas expandirem seus negócios, alcançando uma base maior de clientes em potencial.
