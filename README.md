@@ -1,23 +1,48 @@
 <p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/blob/main/Logo_Proz.jpg"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/0bf43cd6-4b0c-4326-99b2-205169f58152"/>
 
 # Projeto Integrador Proz Grupo 01
 
-# Proz - Portal Tech
+### Proz - Portal Tech
 
 Repósitório criado para entrega do projeto integrador confome tema abaixo:
 
 GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
 
-# Equipe
+### Nosso time
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/cc46b731-48f9-4651-b8b7-72961226117d" width="200"/>
+  
 - Eduardo Veiga
 - Erik Willams Matias Vasconcelos
 - Fillipe Albuquerque
 - Gilson Antunes Ravaiani
-- Marcelo Nascimento dos Santos
+- Marcelo Nascimento dos Santos</p>
+
+### Definição de equipe:
+
+Uma equipe de trabalho é um grupo de indivíduos que se reúnem para alcançar um objetivo ou realizar uma tarefa específica. Essa colaboração envolve a combinação de habilidades, conhecimentos e esforços individuais em prol de um objetivo comum. As equipes de trabalho podem variar em tamanho e composição, mas todas compartilham a característica fundamental de trabalhar em conjunto para atingir um propósito definido.
+
+### Características principais de uma equipe de trabalho incluem:
+
+- **Objetivo Comum**: As equipes são formadas com um objetivo ou meta específica em mente, que pode ser um projeto, a solução de um problema, a realização de uma tarefa ou a conquista de um resultado específico.
+
+- **Colaboração**: Os membros da equipe colaboram e interagem para combinar suas habilidades e conhecimentos, aproveitando as perspectivas e experiências de cada membro para alcançar resultados melhores.
+
+- **Habilidades Diversas**: As equipes frequentemente consistem em indivíduos com diferentes conjuntos de habilidades, experiências e conhecimentos, o que permite uma abordagem abrangente para lidar com desafios complexos.
+
+- **Comunicação**: A comunicação eficaz é fundamental em uma equipe de trabalho, permitindo que os membros coordenem suas ações, compartilhem informações, discutam ideias e resolvam problemas.
+
+- **Responsabilidade Compartilhada**: Os membros da equipe compartilham a responsabilidade pelo progresso e sucesso do projeto, bem como por quaisquer obstáculos que possam surgir.
+
+- **Apoio Mútuo**: Uma equipe de trabalho bem-sucedida incentiva o apoio mútuo entre seus membros, oferecendo ajuda, orientação e feedback uns aos outros.
+
+- **Tomada de Decisão Coletiva**: A tomada de decisão é frequentemente um processo colaborativo, no qual os membros discutem e avaliam opções antes de escolher o caminho a seguir.
+
+- **Sinergia**: A combinação das habilidades e esforços individuais muitas vezes resulta em sinergia, onde a equipe pode alcançar mais do que os membros poderiam fazer individualmente.
+
+Equipes de trabalho podem ser encontradas em vários contextos, como ambiente corporativo, educação, organizações sem fins lucrativos, projetos de desenvolvimento, pesquisa científica, esportes e muito mais. A eficácia de uma equipe de trabalho depende da coesão, comunicação, liderança e colaboração entre seus membros, além de uma clara definição de metas e papéis.
 
 # 🚀 Começando
 
@@ -27,7 +52,7 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
       <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/82eeb444-41a7-4d54-81ff-a3679b74b6e3" width="250"/>
     </td>
     <td>
-      <h1>WhatService</h1>
+      <h3>WhatService</h3>
       <p>Caro usuário,
 
 Bem-vindo ao **WhatService** - O seu portal de serviços autônomos!
@@ -55,11 +80,14 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
   </tr>
 </table>
 
-# Agora vamos conhecer a ideia original de nossa plataforma
+### Agora vamos conhecer a ideia original de nossa plataforma
+
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/625f1a6c-5e0a-4f9b-98bb-879ad128525f" width="200"/>
 
 **WhatService** é um site brasileiro que atua como uma plataforma online de contratação de serviços. Ele conecta pessoas que estão procurando por serviços diversos a profissionais autônomos ou empresas que oferecem esses serviços. A plataforma abrange uma ampla variedade de categorias, incluindo serviços domésticos, reformas, aulas particulares, serviços de tecnologia, serviços de saúde, entre outros.
 
-# O funcionamento básico do **WhatService** é o seguinte:
+### O funcionamento básico do **WhatService** é o seguinte:
 
 **Solicitação de Serviços**: Os usuários que precisam de um serviço específico podem criar uma solicitação na plataforma, descrevendo o que precisam. Isso pode variar desde a instalação de um ar condicionado até aulas de idiomas.
 
@@ -73,16 +101,19 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
 
 O **WhatService** facilita a busca por profissionais e serviços, tornando o processo de contratação mais conveniente e transparente. Também oferece uma maneira para profissionais autônomos ou pequenas empresas expandirem seus negócios, alcançando uma base maior de clientes em potencial.
 
-# Vamos colocar mão na massa e iniciar nossas atividades
+### Vamos colocar mão na massa e iniciar nossas atividades
 
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
 
-Para isso, vamos utilizar uma ferramenta chamada Trello e vou te explicar a importancia e como ela funciona:
+Para isso, vamos utilizar uma ferramenta chamada Trello e vou te explicar como ela funciona e a importancia:
 
 O **Trello** é uma plataforma de gerenciamento de projetos baseada em quadros virtuais. Ele oferece uma abordagem visual e intuitiva para a organização de tarefas, projetos e fluxos de trabalho. Cada quadro do Trello representa um projeto ou iniciativa, e dentro desses quadros, você cria listas de tarefas ou etapas do processo. As tarefas individuais são representadas por cartões, que podem ser movidos de uma lista para outra à medida que o trabalho progride.
 
-## Importância no Desenvolvimento:
+<p align="center">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/447dd319-320d-4562-9027-99368e3bfe9b" width="200"/>
+
+### Importância no Desenvolvimento:
 
 **Visualização Clara**: O Trello fornece uma representação visual clara do progresso de um projeto. Equipes podem facilmente entender o status das tarefas, o que está em andamento e o que foi concluído.
 
