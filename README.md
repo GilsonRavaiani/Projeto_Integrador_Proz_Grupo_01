@@ -11,8 +11,30 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
 
 ### Equipe
 
+Uma equipe de trabalho é um grupo de indivíduos que se reúnem para alcançar um objetivo ou realizar uma tarefa específica. Essa colaboração envolve a combinação de habilidades, conhecimentos e esforços individuais em prol de um objetivo comum. As equipes de trabalho podem variar em tamanho e composição, mas todas compartilham a característica fundamental de trabalhar em conjunto para atingir um propósito definido.
+
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/cc46b731-48f9-4651-b8b7-72961226117d" width="200"/>
+
+- Características principais de uma equipe de trabalho incluem:
+
+- Objetivo Comum: As equipes são formadas com um objetivo ou meta específica em mente, que pode ser um projeto, a solução de um problema, a realização de uma tarefa ou a conquista de um resultado específico.
+
+- **Colaboração**: Os membros da equipe colaboram e interagem para combinar suas habilidades e conhecimentos, aproveitando as perspectivas e experiências de cada membro para alcançar resultados melhores.
+
+- **Habilidades Diversas**: As equipes frequentemente consistem em indivíduos com diferentes conjuntos de habilidades, experiências e conhecimentos, o que permite uma abordagem abrangente para lidar com desafios complexos.
+
+- **Comunicação**: A comunicação eficaz é fundamental em uma equipe de trabalho, permitindo que os membros coordenem suas ações, compartilhem informações, discutam ideias e resolvam problemas.
+
+- **Responsabilidade Compartilhada**: Os membros da equipe compartilham a responsabilidade pelo progresso e sucesso do projeto, bem como por quaisquer obstáculos que possam surgir.
+
+- **Apoio Mútuo**: Uma equipe de trabalho bem-sucedida incentiva o apoio mútuo entre seus membros, oferecendo ajuda, orientação e feedback uns aos outros.
+
+- **Tomada de Decisão Coletiva**: A tomada de decisão é frequentemente um processo colaborativo, no qual os membros discutem e avaliam opções antes de escolher o caminho a seguir.
+
+- **Sinergia**: A combinação das habilidades e esforços individuais muitas vezes resulta em sinergia, onde a equipe pode alcançar mais do que os membros poderiam fazer individualmente.
+
+Equipes de trabalho podem ser encontradas em vários contextos, como ambiente corporativo, educação, organizações sem fins lucrativos, projetos de desenvolvimento, pesquisa científica, esportes e muito mais. A eficácia de uma equipe de trabalho depende da coesão, comunicação, liderança e colaboração entre seus membros, além de uma clara definição de metas e papéis.
 
 - Eduardo Veiga
 - Erik Willams Matias Vasconcelos
