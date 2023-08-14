@@ -88,7 +88,7 @@ O **Trello** é uma plataforma de gerenciamento de projetos baseada em quadros v
 <p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/447dd319-320d-4562-9027-99368e3bfe9b" width="200"/>
 
-##### Importância no Desenvolvimento:
+### Importância no Desenvolvimento:
 
 **Visualização Clara**: O Trello fornece uma representação visual clara do progresso de um projeto. Equipes podem facilmente entender o status das tarefas, o que está em andamento e o que foi concluído.
 
