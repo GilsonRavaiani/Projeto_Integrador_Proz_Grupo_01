@@ -3,13 +3,13 @@
 
 # Projeto Integrador Proz Grupo 01
 
-# Proz - Portal Tech
+### Proz - Portal Tech
 
 Repósitório criado para entrega do projeto integrador confome tema abaixo:
 
 GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
 
-# Equipe
+### Equipe
 
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/cc46b731-48f9-4651-b8b7-72961226117d" width="200"/>
@@ -55,7 +55,7 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
   </tr>
 </table>
 
-# Agora vamos conhecer a ideia original de nossa plataforma
+### Agora vamos conhecer a ideia original de nossa plataforma
 
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/625f1a6c-5e0a-4f9b-98bb-879ad128525f" width="200"/>
@@ -79,7 +79,7 @@ O **WhatService** facilita a busca por profissionais e serviços, tornando o pro
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
 
-# Vamos colocar mão na massa e iniciar nossas atividades
+### Vamos colocar mão na massa e iniciar nossas atividades
 
 Para isso, vamos utilizar uma ferramenta chamada Trello e vou te explicar como ela funciona e a importancia:
 
