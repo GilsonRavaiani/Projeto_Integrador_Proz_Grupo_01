@@ -1,4 +1,5 @@
-![Proz](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/blob/main/Logo_Proz.jpg)
+<p align="center">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/blob/main/Logo_Proz.jpg"/>
 
 # Projeto_Integrador_Proz_Grupo_01
 
