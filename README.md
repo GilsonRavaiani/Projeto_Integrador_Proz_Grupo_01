@@ -1,7 +1,9 @@
 <p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/0bf43cd6-4b0c-4326-99b2-205169f58152"/>
 
-# [Projeto Integrador Proz Grupo 01]
+<p align="center">
+  <h1>Projeto Integrador Proz Grupo 01</h1>
+</p>
 
 ### Proz - Portal Tech
 
