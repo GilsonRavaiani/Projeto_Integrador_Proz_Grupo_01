@@ -103,3 +103,8 @@ O **Trello** é uma plataforma de gerenciamento de projetos baseada em quadros v
 **Acompanhamento do Progresso**: Os relatórios e métricas do Trello permitem avaliar o desempenho da equipe, identificar gargalos e ajustar os processos conforme necessário.
 
 Em resumo, o Trello desempenha um papel crucial no desenvolvimento, fornecendo uma plataforma versátil e acessível para planejamento, colaboração e acompanhamento de projetos. Sua natureza visual e flexível o torna uma ferramenta valiosa para equipes de desenvolvimento que desejam otimizar seus processos e maximizar a eficiência.
+
+Nosso quadro Trello para iniciar as atividades em equipe:
+
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="200"/>
