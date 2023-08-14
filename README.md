@@ -72,3 +72,5 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
 **Pagamento**: O pagamento pelo serviço pode ser tratado diretamente entre o usuário e o profissional, seguindo as condições acordadas.
 
 O **WhatService** facilita a busca por profissionais e serviços, tornando o processo de contratação mais conveniente e transparente. Também oferece uma maneira para profissionais autônomos ou pequenas empresas expandirem seus negócios, alcançando uma base maior de clientes em potencial.
+
+# Vamos colocar mão na massa e iniciar nossas atividades
