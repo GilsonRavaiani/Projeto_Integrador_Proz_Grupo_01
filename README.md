@@ -141,3 +141,41 @@ Nosso quadro Trello para iniciar as atividades em equipe:
 
 <p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="400"/>
+
+### Outra ferramenta que estamos utilizando é o **FIGMA**
+
+O Figma é uma plataforma de design de interface de usuário (UI) baseada em nuvem, que permite que equipes de design, desenvolvimento e outras partes interessadas colaborem de forma eficiente no processo de design, prototipagem e criação de interfaces digitais. Ele se destaca por sua abordagem colaborativa em tempo real, eliminando as barreiras geográficas e permitindo que múltiplos membros da equipe trabalhem simultaneamente em projetos de design.
+
+Aqui estão detalhes sobre o Figma e suas principais funções:
+
+**Interface Baseada em Nuvem**:
+O Figma é uma ferramenta baseada em nuvem, o que significa que você pode acessá-la através de um navegador da web, sem a necessidade de instalação de software adicional. Isso permite que você trabalhe em qualquer lugar e a qualquer momento, além de facilitar a colaboração entre membros da equipe.
+
+**Design de Interface de Usuário**:
+O Figma é amplamente utilizado para criar designs de interfaces de usuário, como sites, aplicativos móveis e outras experiências digitais. Ele oferece uma variedade de ferramentas para desenhar elementos de interface, como botões, ícones, formulários e muito mais.
+
+**Prototipagem Interativa**:
+Com o Figma, você pode criar protótipos interativos que simulam a navegação e a interação dentro de um aplicativo ou site. Isso é útil para validar fluxos de usuário, testar funcionalidades e obter feedback antes da implementação.
+
+**Componentes e Símbolos**:
+O Figma permite criar componentes reutilizáveis e símbolos, o que é especialmente útil para manter a consistência e eficiência no design. Qualquer alteração feita em um componente ou símbolo é refletida automaticamente em todas as instâncias desse elemento.
+
+**Colaboração em Tempo Real**:
+Uma das maiores vantagens do Figma é sua capacidade de colaboração em tempo real. Vários membros da equipe podem trabalhar simultaneamente em um projeto, ver as alterações em tempo real e até mesmo comentar diretamente no design.
+
+**Comentários e Feedback**:
+O Figma facilita a comunicação entre membros da equipe, permitindo que eles deixem comentários específicos em elementos de design. Isso simplifica a troca de feedback e a comunicação de alterações necessárias.
+
+**Integração com Ferramentas de Desenvolvimento**:
+O Figma oferece recursos para exportar ativos e designs para diferentes formatos de arquivo, facilitando a colaboração entre designers e desenvolvedores. Além disso, ele oferece integrações com outras ferramentas populares, como Zeplin e Framer.
+
+**Versões e Histórico**:
+O Figma mantém um histórico de versões de seus designs, permitindo que você reverta para versões anteriores se necessário. Isso é útil para rastrear mudanças e fazer ajustes retroativos.
+
+**Acessibilidade e Responsividade**:
+O Figma oferece recursos para criar designs acessíveis e responsivos, permitindo que você projete experiências que funcionem bem em diferentes dispositivos e atendam a diversos públicos.
+
+**Plugins e Automação**:
+O Figma suporta plugins que podem estender sua funcionalidade, permitindo que você automatize tarefas, adicione recursos personalizados e integre-se a outras ferramentas.
+
+No geral, o Figma é uma ferramenta poderosa para designers de interface de usuário e equipes de design que desejam colaborar de forma eficaz, criar designs impressionantes e protótipos interativos e manter a consistência ao longo do processo de design. Sua abordagem colaborativa e recursos avançados o tornam uma escolha popular para muitos profissionais de design e desenvolvimento.
