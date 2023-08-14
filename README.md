@@ -26,7 +26,7 @@ Uma equipe de trabalho é um grupo de indivíduos que se reúnem para alcançar 
 
 ### Características principais de uma equipe de trabalho incluem:
 
-- Objetivo Comum: As equipes são formadas com um objetivo ou meta específica em mente, que pode ser um projeto, a solução de um problema, a realização de uma tarefa ou a conquista de um resultado específico.
+- **Objetivo Comum**: As equipes são formadas com um objetivo ou meta específica em mente, que pode ser um projeto, a solução de um problema, a realização de uma tarefa ou a conquista de um resultado específico.
 
 - **Colaboração**: Os membros da equipe colaboram e interagem para combinar suas habilidades e conhecimentos, aproveitando as perspectivas e experiências de cada membro para alcançar resultados melhores.
 
