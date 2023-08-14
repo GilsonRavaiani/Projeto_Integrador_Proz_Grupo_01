@@ -146,6 +146,9 @@ Nosso quadro Trello para iniciar as atividades em equipe:
 
 O Figma é uma plataforma de design de interface de usuário (UI) baseada em nuvem, que permite que equipes de design, desenvolvimento e outras partes interessadas colaborem de forma eficiente no processo de design, prototipagem e criação de interfaces digitais. Ele se destaca por sua abordagem colaborativa em tempo real, eliminando as barreiras geográficas e permitindo que múltiplos membros da equipe trabalhem simultaneamente em projetos de design.
 
+<p align="center">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b167f794-ee4e-4651-b747-1b768694145f" width="400"/>
+
 Aqui estão detalhes sobre o Figma e suas principais funções:
 
 **Interface Baseada em Nuvem**:
