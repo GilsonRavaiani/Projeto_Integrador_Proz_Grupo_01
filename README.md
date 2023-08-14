@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/0bf43cd6-4b0c-4326-99b2-205169f58152"/>
 
-### Projeto Integrador Proz Grupo 01
+### Projeto Integrador Proz Educação - Grupo 01
 
 ### Proz - Portal Tech
 
-### Repósitório criado para entrega do projeto integrador confome equipe e tema abaixo:
+### Repósitório criado para entrega do projeto integrador conforme equipe e tema abaixo:
 
 ### Nosso time
 
@@ -49,7 +49,7 @@ Equipes de trabalho podem ser encontradas em vários contextos, como ambiente co
 Utilizaremos:
 
 <p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/628e1097-5609-4d65-8c03-75f685528698" width="400"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/628e1097-5609-4d65-8c03-75f685528698" width="600" height="300"/>
 
 **HTML**
 HTML, ou Hypertext Markup Language (Linguagem de Marcação de Hipertexto), é uma linguagem de marcação usada para criar e estruturar o conteúdo de páginas da web. É a base fundamental para a construção de páginas e aplicativos da web e é interpretado pelos navegadores da web para exibir o conteúdo visual e interativo que vemos ao acessar sites.
