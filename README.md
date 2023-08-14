@@ -76,16 +76,17 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
 
 O **WhatService** facilita a busca por profissionais e serviços, tornando o processo de contratação mais conveniente e transparente. Também oferece uma maneira para profissionais autônomos ou pequenas empresas expandirem seus negócios, alcançando uma base maior de clientes em potencial.
 
-# Vamos colocar mão na massa e iniciar nossas atividades
-
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
-  
+
+# Vamos colocar mão na massa e iniciar nossas atividades
+
 # Para isso, vamos utilizar uma ferramenta chamada Trello e vou te explicar a importancia e como ela funciona:
-<p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/447dd319-320d-4562-9027-99368e3bfe9b" width="200"/>
 
 O **Trello** é uma plataforma de gerenciamento de projetos baseada em quadros virtuais. Ele oferece uma abordagem visual e intuitiva para a organização de tarefas, projetos e fluxos de trabalho. Cada quadro do Trello representa um projeto ou iniciativa, e dentro desses quadros, você cria listas de tarefas ou etapas do processo. As tarefas individuais são representadas por cartões, que podem ser movidos de uma lista para outra à medida que o trabalho progride.
+
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/447dd319-320d-4562-9027-99368e3bfe9b" width="200"/>
 
 # Importância no Desenvolvimento:
 
