@@ -74,3 +74,6 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
 O **WhatService** facilita a busca por profissionais e serviços, tornando o processo de contratação mais conveniente e transparente. Também oferece uma maneira para profissionais autônomos ou pequenas empresas expandirem seus negócios, alcançando uma base maior de clientes em potencial.
 
 # Vamos colocar mão na massa e iniciar nossas atividades
+
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
