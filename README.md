@@ -1,4 +1,6 @@
-!(https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/blob/main/Logo_Proz.jpg)
+![Proz](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/blob/main/Logo_Proz.jpg)
+
+![Logo_Proz](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/77e8215e-e05f-48bb-b46d-e640bd23184f)
 
 # Projeto_Integrador_Proz_Grupo_01
 
