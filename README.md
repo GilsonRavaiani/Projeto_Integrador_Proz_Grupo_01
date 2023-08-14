@@ -20,7 +20,7 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
 - Gilson Antunes Ravaiani
 - Marcelo Nascimento dos Santos</p>
 
-Definição de equipe:
+### Definição de equipe:
 
 Uma equipe de trabalho é um grupo de indivíduos que se reúnem para alcançar um objetivo ou realizar uma tarefa específica. Essa colaboração envolve a combinação de habilidades, conhecimentos e esforços individuais em prol de um objetivo comum. As equipes de trabalho podem variar em tamanho e composição, mas todas compartilham a característica fundamental de trabalhar em conjunto para atingir um propósito definido.
 
