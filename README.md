@@ -15,15 +15,14 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
       <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/35cb5274-4407-45fc-9b13-657e406ef5ff" width="250"/>
     </td>
     <td>
-      <h3>Equipe´</h3>
-      <p> 
+      <h3>Equipe</h3>
+      <p>
+
 - Eduardo Veiga
 - Erik Willams Matias Vasconcelos
 - Fillipe Albuquerque
 - Gilson Antunes Ravaiani
 - Marcelo Nascimento dos Santos</p>
-
-### Equipe
 
 Uma equipe de trabalho é um grupo de indivíduos que se reúnem para alcançar um objetivo ou realizar uma tarefa específica. Essa colaboração envolve a combinação de habilidades, conhecimentos e esforços individuais em prol de um objetivo comum. As equipes de trabalho podem variar em tamanho e composição, mas todas compartilham a característica fundamental de trabalhar em conjunto para atingir um propósito definido.
 
