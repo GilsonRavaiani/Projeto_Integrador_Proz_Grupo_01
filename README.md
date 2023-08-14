@@ -106,5 +106,5 @@ Em resumo, o Trello desempenha um papel crucial no desenvolvimento, fornecendo u
 
 Nosso quadro Trello para iniciar as atividades em equipe:
 
-<p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="200"/>
+<p align="center">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="400"/>
