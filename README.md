@@ -24,7 +24,7 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
 <table>
   <tr>
     <td>
-      <img src="(https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/82eeb444-41a7-4d54-81ff-a3679b74b6e3)" alt="WhatService" width="100"/>
+      <img src="(https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/82eeb444-41a7-4d54-81ff-a3679b74b6e3)" alt="" width="100"/>
     </td>
     <td>
       <h1>WhatService</h1>
