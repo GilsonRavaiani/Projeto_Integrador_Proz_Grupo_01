@@ -13,7 +13,7 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
 
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/cc46b731-48f9-4651-b8b7-72961226117d" width="200"/>
-  
+
 - Eduardo Veiga
 - Erik Willams Matias Vasconcelos
 - Fillipe Albuquerque
@@ -77,10 +77,10 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
 
 O **WhatService** facilita a busca por profissionais e serviços, tornando o processo de contratação mais conveniente e transparente. Também oferece uma maneira para profissionais autônomos ou pequenas empresas expandirem seus negócios, alcançando uma base maior de clientes em potencial.
 
+### Vamos colocar mão na massa e iniciar nossas atividades
+
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
-
-### Vamos colocar mão na massa e iniciar nossas atividades
 
 Para isso, vamos utilizar uma ferramenta chamada Trello e vou te explicar como ela funciona e a importancia:
 
