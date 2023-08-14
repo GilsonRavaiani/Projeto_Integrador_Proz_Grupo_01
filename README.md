@@ -9,15 +9,9 @@ Repósitório criado para entrega do projeto integrador confome tema abaixo:
 
 GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/35cb5274-4407-45fc-9b13-657e406ef5ff" width="250"/>
-    </td>
-    <td>
-      <h3>Nosso time</h3>
-      <p>
-<p align="left">
+### Nosso time
+
+<p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/cc46b731-48f9-4651-b8b7-72961226117d" width="200"/>
   
 - Eduardo Veiga
