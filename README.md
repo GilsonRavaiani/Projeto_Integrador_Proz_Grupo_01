@@ -81,6 +81,8 @@ O **WhatService** facilita a busca por profissionais e serviços, tornando o pro
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
 
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
+
 # Para isso, vamos utilizar uma ferramenta chamada Trello e vou te explicar a importancia e como ela funciona:
 
 O **Trello** é uma plataforma de gerenciamento de projetos baseada em quadros virtuais. Ele oferece uma abordagem visual e intuitiva para a organização de tarefas, projetos e fluxos de trabalho. Cada quadro do Trello representa um projeto ou iniciativa, e dentro desses quadros, você cria listas de tarefas ou etapas do processo. As tarefas individuais são representadas por cartões, que podem ser movidos de uma lista para outra à medida que o trabalho progride.
