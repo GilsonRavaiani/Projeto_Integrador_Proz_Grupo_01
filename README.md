@@ -9,6 +9,20 @@ Repósitório criado para entrega do projeto integrador confome tema abaixo:
 
 GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/35cb5274-4407-45fc-9b13-657e406ef5ff" width="250"/>
+    </td>
+    <td>
+      <h3>Equipe´</h3>
+      <p> 
+- Eduardo Veiga
+- Erik Willams Matias Vasconcelos
+- Fillipe Albuquerque
+- Gilson Antunes Ravaiani
+- Marcelo Nascimento dos Santos</p>
+
 ### Equipe
 
 Uma equipe de trabalho é um grupo de indivíduos que se reúnem para alcançar um objetivo ou realizar uma tarefa específica. Essa colaboração envolve a combinação de habilidades, conhecimentos e esforços individuais em prol de um objetivo comum. As equipes de trabalho podem variar em tamanho e composição, mas todas compartilham a característica fundamental de trabalhar em conjunto para atingir um propósito definido.
@@ -16,7 +30,7 @@ Uma equipe de trabalho é um grupo de indivíduos que se reúnem para alcançar 
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/cc46b731-48f9-4651-b8b7-72961226117d" width="200"/>
 
-- Características principais de uma equipe de trabalho incluem:
+### Características principais de uma equipe de trabalho incluem:
 
 - Objetivo Comum: As equipes são formadas com um objetivo ou meta específica em mente, que pode ser um projeto, a solução de um problema, a realização de uma tarefa ou a conquista de um resultado específico.
 
@@ -35,12 +49,6 @@ Uma equipe de trabalho é um grupo de indivíduos que se reúnem para alcançar 
 - **Sinergia**: A combinação das habilidades e esforços individuais muitas vezes resulta em sinergia, onde a equipe pode alcançar mais do que os membros poderiam fazer individualmente.
 
 Equipes de trabalho podem ser encontradas em vários contextos, como ambiente corporativo, educação, organizações sem fins lucrativos, projetos de desenvolvimento, pesquisa científica, esportes e muito mais. A eficácia de uma equipe de trabalho depende da coesão, comunicação, liderança e colaboração entre seus membros, além de uma clara definição de metas e papéis.
-
-- Eduardo Veiga
-- Erik Willams Matias Vasconcelos
-- Fillipe Albuquerque
-- Gilson Antunes Ravaiani
-- Marcelo Nascimento dos Santos
 
 # 🚀 Começando
 
