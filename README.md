@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/blob/main/Logo_Proz.jpg"/>
 
-# Projeto Integrador Proz Grupo_01
+# Projeto Integrador Proz Grupo 01
 
-Proz - Portal Tech
+# Proz - Portal Tech
 
 Repósitório criado para entrega do projeto integrador confome tema abaixo:
 
@@ -41,11 +41,11 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
 
 **Equipe WhatService**
 
-**Agora você vai conhecer a ideia original de nossa nossa plataforma**
+# Agora você vai conhecer a ideia original de nossa nossa plataforma
 
 **WhatService** é um site brasileiro que atua como uma plataforma online de contratação de serviços. Ele conecta pessoas que estão procurando por serviços diversos a profissionais autônomos ou empresas que oferecem esses serviços. A plataforma abrange uma ampla variedade de categorias, incluindo serviços domésticos, reformas, aulas particulares, serviços de tecnologia, serviços de saúde, entre outros.
 
-O funcionamento básico do **WhatService** é o seguinte:
+# O funcionamento básico do **WhatService** é o seguinte:
 
 **Solicitação de Serviços**: Os usuários que precisam de um serviço específico podem criar uma solicitação na plataforma, descrevendo o que precisam. Isso pode variar desde a instalação de um ar condicionado até aulas de idiomas.
 
