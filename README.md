@@ -13,6 +13,7 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
 
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/cc46b731-48f9-4651-b8b7-72961226117d" width="200"/>
+  
 - Eduardo Veiga
 - Erik Willams Matias Vasconcelos
 - Fillipe Albuquerque
