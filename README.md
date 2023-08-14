@@ -55,7 +55,7 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
   </tr>
 </table>
 
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/82eeb444-41a7-4d54-81ff-a3679b74b6e3" width="250"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/82eeb444-41a7-4d54-81ff-a3679b74b6e3" width="100"/>
 
 **WhatService - Boas Vindas Ao Usuário**
 
