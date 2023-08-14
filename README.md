@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/blob/main/Logo_Proz.jpg"/>
 
-# Projeto_Integrador_Proz_Grupo_01
+# Projeto Integrador Proz Grupo_01
 
 Proz - Portal Tech
 
@@ -15,7 +15,7 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
 - Gilson Antunes Ravaiani
 - Marcelo Nascimento dos Santos
 
-🚀 Começando
+# 🚀 Começando
 
 **WhatService - Boas Vindas Ao Usuário**
 
