@@ -76,4 +76,4 @@ O **WhatService** facilita a busca por profissionais e serviços, tornando o pro
 # Vamos colocar mão na massa e iniciar nossas atividades
 
 <p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/cc46b731-48f9-4651-b8b7-72961226117d" width="200"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
