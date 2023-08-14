@@ -24,7 +24,7 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
 <table>
   <tr>
     <td>
-      <img src="(https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/82eeb444-41a7-4d54-81ff-a3679b74b6e3)" alt="WhatService" width="100" />
+      <img src="(https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/82eeb444-41a7-4d54-81ff-a3679b74b6e3)" alt="WhatService" width="100"/>
     </td>
     <td>
       <h1>WhatService</h1>
@@ -49,6 +49,7 @@ Seja você um cliente em busca do serviço ideal ou um profissional autônomo em
 Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e excelência.
 
 **Equipe WhatService**</p>
+
 </td>
 
   </tr>
