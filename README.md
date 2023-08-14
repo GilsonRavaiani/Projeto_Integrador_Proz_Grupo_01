@@ -27,7 +27,7 @@ GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços 
       <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/82eeb444-41a7-4d54-81ff-a3679b74b6e3" width="250"/>
     </td>
     <td>
-      <h1>WhatService</h1>
+      <h3>WhatService</h3>
       <p>Caro usuário,
 
 Bem-vindo ao **WhatService** - O seu portal de serviços autônomos!
@@ -62,7 +62,7 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
 
 **WhatService** é um site brasileiro que atua como uma plataforma online de contratação de serviços. Ele conecta pessoas que estão procurando por serviços diversos a profissionais autônomos ou empresas que oferecem esses serviços. A plataforma abrange uma ampla variedade de categorias, incluindo serviços domésticos, reformas, aulas particulares, serviços de tecnologia, serviços de saúde, entre outros.
 
-# O funcionamento básico do **WhatService** é o seguinte:
+### O funcionamento básico do **WhatService** é o seguinte:
 
 **Solicitação de Serviços**: Os usuários que precisam de um serviço específico podem criar uma solicitação na plataforma, descrevendo o que precisam. Isso pode variar desde a instalação de um ar condicionado até aulas de idiomas.
 
