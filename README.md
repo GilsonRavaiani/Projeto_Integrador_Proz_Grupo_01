@@ -55,7 +55,7 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
   </tr>
 </table>
 
-# Agora você vai conhecer a ideia original de nossa nossa plataforma
+# Agora vamos conhecer a ideia original de nossa plataforma
 
 **WhatService** é um site brasileiro que atua como uma plataforma online de contratação de serviços. Ele conecta pessoas que estão procurando por serviços diversos a profissionais autônomos ou empresas que oferecem esses serviços. A plataforma abrange uma ampla variedade de categorias, incluindo serviços domésticos, reformas, aulas particulares, serviços de tecnologia, serviços de saúde, entre outros.
 
