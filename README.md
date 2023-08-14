@@ -5,15 +5,17 @@
 
 ### Proz - Portal Tech
 
-Repósitório criado para entrega do projeto integrador confome tema abaixo:
+### Repósitório criado para entrega do projeto integrador confome tema abaixo:
 
-GRUPO 1: Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
+Tema: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
 
 ### Nosso time
 
 <p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/cc46b731-48f9-4651-b8b7-72961226117d" width="200"/>
-  
+
+GRUPO 1:
+
 - Eduardo Veiga
 - Erik Willams Matias Vasconcelos
 - Fillipe Albuquerque
