@@ -5,7 +5,7 @@
 
 ### Proz - Portal Tech
 
-### Repósitório criado para entrega do projeto integrador confome equipe e tema abaixo:
+### Repósitório criado para entrega do projeto integrador conforme equipe e tema abaixo:
 
 ### Nosso time
 
@@ -14,7 +14,6 @@
 
 **GRUPO 1**:
 
-- Eduardo Veiga
 - Erik Willams Matias Vasconcelos
 - Fillipe Albuquerque
 - Gilson Antunes Ravaiani
