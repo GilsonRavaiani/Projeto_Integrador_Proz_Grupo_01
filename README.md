@@ -251,9 +251,8 @@ No geral, o Figma é uma ferramenta poderosa para designers de interface de usu�
 
 ### Iniciando desenvolvimento
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/22a69481-120b-4072-acaa-858d374ea56d" width="300"/>
-  <p align="center">
 
 Iniciar o desenvolvimento de um site em equipe envolve uma série de etapas e considerações importantes para garantir um processo eficiente e um resultado de alta qualidade. Aqui estão algumas recomendações para começar:
 
@@ -295,5 +294,5 @@ Estabeleça prazos realistas para cada fase do projeto e utilize ferramentas de 
 
 Lembre-se de que a colaboração e a comunicação são fundamentais para o sucesso de um projeto em equipe. Ao seguir essas recomendações, você estará melhor preparado para iniciar o desenvolvimento de um site de forma eficaz e bem-sucedida.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/86a707d8-b435-4821-87bd-c755e39ada57" width="300"/>
