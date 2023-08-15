@@ -302,7 +302,7 @@ Lembre-se de que a colaboração e a comunicação são fundamentais para o suce
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/f3f62b04-1cec-44a4-a6fa-b133835edfb4" width="200"/>
 
-Para um site de serviços autônomos, as regras de negócios desempenham um papel crucial na definição de como a plataforma funciona, como os serviços são prestados e como os usuários interagem com a plataforma. Aqui estão algumas regras de negócios importantes a serem consideradas para um site desse tipo:
+As regras de negócios desempenham um papel crucial na definição de como a plataforma funciona, como os serviços são prestados e como os usuários interagem com a plataforma. Aqui estão algumas regras de negócios importantes a serem consideradas para um site desse tipo:
 
 1. **Cadastro e Autenticação:**
 
