@@ -296,3 +296,68 @@ Lembre-se de que a colaboração e a comunicação são fundamentais para o suce
 
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/86a707d8-b435-4821-87bd-c755e39ada57" width="240"/>
+
+### Regras de negócios
+
+Para um site de serviços autônomos, as regras de negócios desempenham um papel crucial na definição de como a plataforma funciona, como os serviços são prestados e como os usuários interagem com a plataforma. Aqui estão algumas regras de negócios importantes a serem consideradas para um site desse tipo:
+
+1. **Cadastro e Autenticação:**
+
+   - Os prestadores de serviços devem se cadastrar com informações completas e verificáveis.
+   - Os usuários devem se autenticar com segurança para acessar a plataforma.
+   - Verificação de identidade e avaliações dos prestadores de serviços.
+
+2. **Perfil de Prestador de Serviços:**
+
+   - Prestadores de serviços devem criar perfis detalhados com informações sobre suas habilidades, experiência e portfólio.
+   - Inclusão de fotos, descrições de serviços oferecidos e tarifas.
+
+3. **Busca e Filtros:**
+
+   - Os usuários devem poder pesquisar e filtrar os prestadores de serviços com base em categorias, localização, avaliações, etc.
+
+4. **Agendamento e Reservas:**
+
+   - Os usuários devem poder agendar e reservar serviços com prestadores específicos.
+   - Opções para escolher datas, horários e serviços desejados.
+
+5. **Pagamentos e Faturamento:**
+
+   - Processamento seguro de pagamentos online para serviços.
+   - Sistema de faturamento transparente para taxas de serviço e comissões.
+
+6. **Avaliações e Comentários:**
+
+   - Os usuários podem avaliar e deixar comentários sobre os serviços prestados.
+   - Mecanismos para lidar com avaliações falsas ou inadequadas.
+
+7. **Cancelamento e Reembolso:**
+
+   - Políticas claras de cancelamento para prestadores de serviços e clientes.
+   - Processo de reembolso em casos apropriados.
+
+8. **Comunicação e Mensagens:**
+
+   - Plataforma de mensagens para permitir que usuários e prestadores de serviços se comuniquem.
+   - Respeito às diretrizes de privacidade e proteção de dados.
+
+9. **Gerenciamento de Conflitos:**
+
+   - Mecanismos para lidar com disputas entre prestadores de serviços e clientes.
+   - Processo de resolução de conflitos com moderação e imparcialidade.
+
+10. **Políticas de Uso:**
+
+    - Termos de uso claros para todos os usuários da plataforma.
+    - Diretrizes sobre conduta adequada, políticas de conteúdo e conformidade legal.
+
+11. **Privacidade e Proteção de Dados:**
+
+    - Garantia da privacidade das informações pessoais dos usuários.
+    - Adesão a regulamentações de proteção de dados, como o GDPR.
+
+12. **Suporte ao Cliente:**
+    - Fornecimento de suporte ao cliente para resolver problemas e responder a perguntas.
+    - Canais de contato acessíveis e eficientes.
+
+Lembre-se de que essas são apenas algumas regras de negócios a serem consideradas. Cada plataforma de serviços autônomos terá suas próprias necessidades e particularidades, portanto, é importante adaptar essas regras de acordo com a natureza dos serviços oferecidos e os objetivos do negócio.
