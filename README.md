@@ -14,7 +14,6 @@
 
 **GRUPO 1**:
 
-- Eduardo Veiga
 - Erik Willams Matias Vasconcelos
 - Fillipe Albuquerque
 - Gilson Antunes Ravaiani
