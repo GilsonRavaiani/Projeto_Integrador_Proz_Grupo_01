@@ -114,10 +114,13 @@ JavaScript desempenha um papel fundamental na criação de experiências interat
 
 # 🚀 Começando
 
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/22a69481-120b-4072-acaa-858d374ea56d" width="200"/>
+
 <table>
   <tr>
     <td>
-      <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/82eeb444-41a7-4d54-81ff-a3679b74b6e3" width="250"/>
+      <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/654f4129-6053-465f-af7f-b9c0ccf6b694" width="250"/>
     </td>
     <td>
       <h3>WhatService</h3>
@@ -249,4 +252,124 @@ O Figma suporta plugins que podem estender sua funcionalidade, permitindo que vo
 
 No geral, o Figma é uma ferramenta poderosa para designers de interface de usuário e equipes de design que desejam colaborar de forma eficaz, criar designs impressionantes e protótipos interativos e manter a consistência ao longo do processo de design. Sua abordagem colaborativa e recursos avançados o tornam uma escolha popular para muitos profissionais de design e desenvolvimento.
 
-### Iniciando desenvolvimento HTML
+### Iniciando desenvolvimento
+
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/86a707d8-b435-4821-87bd-c755e39ada57" width="240"/>
+
+Iniciar o desenvolvimento de um site em equipe envolve uma série de etapas e considerações importantes para garantir um processo eficiente e um resultado de alta qualidade. Aqui estão algumas recomendações para começar:
+
+**Defina os Objetivos e Requisitos do Site**:
+Antes de tudo, é essencial que a equipe tenha uma compreensão clara dos objetivos do site e dos requisitos funcionais. Isso ajudará a orientar todo o processo de desenvolvimento e garantir que todos estejam na mesma página.
+
+**Escolha da Tecnologia e Plataforma**:
+Decida qual tecnologia de desenvolvimento e plataforma será usada para construir o site. Isso pode incluir escolher uma linguagem de programação, um sistema de gerenciamento de conteúdo (CMS) ou até mesmo um framework. Certifique-se de que a escolha seja adequada às necessidades do projeto e às habilidades da equipe.
+
+**Divisão de Tarefas**:
+Atribua tarefas específicas a cada membro da equipe com base em suas habilidades e experiências. Isso ajuda a evitar conflitos de sobreposição e garante que cada aspecto do site esteja sendo tratado de forma adequada.
+
+**Versionamento de Código**:
+Utilize um sistema de controle de versão, como o Git, para gerenciar e rastrear todas as alterações no código-fonte do site. Isso facilita a colaboração, permite o trabalho simultâneo e ajuda a controlar as versões do projeto.
+
+**Comunicação Eficiente**:
+Estabeleça canais de comunicação claros e regulares entre os membros da equipe. Isso pode incluir reuniões regulares, chats instantâneos ou outras ferramentas de colaboração.
+
+**Prototipagem e Design**:
+Crie protótipos e designs antes de começar a desenvolver o site propriamente dito. Isso ajuda a visualizar o layout, a estrutura e os elementos visuais do site antes de investir tempo no desenvolvimento.
+
+**Desenvolvimento Iterativo**:
+Considere adotar uma abordagem de desenvolvimento iterativo, onde você constrói o site em partes menores (iterações) e as aprimora gradualmente. Isso permite ajustes ao longo do caminho e facilita a adaptação a mudanças nos requisitos.
+
+**Testes e Qualidade**:
+Implemente práticas de teste contínuo para identificar e corrigir problemas o mais cedo possível. Teste tanto a funcionalidade quanto a compatibilidade em diferentes navegadores e dispositivos.
+
+**Documentação Adequada**:
+Mantenha uma documentação detalhada do projeto, incluindo requisitos, decisões de design, fluxos de trabalho e qualquer outra informação relevante. Isso ajuda a evitar confusões e facilita a integração de novos membros da equipe.
+
+**Feedback e Revisão**:
+Regularmente revise o progresso do projeto em equipe e solicite feedback de todos os membros. Isso ajuda a identificar problemas e tomar decisões informadas para melhorar o site.
+
+**Gestão de Conflitos**:
+Esteja preparado para lidar com conflitos e desafios de forma construtiva. Mantenha uma cultura de respeito, abertura e colaboração dentro da equipe.
+
+**Prazos e Gerenciamento de Tempo**:
+Estabeleça prazos realistas para cada fase do projeto e utilize ferramentas de gerenciamento de projeto para acompanhar o progresso e garantir que o site seja entregue dentro do prazo.
+
+Lembre-se de que a colaboração e a comunicação são fundamentais para o sucesso de um projeto em equipe. Ao seguir essas recomendações, você estará melhor preparado para iniciar o desenvolvimento de um site de forma eficaz e bem-sucedida.
+
+### Regras de negócios
+
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/f3f62b04-1cec-44a4-a6fa-b133835edfb4" width="200"/>
+
+As regras de negócios desempenham um papel crucial na definição de como a plataforma funciona, como os serviços são prestados e como os usuários interagem com a plataforma. Aqui estão algumas regras de negócios importantes a serem consideradas para um site desse tipo:
+
+1. **Cadastro e Autenticação:**
+
+   - Os prestadores de serviços devem se cadastrar com informações completas e verificáveis.
+   - Os usuários devem se autenticar com segurança para acessar a plataforma.
+   - Verificação de identidade e avaliações dos prestadores de serviços.
+
+2. **Perfil de Prestador de Serviços:**
+
+   - Prestadores de serviços devem criar perfis detalhados com informações sobre suas habilidades, experiência e portfólio.
+   - Inclusão de fotos, descrições de serviços oferecidos e tarifas.
+
+3. **Busca e Filtros:**
+
+   - Os usuários devem poder pesquisar e filtrar os prestadores de serviços com base em categorias, localização, avaliações, etc.
+
+4. **Agendamento e Reservas:**
+
+   - Os usuários devem poder agendar e reservar serviços com prestadores específicos.
+   - Opções para escolher datas, horários e serviços desejados.
+
+5. **Pagamentos e Faturamento:**
+
+   - Processamento seguro de pagamentos online para serviços.
+   - Sistema de faturamento transparente para taxas de serviço e comissões.
+
+6. **Avaliações e Comentários:**
+
+   - Os usuários podem avaliar e deixar comentários sobre os serviços prestados.
+   - Mecanismos para lidar com avaliações falsas ou inadequadas.
+
+7. **Cancelamento e Reembolso:**
+
+   - Políticas claras de cancelamento para prestadores de serviços e clientes.
+   - Processo de reembolso em casos apropriados.
+
+8. **Comunicação e Mensagens:**
+
+   - Plataforma de mensagens para permitir que usuários e prestadores de serviços se comuniquem.
+   - Respeito às diretrizes de privacidade e proteção de dados.
+
+9. **Gerenciamento de Conflitos:**
+
+   - Mecanismos para lidar com disputas entre prestadores de serviços e clientes.
+   - Processo de resolução de conflitos com moderação e imparcialidade.
+
+10. **Políticas de Uso:**
+
+    - Termos de uso claros para todos os usuários da plataforma.
+    - Diretrizes sobre conduta adequada, políticas de conteúdo e conformidade legal.
+
+11. **Privacidade e Proteção de Dados:**
+
+    - Garantia da privacidade das informações pessoais dos usuários.
+    - Adesão a regulamentações de proteção de dados, como o GDPR.
+
+12. **Suporte ao Cliente:**
+    - Fornecimento de suporte ao cliente para resolver problemas e responder a perguntas.
+    - Canais de contato acessíveis e eficientes.
+
+Lembre-se de que essas são apenas algumas regras de negócios a serem consideradas. Cada plataforma de serviços autônomos terá suas próprias necessidades e particularidades, portanto, é importante adaptar essas regras de acordo com a natureza dos serviços oferecidos e os objetivos do negócio.
+
+Exemplo do documento que criamos, ao longo do projeto será atualizado.
+
+<p align="center">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/702004c1-ca98-44da-b2a2-d1de4080bcc6" width="400"/>
+
+[Clique aqui para baixar o PDF][def]
+
+[def]: negocio.pdf
