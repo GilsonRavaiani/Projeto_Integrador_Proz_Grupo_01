@@ -251,7 +251,7 @@ No geral, o Figma √© uma ferramenta poderosa para designers de interface de usu√
 
 ### Iniciando desenvolvimento
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/22a69481-120b-4072-acaa-858d374ea56d" width="300"/>
   <p align="center">
 
