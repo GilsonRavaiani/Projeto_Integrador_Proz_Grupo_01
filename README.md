@@ -249,4 +249,7 @@ O Figma suporta plugins que podem estender sua funcionalidade, permitindo que vo
 
 No geral, o Figma é uma ferramenta poderosa para designers de interface de usuário e equipes de design que desejam colaborar de forma eficaz, criar designs impressionantes e protótipos interativos e manter a consistência ao longo do processo de design. Sua abordagem colaborativa e recursos avançados o tornam uma escolha popular para muitos profissionais de design e desenvolvimento.
 
-### Iniciando desenvolvimento HTML
+### Iniciando desenvolvimento
+
+<p align="center">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/22a69481-120b-4072-acaa-858d374ea56d" width="400"/>
