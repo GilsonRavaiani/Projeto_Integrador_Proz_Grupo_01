@@ -364,3 +364,12 @@ As regras de negócios desempenham um papel crucial na definição de como a pla
     - Canais de contato acessíveis e eficientes.
 
 Lembre-se de que essas são apenas algumas regras de negócios a serem consideradas. Cada plataforma de serviços autônomos terá suas próprias necessidades e particularidades, portanto, é importante adaptar essas regras de acordo com a natureza dos serviços oferecidos e os objetivos do negócio.
+
+Exemplo do documento que criamos, ao longo do projeto será atualizado.
+
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/702004c1-ca98-44da-b2a2-d1de4080bcc6" width="200"/>
+
+[Clique aqui para baixar o PDF][def]
+
+[def]: negocio.pdf
