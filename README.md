@@ -368,7 +368,7 @@ Lembre-se de que essas são apenas algumas regras de negócios a serem considera
 Exemplo do documento que criamos, ao longo do projeto será atualizado.
 
 <p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/702004c1-ca98-44da-b2a2-d1de4080bcc6" width="200"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/702004c1-ca98-44da-b2a2-d1de4080bcc6" width="400"/>
 
 [Clique aqui para baixar o PDF][def]
 
