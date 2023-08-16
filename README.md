@@ -282,7 +282,7 @@ Em resumo, o GitHub é uma ferramenta essencial para o desenvolvimento de softwa
 ### Iniciando desenvolvimento
 
 <p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/86a707d8-b435-4821-87bd-c755e39ada57" width="240"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/86a707d8-b435-4821-87bd-c755e39ada57" width="300"/>
 
 Iniciar o desenvolvimento de um site em equipe envolve uma série de etapas e considerações importantes para garantir um processo eficiente e um resultado de alta qualidade. Aqui estão algumas recomendações para começar:
 
