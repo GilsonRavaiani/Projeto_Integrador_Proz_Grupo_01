@@ -26,19 +26,11 @@ Utilizaremos:
 <p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/628e1097-5609-4d65-8c03-75f685528698" width="600" height="300"/>
 
-**HTML**
-HTML, ou Hypertext Markup Language (Linguagem de Marcação de Hipertexto), é uma linguagem de marcação usada para criar e estruturar o conteúdo de páginas da web. É a base fundamental para a construção de páginas e aplicativos da web e é interpretado pelos navegadores da web para exibir o conteúdo visual e interativo que vemos ao acessar sites.
+**HTML** ou Hypertext Markup Language (Linguagem de Marcação de Hipertexto), é uma linguagem de marcação usada para criar e estruturar o conteúdo de páginas da web. É a base fundamental para a construção de páginas e aplicativos da web e é interpretado pelos navegadores da web para exibir o conteúdo visual e interativo que vemos ao acessar sites.
 
-O HTML permite que os desenvolvedores descrevam a estrutura lógica de uma página da web usando uma combinação de elementos (tags) que indicam a função e o significado de diferentes partes do conteúdo. Essas tags podem ser usadas para criar parágrafos, títulos, imagens, links, formulários, tabelas e muito mais.
+**CSS** ou Cascading Style Sheets (Folhas de Estilo em Cascata), é uma linguagem de estilo utilizada para definir a apresentação visual e o layout de elementos em documentos HTML (Hypertext Markup Language) e outros tipos de documentos XML. Em outras palavras, o CSS é usado para controlar a aparência e a formatação dos elementos de uma página da web, como fontes, cores, margens, espaçamento, posicionamento e muito mais.
 
-**CSS**
-CSS, ou Cascading Style Sheets (Folhas de Estilo em Cascata), é uma linguagem de estilo utilizada para definir a apresentação visual e o layout de elementos em documentos HTML (Hypertext Markup Language) e outros tipos de documentos XML. Em outras palavras, o CSS é usado para controlar a aparência e a formatação dos elementos de uma página da web, como fontes, cores, margens, espaçamento, posicionamento e muito mais.
-
-**JavaScript**
-
-JavaScript é uma linguagem de programação interpretada, versátil e amplamente usada, conhecida por adicionar interatividade, dinamismo e comportamento às páginas da web. Desenvolvida originalmente pela Netscape, JavaScript se tornou uma linguagem padrão para a programação front-end na web, permitindo aos desenvolvedores criar aplicações interativas e experiências de usuário ricas.
-
-Diferente de linguagens como Java ou C++, JavaScript é executado diretamente no navegador da web do usuário, permitindo que as páginas da web respondam a eventos, interações do usuário e manipulação de dados em tempo real. Ele também é usado no desenvolvimento back-end, através do ambiente Node.js, que permite a execução de JavaScript fora do navegador, tornando possível criar aplicativos de servidor.
+**JavaScript** é uma linguagem de programação interpretada, versátil e amplamente usada, conhecida por adicionar interatividade, dinamismo e comportamento às páginas da web. Desenvolvida originalmente pela Netscape, JavaScript se tornou uma linguagem padrão para a programação front-end na web, permitindo aos desenvolvedores criar aplicações interativas e experiências de usuário ricas.
 
 # 🚀 Começando
 
