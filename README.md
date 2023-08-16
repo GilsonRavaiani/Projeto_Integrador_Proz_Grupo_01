@@ -257,7 +257,7 @@ No geral, o Figma é uma ferramenta poderosa para designers de interface de usu�
 O GitHub desempenha um papel fundamental no desenvolvimento de projetos de software e em outras áreas relacionadas à colaboração e controle de versão. Ele oferece uma plataforma centralizada e baseada na web para que desenvolvedores individuais e equipes possam gerenciar, colaborar e compartilhar código-fonte, documentação e recursos relacionados a um projeto. Aqui estão algumas das principais razões pelas quais o GitHub é importante para projetos de desenvolvimento:
 
 <p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/1eb845a5-77ff-4d1d-b6e9-7ff18c52449d" width="240"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/1eb845a5-77ff-4d1d-b6e9-7ff18c52449d" width="400"/>
 
 1. **Controle de Versão:** O GitHub fornece um sistema de controle de versão distribuído, geralmente usando o Git. Isso permite que os desenvolvedores acompanhem as mudanças no código-fonte ao longo do tempo, revertam alterações indesejadas e colaborem em diferentes ramificações do projeto de forma eficiente.
 
@@ -282,7 +282,7 @@ Em resumo, o GitHub é uma ferramenta essencial para o desenvolvimento de softwa
 ### Iniciando desenvolvimento
 
 <p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/86a707d8-b435-4821-87bd-c755e39ada57" width="300"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/86a707d8-b435-4821-87bd-c755e39ada57" width="200"/>
 
 Iniciar o desenvolvimento de um site em equipe envolve uma série de etapas e considerações importantes para garantir um processo eficiente e um resultado de alta qualidade. Aqui estão algumas recomendações para começar:
 
