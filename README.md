@@ -21,7 +21,7 @@
 
 **Tema**: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
 
-Utilizaremos:
+### Utilizaremos:
 
 <p align="center">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/628e1097-5609-4d65-8c03-75f685528698" width="600" height="200"/>
