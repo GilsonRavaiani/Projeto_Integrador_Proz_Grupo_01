@@ -238,7 +238,9 @@ As regras de negócios desempenham um papel crucial na definição de como a pla
     - Garantia da privacidade das informações pessoais dos usuários.
     - Adesão a regulamentações de proteção de dados, como o GDPR.
 
-**Suporte ao Cliente:** - Fornecimento de suporte ao cliente para resolver problemas e responder a perguntas. - Canais de contato acessíveis e eficientes.
+**Suporte ao Cliente**:
+
+    - Fornecimento de suporte ao cliente para resolver problemas e responder a perguntas.      - Canais de contato acessíveis e eficientes.
 
 Exemplo do documento que criamos, ao longo do projeto será atualizado.
 
