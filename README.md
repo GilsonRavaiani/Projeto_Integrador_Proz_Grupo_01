@@ -101,7 +101,7 @@ Para isso, vamos utilizar uma ferramenta chamada **Trello** e vou te explicar co
 
 O **Trello** é uma plataforma de gerenciamento de projetos baseada em quadros virtuais. Ele oferece uma abordagem visual e intuitiva para a organização de tarefas, projetos e fluxos de trabalho. Cada quadro do Trello representa um projeto ou iniciativa, e dentro desses quadros, você cria listas de tarefas ou etapas do processo. As tarefas individuais são representadas por cartões, que podem ser movidos de uma lista para outra à medida que o trabalho progride.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/447dd319-320d-4562-9027-99368e3bfe9b" width="200"/>
 
 ### Importância no Desenvolvimento:
@@ -128,15 +128,15 @@ Em resumo, o Trello desempenha um papel crucial no desenvolvimento, fornecendo u
 
 Nosso quadro Trello para iniciar as atividades em equipe:
 
-<p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="400"/>
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="200"/>
 
 ### Outra ferramenta que estamos utilizando é o **FIGMA**
 
 O Figma é uma plataforma de design de interface de usuário (UI) baseada em nuvem, que permite que equipes de design, desenvolvimento e outras partes interessadas colaborem de forma eficiente no processo de design, prototipagem e criação de interfaces digitais. Ele se destaca por sua abordagem colaborativa em tempo real, eliminando as barreiras geográficas e permitindo que múltiplos membros da equipe trabalhem simultaneamente em projetos de design.
 
-<p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b167f794-ee4e-4651-b747-1b768694145f" width="400"/>
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b167f794-ee4e-4651-b747-1b768694145f" width="200"/>
 
 O Figma é uma ferramenta poderosa para designers de interface de usuário e equipes de design que desejam colaborar de forma eficaz, criar designs impressionantes e protótipos interativos e manter a consistência ao longo do processo de design. Sua abordagem colaborativa e recursos avançados o tornam uma escolha popular para muitos profissionais de design e desenvolvimento.
 
@@ -144,8 +144,8 @@ O Figma é uma ferramenta poderosa para designers de interface de usuário e equ
 
 O GitHub desempenha um papel fundamental no desenvolvimento de projetos de software e em outras áreas relacionadas à colaboração e controle de versão. Ele oferece uma plataforma centralizada e baseada na web para que desenvolvedores individuais e equipes possam gerenciar, colaborar e compartilhar código-fonte, documentação e recursos relacionados a um projeto. Aqui estão algumas das principais razões pelas quais o GitHub é importante para projetos de desenvolvimento:
 
-<p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/1eb845a5-77ff-4d1d-b6e9-7ff18c52449d" width="400"/>
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/1eb845a5-77ff-4d1d-b6e9-7ff18c52449d" width="200"/>
 
 O GitHub é uma ferramenta essencial para o desenvolvimento de software moderno, proporcionando uma maneira eficaz de colaborar, gerenciar e compartilhar projetos, além de facilitar a comunicação e o trabalho em equipe em um ambiente digital.
 
