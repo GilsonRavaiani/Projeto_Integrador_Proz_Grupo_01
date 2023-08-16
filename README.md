@@ -233,7 +233,7 @@ As regras de negócios desempenham um papel crucial na definição de como a pla
     - Termos de uso claros para todos os usuários da plataforma.
     - Diretrizes sobre conduta adequada, políticas de conteúdo e conformidade legal.
 
-**Privacidade e Proteção de Dados:**
+**Privacidade e Proteção de Dados**:
 
     - Garantia da privacidade das informações pessoais dos usuários.
     - Adesão a regulamentações de proteção de dados, como o GDPR.
