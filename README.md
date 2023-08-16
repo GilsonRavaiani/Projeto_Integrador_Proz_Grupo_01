@@ -102,7 +102,7 @@ Para isso, vamos utilizar uma ferramenta chamada **Trello** e vou te explicar co
 O **Trello** é uma plataforma de gerenciamento de projetos baseada em quadros virtuais. Ele oferece uma abordagem visual e intuitiva para a organização de tarefas, projetos e fluxos de trabalho. Cada quadro do Trello representa um projeto ou iniciativa, e dentro desses quadros, você cria listas de tarefas ou etapas do processo. As tarefas individuais são representadas por cartões, que podem ser movidos de uma lista para outra à medida que o trabalho progride.
 
 <p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/447dd319-320d-4562-9027-99368e3bfe9b" width="400"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/447dd319-320d-4562-9027-99368e3bfe9b" width="200"/>
 
 ### Importância no Desenvolvimento:
 
