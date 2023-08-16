@@ -19,103 +19,23 @@
 - Gilson Antunes Ravaiani
 - Marcelo Nascimento dos Santos</p>
 
-### Definição de equipe:
-
-Uma equipe de trabalho é um grupo de indivíduos que se reúnem para alcançar um objetivo ou realizar uma tarefa específica. Essa colaboração envolve a combinação de habilidades, conhecimentos e esforços individuais em prol de um objetivo comum. As equipes de trabalho podem variar em tamanho e composição, mas todas compartilham a característica fundamental de trabalhar em conjunto para atingir um propósito definido.
-
-### Características principais de uma equipe de trabalho incluem:
-
-- **Objetivo Comum**: As equipes são formadas com um objetivo ou meta específica em mente, que pode ser um projeto, a solução de um problema, a realização de uma tarefa ou a conquista de um resultado específico.
-
-- **Colaboração**: Os membros da equipe colaboram e interagem para combinar suas habilidades e conhecimentos, aproveitando as perspectivas e experiências de cada membro para alcançar resultados melhores.
-
-- **Habilidades Diversas**: As equipes frequentemente consistem em indivíduos com diferentes conjuntos de habilidades, experiências e conhecimentos, o que permite uma abordagem abrangente para lidar com desafios complexos.
-
-- **Comunicação**: A comunicação eficaz é fundamental em uma equipe de trabalho, permitindo que os membros coordenem suas ações, compartilhem informações, discutam ideias e resolvam problemas.
-
-- **Responsabilidade Compartilhada**: Os membros da equipe compartilham a responsabilidade pelo progresso e sucesso do projeto, bem como por quaisquer obstáculos que possam surgir.
-
-- **Apoio Mútuo**: Uma equipe de trabalho bem-sucedida incentiva o apoio mútuo entre seus membros, oferecendo ajuda, orientação e feedback uns aos outros.
-
-- **Tomada de Decisão Coletiva**: A tomada de decisão é frequentemente um processo colaborativo, no qual os membros discutem e avaliam opções antes de escolher o caminho a seguir.
-
-- **Sinergia**: A combinação das habilidades e esforços individuais muitas vezes resulta em sinergia, onde a equipe pode alcançar mais do que os membros poderiam fazer individualmente.
-
-Equipes de trabalho podem ser encontradas em vários contextos, como ambiente corporativo, educação, organizações sem fins lucrativos, projetos de desenvolvimento, pesquisa científica, esportes e muito mais. A eficácia de uma equipe de trabalho depende da coesão, comunicação, liderança e colaboração entre seus membros, além de uma clara definição de metas e papéis.
-
 **Tema**: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
 
-Utilizaremos:
+### Utilizaremos:
 
 <p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/628e1097-5609-4d65-8c03-75f685528698" width="600" height="300"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/628e1097-5609-4d65-8c03-75f685528698" width="600" height="200"/>
 
-**HTML**
-HTML, ou Hypertext Markup Language (Linguagem de Marcação de Hipertexto), é uma linguagem de marcação usada para criar e estruturar o conteúdo de páginas da web. É a base fundamental para a construção de páginas e aplicativos da web e é interpretado pelos navegadores da web para exibir o conteúdo visual e interativo que vemos ao acessar sites.
+**HTML** ou Hypertext Markup Language (Linguagem de Marcação de Hipertexto), é uma linguagem de marcação usada para criar e estruturar o conteúdo de páginas da web. É a base fundamental para a construção de páginas e aplicativos da web e é interpretado pelos navegadores da web para exibir o conteúdo visual e interativo que vemos ao acessar sites.
 
-O HTML permite que os desenvolvedores descrevam a estrutura lógica de uma página da web usando uma combinação de elementos (tags) que indicam a função e o significado de diferentes partes do conteúdo. Essas tags podem ser usadas para criar parágrafos, títulos, imagens, links, formulários, tabelas e muito mais.
+**CSS** ou Cascading Style Sheets (Folhas de Estilo em Cascata), é uma linguagem de estilo utilizada para definir a apresentação visual e o layout de elementos em documentos HTML (Hypertext Markup Language) e outros tipos de documentos XML. Em outras palavras, o CSS é usado para controlar a aparência e a formatação dos elementos de uma página da web, como fontes, cores, margens, espaçamento, posicionamento e muito mais.
 
-**CSS**
-CSS, ou Cascading Style Sheets (Folhas de Estilo em Cascata), é uma linguagem de estilo utilizada para definir a apresentação visual e o layout de elementos em documentos HTML (Hypertext Markup Language) e outros tipos de documentos XML. Em outras palavras, o CSS é usado para controlar a aparência e a formatação dos elementos de uma página da web, como fontes, cores, margens, espaçamento, posicionamento e muito mais.
-
-O CSS permite separar a estrutura (HTML) do estilo (design visual), tornando a manutenção e a atualização dos sites mais eficientes e consistentes. Ele também possibilita que os desenvolvedores controlem a aparência de várias páginas em um site com facilidade, aplicando estilos consistentes em toda a aplicação.
-
-### Principais conceitos e características do CSS:
-
-**Seletores**: São padrões que indicam quais elementos HTML serão estilizados. Por exemplo, um seletor pode ser um nome de classe (.classe) ou um elemento específico (h1).
-
-**Propriedades\***: São os atributos que definem o estilo de um elemento. Por exemplo, color, font-size, margin, padding, etc.
-
-**Valores**: São os valores que você atribui às propriedades. Por exemplo, red, 12px, 2em, etc.
-
-**Cascata**: Refere-se à ordem de aplicação das regras CSS. Caso haja conflitos entre regras, a especificidade do seletor e a ordem de declaração determinam qual regra é aplicada.
-
-**Herança**: Algumas propriedades CSS são herdadas dos elementos pais para os elementos filhos, o que ajuda a manter uma certa consistência no design.
-
-**Classe e ID**: São atributos usados para selecionar elementos específicos no HTML e aplicar estilos a eles. As classes podem ser aplicadas a vários elementos, enquanto os IDs devem ser únicos em uma página.
-
-**Pseudo-classes e Pseudo-elementos**: Permitem selecionar elementos em estados específicos (como :hover para estilos de hover) ou criar estilos para partes específicas de um elemento (como ::before para adicionar conteúdo antes de um elemento).
-
-**Layout Responsivo**: O CSS é fundamental para criar layouts responsivos, que se adaptam a diferentes tamanhos de tela e dispositivos, garantindo uma boa experiência do usuário em diversos contextos.
-
-**Precedência**: Define qual regra CSS será aplicada em caso de conflitos. A precedência é determinada pela combinação de seletores e suas especificidades.
-
-**Frameworks e Pré-processadores**: Existem frameworks CSS, como Bootstrap e Foundation, que oferecem estilos e componentes pré-definidos para agilizar o desenvolvimento. Pré-processadores como Sass e LESS permitem escrever CSS de forma mais eficiente usando recursos como variáveis, funções e aninhamento.
-
-O CSS é essencial para criar interfaces web atraentes e funcionais. Ele trabalha em conjunto com o HTML e, mais recentemente, com o JavaScript, para proporcionar uma experiência visual agradável e interativa aos usuários que visitam páginas da web.
-
-**JavaScript**
-
-JavaScript é uma linguagem de programação interpretada, versátil e amplamente usada, conhecida por adicionar interatividade, dinamismo e comportamento às páginas da web. Desenvolvida originalmente pela Netscape, JavaScript se tornou uma linguagem padrão para a programação front-end na web, permitindo aos desenvolvedores criar aplicações interativas e experiências de usuário ricas.
-
-Diferente de linguagens como Java ou C++, JavaScript é executado diretamente no navegador da web do usuário, permitindo que as páginas da web respondam a eventos, interações do usuário e manipulação de dados em tempo real. Ele também é usado no desenvolvimento back-end, através do ambiente Node.js, que permite a execução de JavaScript fora do navegador, tornando possível criar aplicativos de servidor.
-
-### Características e funcionalidades chave do JavaScript:
-
-**Interatividade**: JavaScript permite a criação de elementos interativos, como botões, formulários, animações e janelas modais, tornando as páginas da web mais envolventes e responsivas.
-
-**Manipulação do DOM**: Através do Document Object Model (DOM), JavaScript pode acessar e modificar elementos HTML e estilos dinamicamente, permitindo atualizar a página sem recarregar.
-
-**Eventos**: JavaScript possibilita a captura e resposta a eventos, como cliques de mouse, teclas pressionadas e carregamento da página, permitindo que ações sejam acionadas pelo usuário.
-
-**Comunicação Assíncrona**: Com AJAX (Asynchronous JavaScript and XML), JavaScript pode fazer solicitações assíncronas ao servidor, atualizando partes específicas da página sem recarregar toda a página.
-
-**Programação Orientada a Objetos**: JavaScript suporta programação orientada a objetos, permitindo a criação e manipulação de objetos e classes para melhor organizar e estruturar o código.
-
-**Bibliotecas e Frameworks**: Há uma ampla variedade de bibliotecas e frameworks JavaScript, como jQuery, React, Angular e Vue.js, que facilitam tarefas específicas e aceleram o desenvolvimento de aplicações complexas.
-
-**Assincronia e Promises**: JavaScript lida bem com operações assíncronas usando Promises, que simplificam a escrita de código assíncrono e melhoram o tratamento de erros.
-
-**Modularidade**: JavaScript permite organizar o código em módulos reutilizáveis, melhorando a manutenção e legibilidade do código.
-
-**Ecossistema Amplo**: JavaScript é suportado por todos os principais navegadores e é usado tanto no desenvolvimento front-end quanto back-end, através do Node.js, tornando-o uma das linguagens mais versáteis do mundo da programação.
-
-JavaScript desempenha um papel fundamental na criação de experiências interativas na web, sendo um componente essencial para o desenvolvimento web moderno. Sua versatilidade e vasta comunidade de desenvolvedores continuam impulsionando a inovação e o crescimento na criação de aplicativos web e móveis.
+**JavaScript** é uma linguagem de programação interpretada, versátil e amplamente usada, conhecida por adicionar interatividade, dinamismo e comportamento às páginas da web. Desenvolvida originalmente pela Netscape, JavaScript se tornou uma linguagem padrão para a programação front-end na web, permitindo aos desenvolvedores criar aplicações interativas e experiências de usuário ricas.
 
 # 🚀 Começando
 
 <p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/22a69481-120b-4072-acaa-858d374ea56d" width="200"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/22a69481-120b-4072-acaa-858d374ea56d" width="150"/>
 
 <table>
   <tr>
@@ -154,7 +74,7 @@ Junte-se a nós hoje mesmo e faça parte dessa comunidade vibrante de talento e 
 ### Agora vamos conhecer a ideia original de nossa plataforma
 
 <p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/625f1a6c-5e0a-4f9b-98bb-879ad128525f" width="200"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/625f1a6c-5e0a-4f9b-98bb-879ad128525f" width="150"/>
 
 **WhatService** é um site brasileiro que atua como uma plataforma online de contratação de serviços. Ele conecta pessoas que estão procurando por serviços diversos a profissionais autônomos ou empresas que oferecem esses serviços. A plataforma abrange uma ampla variedade de categorias, incluindo serviços domésticos, reformas, aulas particulares, serviços de tecnologia, serviços de saúde, entre outros.
 
@@ -175,14 +95,14 @@ O **WhatService** facilita a busca por profissionais e serviços, tornando o pro
 ### Vamos colocar mão na massa e iniciar nossas atividades
 
 <p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="150"/>
 
 Para isso, vamos utilizar uma ferramenta chamada **Trello** e vou te explicar como ela funciona e a importancia:
 
 O **Trello** é uma plataforma de gerenciamento de projetos baseada em quadros virtuais. Ele oferece uma abordagem visual e intuitiva para a organização de tarefas, projetos e fluxos de trabalho. Cada quadro do Trello representa um projeto ou iniciativa, e dentro desses quadros, você cria listas de tarefas ou etapas do processo. As tarefas individuais são representadas por cartões, que podem ser movidos de uma lista para outra à medida que o trabalho progride.
 
-<p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/447dd319-320d-4562-9027-99368e3bfe9b" width="400"/>
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/447dd319-320d-4562-9027-99368e3bfe9b" width="200"/>
 
 ### Importância no Desenvolvimento:
 
@@ -208,54 +128,31 @@ Em resumo, o Trello desempenha um papel crucial no desenvolvimento, fornecendo u
 
 Nosso quadro Trello para iniciar as atividades em equipe:
 
-<p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="400"/>
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="200"/>
 
 ### Outra ferramenta que estamos utilizando é o **FIGMA**
 
 O Figma é uma plataforma de design de interface de usuário (UI) baseada em nuvem, que permite que equipes de design, desenvolvimento e outras partes interessadas colaborem de forma eficiente no processo de design, prototipagem e criação de interfaces digitais. Ele se destaca por sua abordagem colaborativa em tempo real, eliminando as barreiras geográficas e permitindo que múltiplos membros da equipe trabalhem simultaneamente em projetos de design.
 
-<p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b167f794-ee4e-4651-b747-1b768694145f" width="400"/>
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b167f794-ee4e-4651-b747-1b768694145f" width="200"/>
 
-Aqui estão detalhes sobre o Figma e suas principais funções:
+O Figma é uma ferramenta poderosa para designers de interface de usuário e equipes de design que desejam colaborar de forma eficaz, criar designs impressionantes e protótipos interativos e manter a consistência ao longo do processo de design. Sua abordagem colaborativa e recursos avançados o tornam uma escolha popular para muitos profissionais de design e desenvolvimento.
 
-**Interface Baseada em Nuvem**:
-O Figma é uma ferramenta baseada em nuvem, o que significa que você pode acessá-la através de um navegador da web, sem a necessidade de instalação de software adicional. Isso permite que você trabalhe em qualquer lugar e a qualquer momento, além de facilitar a colaboração entre membros da equipe.
+### GitHub
 
-**Design de Interface de Usuário**:
-O Figma é amplamente utilizado para criar designs de interfaces de usuário, como sites, aplicativos móveis e outras experiências digitais. Ele oferece uma variedade de ferramentas para desenhar elementos de interface, como botões, ícones, formulários e muito mais.
+O GitHub desempenha um papel fundamental no desenvolvimento de projetos de software e em outras áreas relacionadas à colaboração e controle de versão. Ele oferece uma plataforma centralizada e baseada na web para que desenvolvedores individuais e equipes possam gerenciar, colaborar e compartilhar código-fonte, documentação e recursos relacionados a um projeto. Aqui estão algumas das principais razões pelas quais o GitHub é importante para projetos de desenvolvimento:
 
-**Prototipagem Interativa**:
-Com o Figma, você pode criar protótipos interativos que simulam a navegação e a interação dentro de um aplicativo ou site. Isso é útil para validar fluxos de usuário, testar funcionalidades e obter feedback antes da implementação.
+<p align="left">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/1eb845a5-77ff-4d1d-b6e9-7ff18c52449d" width="200"/>
 
-**Componentes e Símbolos**:
-O Figma permite criar componentes reutilizáveis e símbolos, o que é especialmente útil para manter a consistência e eficiência no design. Qualquer alteração feita em um componente ou símbolo é refletida automaticamente em todas as instâncias desse elemento.
-
-**Colaboração em Tempo Real**:
-Uma das maiores vantagens do Figma é sua capacidade de colaboração em tempo real. Vários membros da equipe podem trabalhar simultaneamente em um projeto, ver as alterações em tempo real e até mesmo comentar diretamente no design.
-
-**Comentários e Feedback**:
-O Figma facilita a comunicação entre membros da equipe, permitindo que eles deixem comentários específicos em elementos de design. Isso simplifica a troca de feedback e a comunicação de alterações necessárias.
-
-**Integração com Ferramentas de Desenvolvimento**:
-O Figma oferece recursos para exportar ativos e designs para diferentes formatos de arquivo, facilitando a colaboração entre designers e desenvolvedores. Além disso, ele oferece integrações com outras ferramentas populares, como Zeplin e Framer.
-
-**Versões e Histórico**:
-O Figma mantém um histórico de versões de seus designs, permitindo que você reverta para versões anteriores se necessário. Isso é útil para rastrear mudanças e fazer ajustes retroativos.
-
-**Acessibilidade e Responsividade**:
-O Figma oferece recursos para criar designs acessíveis e responsivos, permitindo que você projete experiências que funcionem bem em diferentes dispositivos e atendam a diversos públicos.
-
-**Plugins e Automação**:
-O Figma suporta plugins que podem estender sua funcionalidade, permitindo que você automatize tarefas, adicione recursos personalizados e integre-se a outras ferramentas.
-
-No geral, o Figma é uma ferramenta poderosa para designers de interface de usuário e equipes de design que desejam colaborar de forma eficaz, criar designs impressionantes e protótipos interativos e manter a consistência ao longo do processo de design. Sua abordagem colaborativa e recursos avançados o tornam uma escolha popular para muitos profissionais de design e desenvolvimento.
+O GitHub é uma ferramenta essencial para o desenvolvimento de software moderno, proporcionando uma maneira eficaz de colaborar, gerenciar e compartilhar projetos, além de facilitar a comunicação e o trabalho em equipe em um ambiente digital.
 
 ### Iniciando desenvolvimento
 
 <p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/86a707d8-b435-4821-87bd-c755e39ada57" width="240"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/86a707d8-b435-4821-87bd-c755e39ada57" width="200"/>
 
 Iniciar o desenvolvimento de um site em equipe envolve uma série de etapas e considerações importantes para garantir um processo eficiente e um resultado de alta qualidade. Aqui estão algumas recomendações para começar:
 
@@ -304,66 +201,62 @@ Lembre-se de que a colaboração e a comunicação são fundamentais para o suce
 
 As regras de negócios desempenham um papel crucial na definição de como a plataforma funciona, como os serviços são prestados e como os usuários interagem com a plataforma. Aqui estão algumas regras de negócios importantes a serem consideradas para um site desse tipo:
 
-1. **Cadastro e Autenticação:**
+**Cadastro e Autenticação:**
 
-   - Os prestadores de serviços devem se cadastrar com informações completas e verificáveis.
-   - Os usuários devem se autenticar com segurança para acessar a plataforma.
-   - Verificação de identidade e avaliações dos prestadores de serviços.
+- Os prestadores de serviços devem se cadastrar com informações completas e verificáveis.
+- Os usuários devem se autenticar com segurança para acessar a plataforma.
+- Verificação de identidade e avaliações dos prestadores de serviços.
 
-2. **Perfil de Prestador de Serviços:**
+**Perfil de Prestador de Serviços:**
 
-   - Prestadores de serviços devem criar perfis detalhados com informações sobre suas habilidades, experiência e portfólio.
-   - Inclusão de fotos, descrições de serviços oferecidos e tarifas.
+- Prestadores de serviços devem criar perfis detalhados com informações sobre suas habilidades, experiência e portfólio.
+- Inclusão de fotos, descrições de serviços oferecidos e tarifas.
 
-3. **Busca e Filtros:**
+**Busca e Filtros:**
 
-   - Os usuários devem poder pesquisar e filtrar os prestadores de serviços com base em categorias, localização, avaliações, etc.
+- Os usuários devem poder pesquisar e filtrar os prestadores de serviços com base em categorias, localização, avaliações, etc.
 
-4. **Agendamento e Reservas:**
+**Agendamento e Reservas:**
 
-   - Os usuários devem poder agendar e reservar serviços com prestadores específicos.
-   - Opções para escolher datas, horários e serviços desejados.
+- Os usuários devem poder agendar e reservar serviços com prestadores específicos.
+- Opções para escolher datas, horários e serviços desejados.
 
-5. **Pagamentos e Faturamento:**
+**Pagamentos e Faturamento:**
 
-   - Processamento seguro de pagamentos online para serviços.
-   - Sistema de faturamento transparente para taxas de serviço e comissões.
+- Processamento seguro de pagamentos online para serviços.
+- Sistema de faturamento transparente para taxas de serviço e comissões.
 
-6. **Avaliações e Comentários:**
+**Avaliações e Comentários:**
 
-   - Os usuários podem avaliar e deixar comentários sobre os serviços prestados.
-   - Mecanismos para lidar com avaliações falsas ou inadequadas.
+- Os usuários podem avaliar e deixar comentários sobre os serviços prestados.
+- Mecanismos para lidar com avaliações falsas ou inadequadas.
 
-7. **Cancelamento e Reembolso:**
+**Cancelamento e Reembolso:**
 
-   - Políticas claras de cancelamento para prestadores de serviços e clientes.
-   - Processo de reembolso em casos apropriados.
+- Políticas claras de cancelamento para prestadores de serviços e clientes.
+- Processo de reembolso em casos apropriados.
 
-8. **Comunicação e Mensagens:**
+**Comunicação e Mensagens:**
 
-   - Plataforma de mensagens para permitir que usuários e prestadores de serviços se comuniquem.
-   - Respeito às diretrizes de privacidade e proteção de dados.
+- Plataforma de mensagens para permitir que usuários e prestadores de serviços se comuniquem.
+- Respeito às diretrizes de privacidade e proteção de dados.
 
-9. **Gerenciamento de Conflitos:**
+**Gerenciamento de Conflitos:**
 
-   - Mecanismos para lidar com disputas entre prestadores de serviços e clientes.
-   - Processo de resolução de conflitos com moderação e imparcialidade.
+- Mecanismos para lidar com disputas entre prestadores de serviços e clientes.
+- Processo de resolução de conflitos com moderação e imparcialidade.
 
-10. **Políticas de Uso:**
+**Políticas de Uso:**
 
     - Termos de uso claros para todos os usuários da plataforma.
     - Diretrizes sobre conduta adequada, políticas de conteúdo e conformidade legal.
 
-11. **Privacidade e Proteção de Dados:**
+**Privacidade e Proteção de Dados:**
 
     - Garantia da privacidade das informações pessoais dos usuários.
     - Adesão a regulamentações de proteção de dados, como o GDPR.
 
-12. **Suporte ao Cliente:**
-    - Fornecimento de suporte ao cliente para resolver problemas e responder a perguntas.
-    - Canais de contato acessíveis e eficientes.
-
-Lembre-se de que essas são apenas algumas regras de negócios a serem consideradas. Cada plataforma de serviços autônomos terá suas próprias necessidades e particularidades, portanto, é importante adaptar essas regras de acordo com a natureza dos serviços oferecidos e os objetivos do negócio.
+**Suporte ao Cliente:** - Fornecimento de suporte ao cliente para resolver problemas e responder a perguntas. - Canais de contato acessíveis e eficientes.
 
 Exemplo do documento que criamos, ao longo do projeto será atualizado.
 
