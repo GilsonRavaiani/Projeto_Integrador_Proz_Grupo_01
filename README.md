@@ -252,6 +252,33 @@ O Figma suporta plugins que podem estender sua funcionalidade, permitindo que vo
 
 No geral, o Figma é uma ferramenta poderosa para designers de interface de usuário e equipes de design que desejam colaborar de forma eficaz, criar designs impressionantes e protótipos interativos e manter a consistência ao longo do processo de design. Sua abordagem colaborativa e recursos avançados o tornam uma escolha popular para muitos profissionais de design e desenvolvimento.
 
+### GitHub
+
+O GitHub desempenha um papel fundamental no desenvolvimento de projetos de software e em outras áreas relacionadas à colaboração e controle de versão. Ele oferece uma plataforma centralizada e baseada na web para que desenvolvedores individuais e equipes possam gerenciar, colaborar e compartilhar código-fonte, documentação e recursos relacionados a um projeto. Aqui estão algumas das principais razões pelas quais o GitHub é importante para projetos de desenvolvimento:
+
+<p align="center">
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/1eb845a5-77ff-4d1d-b6e9-7ff18c52449d" width="240"/>
+
+1. **Controle de Versão:** O GitHub fornece um sistema de controle de versão distribuído, geralmente usando o Git. Isso permite que os desenvolvedores acompanhem as mudanças no código-fonte ao longo do tempo, revertam alterações indesejadas e colaborem em diferentes ramificações do projeto de forma eficiente.
+
+2. **Colaboração Distribuída:** O GitHub possibilita que equipes de desenvolvimento colaborem em projetos, independentemente de sua localização geográfica. Vários desenvolvedores podem trabalhar simultaneamente no mesmo projeto, mesclando suas contribuições de maneira organizada e controlada.
+
+3. **Gestão de Problemas e Tarefas:** O GitHub oferece um sistema integrado para rastreamento de problemas e gerenciamento de tarefas. Os desenvolvedores podem criar problemas para relatar bugs, solicitar recursos ou discutir melhorias, e as equipes podem atribuir, priorizar e acompanhar o progresso dessas tarefas.
+
+4. **Revisão de Código:** A funcionalidade de "Pull Requests" (ou "Pull Requests") do GitHub permite que os desenvolvedores solicitem revisões de código de seus colegas. Isso facilita o processo de revisão, aprovação e integração de alterações no projeto.
+
+5. **Documentação e Colaboração em Equipe:** O GitHub não se limita apenas ao código-fonte. Ele suporta a criação de wikis, documentação e recursos que podem ser úteis para a equipe de desenvolvimento e para os usuários finais.
+
+6. **Acesso Público e Privado:** O GitHub oferece opções para hospedar repositórios públicos e privados. Isso permite que os desenvolvedores escolham se desejam compartilhar seu código com a comunidade em geral ou manter seu trabalho em um ambiente mais restrito.
+
+7. **Integração com Ferramentas:** O GitHub pode ser integrado com várias ferramentas de desenvolvimento, automação e implantação, como serviços de integração contínua (CI) e implantação contínua (CD), facilitando o fluxo de trabalho de desenvolvimento.
+
+8. **Portfólio e Reconhecimento:** Para desenvolvedores individuais, o GitHub pode servir como um portfólio público de projetos e contribuições, permitindo que eles demonstrem suas habilidades e experiência para potenciais empregadores ou colaboradores.
+
+9. **Acesso à Comunidade e Aprendizado:** O GitHub é uma plataforma central para muitos projetos de código aberto e bibliotecas. Isso oferece a oportunidade de se envolver com a comunidade de desenvolvedores, aprender com o código de outros projetos e contribuir para projetos significativos.
+
+Em resumo, o GitHub é uma ferramenta essencial para o desenvolvimento de software moderno, proporcionando uma maneira eficaz de colaborar, gerenciar e compartilhar projetos, além de facilitar a comunicação e o trabalho em equipe em um ambiente digital.
+
 ### Iniciando desenvolvimento
 
 <p align="left">
