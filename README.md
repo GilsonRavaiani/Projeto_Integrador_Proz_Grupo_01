@@ -95,7 +95,7 @@ O **WhatService** facilita a busca por profissionais e serviços, tornando o pro
 ### Vamos colocar mão na massa e iniciar nossas atividades
 
 <p align="left">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="200"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/b02ddc6a-b2c5-4e28-992b-8bd529349a0d" width="150"/>
 
 Para isso, vamos utilizar uma ferramenta chamada **Trello** e vou te explicar como ela funciona e a importancia:
 
