@@ -131,7 +131,7 @@ O GitHub desempenha um papel fundamental no desenvolvimento de projetos de softw
 
 O GitHub é uma ferramenta essencial para o desenvolvimento de software moderno, proporcionando uma maneira eficaz de colaborar, gerenciar e compartilhar projetos, além de facilitar a comunicação e o trabalho em equipe em um ambiente digital.
 
-[GitHub](https://github.com/ "GitHub")
+[Acesse o link e veja o nosso <strong>GitHub</strong>](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01 "Acesse o link e veja o nosso GitHub")
 
 ### Iniciando desenvolvimento
 
