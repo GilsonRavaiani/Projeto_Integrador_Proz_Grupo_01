@@ -14,6 +14,8 @@
 
 **GRUPO 1**:
 
+Conecte-se conosco:
+
 - Erik Willams Matias Vasconcelos - [<strong>Linkedin</strong>](https://www.linkedin.com/in/erikdevasconcelos)
 - Fillipe Albuquerque
 - Gilson Antunes Ravaiani - [<strong>Linkedin</strong>](https://www.linkedin.com/in/gilson-antunes-ravaiani/)
