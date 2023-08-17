@@ -1,51 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Cadastro de autônomos</title>
-    
-    <style>
-        label, input {
-            display: block;
-            margin-bottom: 10px;
-        }
-        label {
-            width: 150px;
-            float: left;
-            clear: left;
-            text-align: right;
-            padding-right: 10px;
-        }
-        input {
-            width: 300px;
-            float: left;
-        }
-    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Document</title>
 </head>
 <body>
+    <h1>Cadastro de autônomos</h1>
 
-<h1>Cadastro de autônomos</h1>
-
-<form action="processar_formulario.php" method="POST" enctype="multipart/form-data">
+<form action="">
     <label for="foto">Foto:</label>
-    <input type="file" id="foto" name="foto"><br>
+    <input type="file" id="foto" name="foto">
     
     <label for="nome">Nome:</label>
-    <input type="text" id="nome" name="nome" required><br>
+    <input type="text" id="nome" name="nome" required>
     
     <label for="sobrenome">Sobrenome:</label>
-    <input type="text" id="sobrenome" name="sobrenome" required><br>
+    <input type="text" id="sobrenome" name="sobrenome" required>
     
     <label for="trabalho">Trabalho de Atuação:</label>
-    <input type="text" id="trabalho" name="trabalho"><br>
+    <input type="text" id="trabalho" name="trabalho">
+
+    <label for="email">E-mail:</label>
+    <input type="email" id="email" name="email">
     
     <label for="telefone">Telefone com WhatsApp:</label>
-    <input type="tel" id="telefone" name="telefone" pattern="[0-9]{10,14}" required><br>
+    <input type="tel" id="telefone" name="telefone" pattern="[0-9]{10,14}" required>
     
-    <div style="clear: both;"></div> <!-- Limpar floats após os campos -->
+    <label for="whatsapp">Possui WhatsApp?</label>
+    <input type="checkbox" id="whatsapp" name="whatsapp" value="Sim">
+
+    <div style="clear: both;"></div>
     
     <input type="submit" value="Enviar">
     <input type="reset" value="Limpar">
 </form>
-
 </body>
 </html>
