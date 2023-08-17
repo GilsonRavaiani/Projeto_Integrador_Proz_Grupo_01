@@ -17,7 +17,7 @@
 Conecte-se conosco:
 
 - Erik Willams Matias Vasconcelos - [<strong>Linkedin</strong>](https://www.linkedin.com/in/erikdevasconcelos)
-- Fillipe Albuquerque
+- Fillipe Albuquerque - [<strong>Linkedin</strong>](https://www.linkedin.com/in/fillipe30)
 - Gilson Antunes Ravaiani - [<strong>Linkedin</strong>](https://www.linkedin.com/in/gilson-antunes-ravaiani/)
 - Marcelo Nascimento dos Santos - [<strong>Linkedin</strong>](https://www.linkedin.com/in/marceloef/) </p>
 
