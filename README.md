@@ -260,3 +260,5 @@ Exemplo do documento que criamos, ao longo do projeto será atualizado.
 [def]: Documentos/negocio.pdf
 
 [Acesse o link e acompanhe o desenvolvimento de nosso site <strong>WhatService</strong>](http://whatservice.s3-website-us-east-1.amazonaws.com/)
+
+Preparandp apresentação Sprit 02
