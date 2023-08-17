@@ -24,7 +24,7 @@
 ### Utilizaremos:
 
 <p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/628e1097-5609-4d65-8c03-75f685528698" width="200" height="100"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/889b6730-66a1-4c6a-99ce-fc623da05704" width="800" height="312"/>
 
 **HTML** ou Hypertext Markup Language (Linguagem de Marcação de Hipertexto), é uma linguagem de marcação usada para criar e estruturar o conteúdo de páginas da web. É a base fundamental para a construção de páginas e aplicativos da web e é interpretado pelos navegadores da web para exibir o conteúdo visual e interativo que vemos ao acessar sites.
 
