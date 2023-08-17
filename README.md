@@ -14,17 +14,19 @@
 
 **GRUPO 1**:
 
-- Erik Willams Matias Vasconcelos
+Conecte-se conosco:
+
+- Erik Willams Matias Vasconcelos - [<strong>Linkedin</strong>](https://www.linkedin.com/in/erikdevasconcelos)
 - Fillipe Albuquerque
-- Gilson Antunes Ravaiani
-- Marcelo Nascimento dos Santos</p>
+- Gilson Antunes Ravaiani - [<strong>Linkedin</strong>](https://www.linkedin.com/in/gilson-antunes-ravaiani/)
+- Marcelo Nascimento dos Santos - [<strong>Linkedin</strong>](https://www.linkedin.com/in/marceloef/) </p>
 
 **Tema**: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
 
 ### Utilizaremos:
 
 <p align="center">
-  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/628e1097-5609-4d65-8c03-75f685528698" width="600" height="200"/>
+  <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/889b6730-66a1-4c6a-99ce-fc623da05704" width="800" height="312"/>
 
 **HTML** ou Hypertext Markup Language (Linguagem de Marcação de Hipertexto), é uma linguagem de marcação usada para criar e estruturar o conteúdo de páginas da web. É a base fundamental para a construção de páginas e aplicativos da web e é interpretado pelos navegadores da web para exibir o conteúdo visual e interativo que vemos ao acessar sites.
 
@@ -106,30 +108,14 @@ O **Trello** é uma plataforma de gerenciamento de projetos baseada em quadros v
 
 ### Importância no Desenvolvimento:
 
-**Visualização Clara**: O Trello fornece uma representação visual clara do progresso de um projeto. Equipes podem facilmente entender o status das tarefas, o que está em andamento e o que foi concluído.
-
-**Organização Flexível**: A estrutura de quadros, listas e cartões é altamente adaptável. Isso permite que as equipes personalizem o Trello para se adequar às suas necessidades e processos de desenvolvimento específicos.
-
-**Colaboração Eficiente**: O Trello promove a colaboração entre membros da equipe, permitindo a atribuição de tarefas, comentários, anexos e discussões diretamente nos cartões. Isso ajuda a manter todos na mesma página.
-
-**Priorização e Gerenciamento de Tarefas**: As equipes podem priorizar tarefas, estabelecer prazos e atribuir responsabilidades. O movimento de cartões entre listas reflete a progressão das tarefas, facilitando o acompanhamento.
-
-**Transparência**: Todos os membros da equipe têm visibilidade sobre o progresso e o status do projeto, o que incentiva a comunicação e a prestação de contas.
-
-**Acessibilidade e Mobilidade**: O Trello está disponível em várias plataformas, incluindo web e aplicativos móveis. Isso permite que as equipes acessem e atualizem informações importantes em qualquer lugar.
-
-**Integrações**: O Trello pode ser integrado a várias outras ferramentas e serviços, como Slack, Google Drive e GitHub. Isso facilita a centralização das informações e a automação de fluxos de trabalho.
-
-**Agilidade**: O Trello é particularmente adequado para equipes que seguem metodologias ágeis, como Scrum ou Kanban, devido à sua natureza visual e à facilidade de reorganização das tarefas.
-
-**Acompanhamento do Progresso**: Os relatórios e métricas do Trello permitem avaliar o desempenho da equipe, identificar gargalos e ajustar os processos conforme necessário.
-
-Em resumo, o Trello desempenha um papel crucial no desenvolvimento, fornecendo uma plataforma versátil e acessível para planejamento, colaboração e acompanhamento de projetos. Sua natureza visual e flexível o torna uma ferramenta valiosa para equipes de desenvolvimento que desejam otimizar seus processos e maximizar a eficiência.
+Trello desempenha um papel crucial no desenvolvimento, fornecendo uma plataforma versátil e acessível para planejamento, colaboração e acompanhamento de projetos. Sua natureza visual e flexível o torna uma ferramenta valiosa para equipes de desenvolvimento que desejam otimizar seus processos e maximizar a eficiência.
 
 Nosso quadro Trello para iniciar as atividades em equipe:
 
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="200"/>
+
+[Acesse o link e veja o nosso <strong>Trello</strong>](https://trello.com/b/UcRXEgrz/projeto-integrador-grupo-1")
 
 ### Outra ferramenta que estamos utilizando é o **FIGMA**
 
@@ -140,6 +126,8 @@ O Figma é uma plataforma de design de interface de usuário (UI) baseada em nuv
 
 O Figma é uma ferramenta poderosa para designers de interface de usuário e equipes de design que desejam colaborar de forma eficaz, criar designs impressionantes e protótipos interativos e manter a consistência ao longo do processo de design. Sua abordagem colaborativa e recursos avançados o tornam uma escolha popular para muitos profissionais de design e desenvolvimento.
 
+[Acesse o link e veja o nosso <strong>Figma</strong>](https://www.figma.com/file/qLGyI5YTr1E76Q2HoH4LrR/Landing-Page?type=design&node-id=0-1&mode=design&t=c5kIPj9YdJg7SBbd-0")
+
 ### GitHub
 
 O GitHub desempenha um papel fundamental no desenvolvimento de projetos de software e em outras áreas relacionadas à colaboração e controle de versão. Ele oferece uma plataforma centralizada e baseada na web para que desenvolvedores individuais e equipes possam gerenciar, colaborar e compartilhar código-fonte, documentação e recursos relacionados a um projeto. Aqui estão algumas das principais razões pelas quais o GitHub é importante para projetos de desenvolvimento:
@@ -148,6 +136,8 @@ O GitHub desempenha um papel fundamental no desenvolvimento de projetos de softw
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/1eb845a5-77ff-4d1d-b6e9-7ff18c52449d" width="200"/>
 
 O GitHub é uma ferramenta essencial para o desenvolvimento de software moderno, proporcionando uma maneira eficaz de colaborar, gerenciar e compartilhar projetos, além de facilitar a comunicação e o trabalho em equipe em um ambiente digital.
+
+[Acesse o link e veja o nosso <strong>GitHub</strong>](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01 "Acesse o link e veja o nosso GitHub")
 
 ### Iniciando desenvolvimento
 
@@ -248,15 +238,17 @@ As regras de negócios desempenham um papel crucial na definição de como a pla
 
 **Políticas de Uso:**
 
-    - Termos de uso claros para todos os usuários da plataforma.
-    - Diretrizes sobre conduta adequada, políticas de conteúdo e conformidade legal.
+- Termos de uso claros para todos os usuários da plataforma.
+- Diretrizes sobre conduta adequada, políticas de conteúdo e conformidade legal.
 
-**Privacidade e Proteção de Dados:**
+**Privacidade e Proteção de Dados**:
 
-    - Garantia da privacidade das informações pessoais dos usuários.
-    - Adesão a regulamentações de proteção de dados, como o GDPR.
+- Garantia da privacidade das informações pessoais dos usuários.
+- Adesão a regulamentações de proteção de dados, como o GDPR.
 
-**Suporte ao Cliente:** - Fornecimento de suporte ao cliente para resolver problemas e responder a perguntas. - Canais de contato acessíveis e eficientes.
+**Suporte ao Cliente**:
+
+- Fornecimento de suporte ao cliente para resolver problemas e responder a perguntas. - Canais de contato acessíveis e eficientes.
 
 Exemplo do documento que criamos, ao longo do projeto será atualizado.
 
@@ -266,3 +258,5 @@ Exemplo do documento que criamos, ao longo do projeto será atualizado.
 [Clique aqui para baixar o PDF][def]
 
 [def]: Documentos/negocio.pdf
+
+[Acesse o link e acompanhe o desenvolvimento de nosso site <strong>WhatService</strong>](http://whatservice.s3-website-us-east-1.amazonaws.com/)
