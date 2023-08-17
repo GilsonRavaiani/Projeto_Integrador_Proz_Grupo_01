@@ -14,10 +14,10 @@
 
 **GRUPO 1**:
 
-- Erik Willams Matias Vasconcelos
+- Erik Willams Matias Vasconcelos [<strong>Linkedin</strong>](https://www.linkedin.com/in/erikdevasconcelos)
 - Fillipe Albuquerque
-- Gilson Antunes Ravaiani
-- Marcelo Nascimento dos Santos</p>
+- Gilson Antunes Ravaiani [<strong>Linkedin</strong>](https://www.linkedin.com/in/gilson-antunes-ravaiani/)
+- Marcelo Nascimento dos Santos [<strong>Linkedin</strong>](https://www.linkedin.com/in/marceloef/) </p>
 
 **Tema**: Desenvolver uma plataforma que apresentem e ofertam os serviços voltados ao saneamento primários por profissionais Autônomos (encanador, pedreiro, pintor).
 
