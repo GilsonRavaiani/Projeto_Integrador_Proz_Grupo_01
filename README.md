@@ -113,6 +113,8 @@ Nosso quadro Trello para iniciar as atividades em equipe:
 <p align="left">
   <img src="https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/a07e2cc2-6d94-4262-b70c-badbd2a44217" width="200"/>
 
+[Acesse o link e veja o nosso <strong>Trello</strong>](https://trello.com/b/UcRXEgrz/projeto-integrador-grupo-1")
+
 ### Outra ferramenta que estamos utilizando é o **FIGMA**
 
 O Figma é uma plataforma de design de interface de usuário (UI) baseada em nuvem, que permite que equipes de design, desenvolvimento e outras partes interessadas colaborem de forma eficiente no processo de design, prototipagem e criação de interfaces digitais. Ele se destaca por sua abordagem colaborativa em tempo real, eliminando as barreiras geográficas e permitindo que múltiplos membros da equipe trabalhem simultaneamente em projetos de design.
