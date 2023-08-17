@@ -124,6 +124,8 @@ O Figma é uma plataforma de design de interface de usuário (UI) baseada em nuv
 
 O Figma é uma ferramenta poderosa para designers de interface de usuário e equipes de design que desejam colaborar de forma eficaz, criar designs impressionantes e protótipos interativos e manter a consistência ao longo do processo de design. Sua abordagem colaborativa e recursos avançados o tornam uma escolha popular para muitos profissionais de design e desenvolvimento.
 
+[Acesse o link e veja o nosso <strong>Figma</strong>](https://www.figma.com/file/qLGyI5YTr1E76Q2HoH4LrR/Landing-Page?type=design&node-id=0-1&mode=design&t=c5kIPj9YdJg7SBbd-0")
+
 ### GitHub
 
 O GitHub desempenha um papel fundamental no desenvolvimento de projetos de software e em outras áreas relacionadas à colaboração e controle de versão. Ele oferece uma plataforma centralizada e baseada na web para que desenvolvedores individuais e equipes possam gerenciar, colaborar e compartilhar código-fonte, documentação e recursos relacionados a um projeto. Aqui estão algumas das principais razões pelas quais o GitHub é importante para projetos de desenvolvimento:
