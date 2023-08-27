@@ -263,7 +263,7 @@ Exemplo do documento que criamos, ao longo do projeto será atualizado.
 
 ### Sprints
 
-Nosso trabalho foi dividido em "Sprints" e com isso podemos nos comunicar melhor e sermos mais objetivos.
+Nosso trabalho foi dividido em "Sprints", elas ajudam as equipes a manter o foco, receber feedback valioso e melhorar continuamente o processo de desenvolvimento.
 
 Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 
@@ -282,3 +282,7 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 **Melhoria Contínua**: A retrospectiva ao final de cada sprint permite que a equipe identifique áreas de melhoria e as implemente nas sprints subsequentes. Isso promove uma cultura de aprendizado contínuo e aprimoramento do processo de desenvolvimento.
 
 **Previsibilidade**: As sprints têm durações fixas e entregas regulares. Isso facilita a previsibilidade das datas de entrega e permite que as partes interessadas planejem adequadamente com base no ritmo de trabalho da equipe.
+
+### Divisão das sprints do nosso projeto
+
+**Sprint 01**:
