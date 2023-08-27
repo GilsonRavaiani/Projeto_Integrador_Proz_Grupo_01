@@ -261,8 +261,24 @@ Exemplo do documento que criamos, ao longo do projeto será atualizado.
 
 [Acesse o link e acompanhe o desenvolvimento de nosso site <strong>WhatService</strong>](http://whatservice.s3-website-us-east-1.amazonaws.com/)
 
-**Sprints**
+### Sprints
 
 Nosso trabalho foi dividido em "Sprints" e com isso podemos nos comunicar melhor e sermos mais objetivos.
 
 Vemos a importância em diversos pontos, mas vou citar alguns importantes:
+
+**Entrega Iterativa e Incremental**: As sprints dividem o projeto em períodos curtos e fixos de tempo, geralmente de 1 a 4 semanas. Cada sprint resulta em uma versão incremental do produto que está sendo desenvolvido. Isso permite que as equipes entreguem partes funcionais do produto em intervalos regulares, em vez de esperar até o final do projeto para fazer uma entrega completa.
+
+**Feedback Constante**: No final de cada sprint, há uma revisão e uma retrospectiva. A revisão envolve a demonstração dos recursos completos para as partes interessadas, permitindo feedback valioso. A retrospectiva analisa o que correu bem e o que precisa ser melhorado no processo. Esses feedbacks frequentes permitem ajustes ao longo do projeto, garantindo que o produto final atenda às necessidades do cliente.
+
+**Visibilidade e Transparência**: As sprints criam uma visão clara do progresso do projeto. O backlog do produto, que contém os requisitos priorizados, é dividido em itens menores e gerenciáveis chamados de "itens do backlog de sprint". A equipe compromete-se a concluir esses itens durante a sprint. Isso torna o progresso visível para todos, facilitando o acompanhamento.
+
+**Mudanças Adaptativas**: As sprints permitem que as equipes se adaptem às mudanças. Se novas informações ou requisitos surgirem durante o desenvolvimento, eles podem ser incorporados em sprints futuras. Isso ajuda a evitar o desenvolvimento de recursos obsoletos ou não mais relevantes.
+
+**Motivação da Equipe**: Sprints definem metas claras e alcançáveis para a equipe em um curto espaço de tempo. Isso cria um senso de realização constante, o que pode aumentar a motivação da equipe. A entrega de resultados tangíveis a cada sprint também pode ser gratificante.
+
+**Foco e Priorização**: As sprints forçam a equipe a priorizar os itens do backlog que serão concluídos durante a sprint. Isso evita a tentação de se perder em detalhes ou funcionalidades menos importantes e garante que o trabalho mais valioso seja realizado primeiro.
+
+**Melhoria Contínua**: A retrospectiva ao final de cada sprint permite que a equipe identifique áreas de melhoria e as implemente nas sprints subsequentes. Isso promove uma cultura de aprendizado contínuo e aprimoramento do processo de desenvolvimento.
+
+**Previsibilidade**: As sprints têm durações fixas e entregas regulares. Isso facilita a previsibilidade das datas de entrega e permite que as partes interessadas planejem adequadamente com base no ritmo de trabalho da equipe.
