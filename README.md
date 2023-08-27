@@ -285,4 +285,14 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 
 ### Divisão das sprints do nosso projeto
 
-**Sprint 01**:
+**Sprint 01**: ?
+
+**Sprint 02**: ?
+
+**Sprint 03**: ?
+
+**Sprint 04**: ?
+
+**Sprint 05**: ?
+
+**Sprint 06**: ?
