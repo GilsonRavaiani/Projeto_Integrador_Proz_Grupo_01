@@ -296,3 +296,13 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 **Sprint 05**: ?
 
 **Sprint 06**: ?
+
+### Atualização do TRELLO
+
+Importante também como a maneira que trabalhamos com SPRINTS, é manter o TRELLO tbm atualizado.
+
+O que foi, o que está e o que será feito no projeto, colocando os pontos de acordo com a evolução do projeto.
+
+Segue mais um exemplo do andamento que realizamos no TRELLO para entrega da sprint03:
+
+![TRELLO](./Imagens/trello_2708.jpg)
