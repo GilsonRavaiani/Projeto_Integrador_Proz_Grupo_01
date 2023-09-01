@@ -310,4 +310,5 @@ Segue mais um exemplo do andamento que realizamos no TRELLO para entrega da spri
 01/09/2023
 
 Reorganizado pastas e arquivos .html para melhor compreensão do código.
-Criado branch "BACKUP" para tranalharmos em conjunto e o que estiver pronto vamos subindo pra main.
+
+Criado branch "BACKUP" para desenvolvimento em conjunto e o que estiver pronto vamos subindo pra main.
