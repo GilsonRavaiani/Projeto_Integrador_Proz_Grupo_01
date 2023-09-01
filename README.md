@@ -305,4 +305,9 @@ O que foi, o que está e o que será feito no projeto, colocando os pontos de ac
 
 Segue mais um exemplo do andamento que realizamos no TRELLO para entrega da sprint03:
 
-![TRELLO](./Imagens/trello_2708.jpg)
+![TRELLO](./Imagens/trello2708.jpg)
+
+01/09/2023
+
+Reorganizado pastas e arquivos .html para melhor compreensão do código.
+Criado branch "BACKUP" para tranalharmos em conjunto e o que estiver pronto vamos subindo pra main.
