@@ -5,7 +5,7 @@
 }
 
 body{
-  background-color: rgb(79, 117, 87);
+  background-color: rgb(27, 26, 87);
   color: white;
   text-align: center;
 }
@@ -23,12 +23,7 @@ header {
   
 }
 
-nav ul li {
-  display: flex;
-  padding-left: 16px;
-  list-style-type: none;
-    
-}
+
 
 img{
   max-width: 150px;
