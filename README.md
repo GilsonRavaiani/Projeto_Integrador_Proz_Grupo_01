@@ -287,7 +287,7 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 
 **Sprint 01**: Definição tema, layout e demais informações para início do projeto
 
-**Sprint 02**: Criação da estrutura HTML
+**Sprint 02**: Divisão das paginas e criação da estrutura em HTML
 
 **Sprint 03**: Estilização do site e organização do conteúdo através do CSS
 
