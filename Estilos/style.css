@@ -48,3 +48,17 @@ section{
   padding: 15px;
   font-size: medium;  
 }
+
+.foto-gilson {
+display: flex;
+padding: 20px;
+margin: 10px;
+ 
+}
+
+.painel-gilson{
+display: flex;
+align-content: space-between;
+
+
+}
