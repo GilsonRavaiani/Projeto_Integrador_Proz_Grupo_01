@@ -285,7 +285,7 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 
 ### Divisão das sprints
 
-**Sprint 01**: Definição tema, layout e demais informações para início do projeto
+**Sprint 01**: Sprint 01, Definição do projeto, layout e regras do negócio
 
 **Sprint 02**: Divisão das paginas e criação da estrutura em HTML
 
