@@ -11,21 +11,29 @@ body{
 }
 
 header {
-  background: #5157aa; 
-  padding: 0px;
-  font-size: 5%;
- }
-
- ul {
-  display: flex;
-  height: 100%;
-  align-items: center; 
+  background: white; 
   
 }
 
+ ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+    
+}
 
+.nossa-foto{
+  max-width: 150px;
+  border-style: inset;
+  border-color: hsl(235, 86%, 65%);
+  border-radius: 50%;
+  }
 
+.logo-nav{
+  display: flex; 
+  height: 80px; 
 
+}
 
 a{
   text-decoration: none;
