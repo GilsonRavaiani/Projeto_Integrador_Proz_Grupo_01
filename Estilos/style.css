@@ -25,12 +25,7 @@ header {
 
 
 
-img{
-  max-width: 150px;
-  border-style: inset;
-  border-color: hsl(235, 86%, 65%);
-  border-radius: 50%;
-}
+
 
 a{
   text-decoration: none;
