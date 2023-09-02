@@ -58,7 +58,6 @@ margin: 10px;
 
 .painel-gilson{
 display: flex;
-align-content: space-between;
-
+flex-direction: column;
 
 }
