@@ -289,7 +289,7 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 
 **Sprint 02**: Criação da estrutura HTML
 
-**Sprint 03**: Desenvolvendo CSS nas páginas criadas na sprint 02.
+**Sprint 03**: Estilização do site e organização do conteúdo através do CSS
 
 **Sprint 04**: ?
 
