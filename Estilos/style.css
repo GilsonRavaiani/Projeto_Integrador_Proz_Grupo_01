@@ -53,53 +53,54 @@ section{
 }
 
  #gilson{
-  width: 300px;
-  height: 300px;
-  margin: 5px;
-  padding: 10px;
-  border-radius: 10px;
-  
+  padding-top: 10px;    /* Preenchimento superior */
+  padding-right: 20px;  /* Preenchimento direito */
+  padding-bottom: 10px; /* Preenchimento inferior */
+  padding-left: 20px;  
  }
 
  #marcelo{
-  width: 300px;
-  height: 300px;
-  margin: 5px;
-  padding: 100px;
-  border-radius: 10px;
+  padding-top: 10px;    /* Preenchimento superior */
+  padding-right: 20px;  /* Preenchimento direito */
+  padding-bottom: 10px; /* Preenchimento inferior */
+  padding-left: 20px;  
 
  }
 
  #fillipe{
-  width: 300px;
-  height: 300px;
-  margin: 5px;
-  padding: 10px;
-  border-radius: 10px;
+  padding-top: 10px;    /* Preenchimento superior */
+  padding-right: 20px;  /* Preenchimento direito */
+  padding-bottom: 10px; /* Preenchimento inferior */
+  padding-left: 20px;  
 
  }
 
  #erik{
-  width: 300px;
-  height: 300px;
-  margin: 5px;
-  padding: 10px;
-  border-radius: 10px;
-  
+  padding-top: 10px;    /* Preenchimento superior */
+  padding-right: 20px;  /* Preenchimento direito */
+  padding-bottom: 10px; /* Preenchimento inferior */
+  padding-left: 20px;  
  }
 
+ /*#ladoalado{
+
+  display:inline-block;
+  background-color: rgb(27, 26, 87); 
+
+ }*/
+
  #ladoalado{
-
-  display:inline-flex;
-  background-color: rgb(27, 26, 87);
-  
-
+  display: flex;
  }
 
  .footer{
   background-color: rgb(247, 246, 246);
   font-family: 'Courier New', Courier, monospace;
   color: rgb(5, 5, 5);  
-  padding: 18px;
+  padding: 10px;
 
+ }
+
+ #gilson, #marcelo, #fillpe, #erik {
+ 
  }
