@@ -11,8 +11,7 @@ body{
 }
 
 header {
-  background: white; 
-  
+  background: white;  
     
 }
 
@@ -20,11 +19,11 @@ h1{
   padding: 50px;
 }
 
- ul {
+ ul { /* Organização da ul*/
   display: flex;
-  justify-content: center;
+  justify-content: space-around; /* Aplicado para separar as logos*/ 
   align-items: center;  
-    
+   
 }
 
 .nossa-foto{
@@ -55,8 +54,6 @@ section{
   padding: 15px;
   font-size: medium;  
 }
-
-
 
  #ladoalado{
   display: flex;
