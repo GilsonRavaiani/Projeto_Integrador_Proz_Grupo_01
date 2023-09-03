@@ -12,6 +12,7 @@ body{
 
 header {
   background: white; 
+  
     
 }
 h1{
@@ -99,8 +100,4 @@ section{
   color: rgb(5, 5, 5);  
   padding: 10px;
 
- }
-
- #gilson, #marcelo, #fillpe, #erik {
- 
  }
