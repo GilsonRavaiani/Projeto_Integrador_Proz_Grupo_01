@@ -60,3 +60,7 @@ section{
   flex-direction: row;
   justify-content: space-around; /*Utilizado space-around para alinhar*/
  }
+
+ p{
+  font-size: 13px;
+ }
