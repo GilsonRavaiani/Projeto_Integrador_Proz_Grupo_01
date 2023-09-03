@@ -86,13 +86,6 @@ section{
   padding-left: 20px;  
  }
 
- /*#ladoalado{
-
-  display:inline-block;
-  background-color: rgb(27, 26, 87); 
-
- }*/
-
  #ladoalado{
   display: flex;
   flex-direction: row;
