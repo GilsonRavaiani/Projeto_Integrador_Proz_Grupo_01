@@ -12,7 +12,10 @@ body{
 
 header {
   background: white; 
-  
+    
+}
+h1{
+  padding: 50px;
 }
 
  ul {
@@ -41,7 +44,7 @@ a{
   color: white;
 }
 section{
-  background-color: #343c79;
+  background-color: #647934;
   border-radius: 10px;
   max-width: 54px;
   margin: auto;
@@ -62,7 +65,7 @@ section{
   width: 300px;
   height: 300px;
   margin: 5px;
-  padding: 10px;
+  padding: 100px;
   border-radius: 10px;
 
  }
@@ -94,8 +97,7 @@ section{
  .footer{
   background-color: rgb(247, 246, 246);
   font-family: 'Courier New', Courier, monospace;
-  color: rgb(5, 5, 5);
-  
-  padding: 20px;
+  color: rgb(5, 5, 5);  
+  padding: 18px;
 
  }
