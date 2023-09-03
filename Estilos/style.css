@@ -51,7 +51,7 @@ section{
   border-radius: 10px;
   max-width: 150px;
   margin: auto;
-  padding: 15px;
+  padding: 10px;
   font-size: medium;  
 }
 
@@ -59,12 +59,4 @@ section{
   display: flex;
   flex-direction: row;
   justify-content: space-around; /*Utilizado space-around para alinhar*/
- }
-
- .footer{
-  /*background-color: rgb(247, 246, 246);
-  font-family: 'Courier New', Courier, monospace;
-  color: rgb(5, 5, 5);  
-  padding: 10px;
-
  }
