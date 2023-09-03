@@ -56,35 +56,7 @@ section{
   font-size: medium;  
 }
 
- #gilson{
-  padding-top: 10px;    /* Preenchimento superior */
-  padding-right: 20px;  /* Preenchimento direito */
-  padding-bottom: 10px; /* Preenchimento inferior */
-  padding-left: 20px;  
- }
 
- #marcelo{
-  padding-top: 10px;    /* Preenchimento superior */
-  padding-right: 20px;  /* Preenchimento direito */
-  padding-bottom: 10px; /* Preenchimento inferior */
-  padding-left: 20px;
- 
- }
-
- #fillipe{
-  padding-top: 10px;    /* Preenchimento superior */
-  padding-right: 20px;  /* Preenchimento direito */
-  padding-bottom: 10px; /* Preenchimento inferior */
-  padding-left: 20px;  
- 
- }
-
- #erik{
-  padding-top: 10px;    /* Preenchimento superior */
-  padding-right: 20px;  /* Preenchimento direito */
-  padding-bottom: 10px; /* Preenchimento inferior */
-  padding-left: 20px;  
- }
 
  #ladoalado{
   display: flex;
