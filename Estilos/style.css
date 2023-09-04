@@ -32,8 +32,8 @@ h1{
   border-color: hsl(235, 86%, 65%);
   border-radius: 40%;
   width: 200px;
-  height: 150px;  
-    
+  height: 150px; 
+   
   }
 
 .logo-nav{
@@ -59,9 +59,10 @@ section{
  #ladoalado{
   display: flex;
   flex-direction: row;
-  justify-content: space-around; /*Utilizado space-around para alinhar*/
+  justify-content: space-around; /*Utilizado space-around para alinhar deixando espaço maior na borda*/
  }
 
  p{
   font-size: 13px;
  }
+
