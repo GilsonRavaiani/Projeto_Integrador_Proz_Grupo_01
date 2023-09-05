@@ -5,7 +5,7 @@
 }
 
 body{
-  background-color: rgb(27, 26, 87);
+  background-color: rgb(27, 26, 87); /*Aplicar cor de fundo e estilizar os demais elementos dentro do body*/
   color: white;
   text-align: center;
 }
