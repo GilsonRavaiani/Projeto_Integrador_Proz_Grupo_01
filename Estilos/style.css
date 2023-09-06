@@ -4,13 +4,15 @@
   padding: 0;
 }
 
-/*Aplicar cor de fundo, cor em todas as fontes dentro do body e alinhamento do texto ao centro*/
+/*Aplicar cor de fundo, cor em todas as fontes dentro do BODY e alinhamento dos textos ao centro*/
 
 body{
   background-color: rgb(27, 26, 87); 
   color: white;
   text-align: center;
 }
+
+/*Aplicar cor de fundo ao HEADER(cabeçalho)*/
 
 header {
   background: white;  
