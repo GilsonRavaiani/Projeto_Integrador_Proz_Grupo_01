@@ -59,11 +59,13 @@ a{
   font-size: 15px;
   color: white;
 }
+
+/*Estilizado  links de acesso a redes sociais, espaçamento interno e tamanho da fonte*/
+
 section{
   background-color: #5734b8;
   border-radius: 10px;
   max-width: 150px;
-  margin: auto;
   padding: 10px;
   font-size: medium;  
 }
