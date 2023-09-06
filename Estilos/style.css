@@ -19,8 +19,11 @@ header {
     
 }
 
+/* Aplicar espaçamento entre header e div id=ladoalado */
+
 h1{
-  padding: 50px;
+  padding: 20px;
+ 
 }
 
  ul { /* Organização da ul*/
