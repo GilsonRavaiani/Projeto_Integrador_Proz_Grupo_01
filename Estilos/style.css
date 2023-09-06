@@ -45,10 +45,12 @@ ul {
    
   }
 
-.logo-nav{
-  display: flex; 
-  height: 80px; 
+/*Estilizado  imagens dentro da UL tamanho altura e largura*/
 
+.logo-nav{
+  height: 80px;
+  width: 100px;
+  
 }
 
 a{
