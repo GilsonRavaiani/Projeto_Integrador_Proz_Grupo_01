@@ -36,8 +36,8 @@ ul {
 
 .nossa-foto{
   max-width: 150px;
-  border-style: inset;
-  border-color: hsl(235, 86%, 65%);
+  border-style: ridge;
+  border-color: white;
   border-radius: 40%;
   width: 200px;
   height: 150px; 
