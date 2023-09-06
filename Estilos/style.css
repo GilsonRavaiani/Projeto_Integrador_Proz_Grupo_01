@@ -53,8 +53,9 @@ ul {
   
 }
 
-/* Estilizado fonte e cor do texto dentro da tag "a" */
+/* Estilizado fonte e cor do texto dentro da tag "a"  retirado sublinhado*/
 a{
+  text-decoration: none;
   font-size: 15px;
   color: white;
 }
