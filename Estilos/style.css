@@ -34,12 +34,13 @@ ul {
   align-items: center;    
 }
 
+/*Estilizado nossas fotos, cor, estilo, altura e largura*/
+
 .nossa-foto{
-  max-width: 150px;
-  border-style: ridge;
-  border-color: white;
+  border-style: inset;
+  border-color: rgb(45, 6, 136);
   border-radius: 40%;
-  width: 200px;
+  width: 150px;
   height: 150px; 
    
   }
