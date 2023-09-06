@@ -4,8 +4,10 @@
   padding: 0;
 }
 
+/*Aplicar cor de fundo e estilizar os demais elementos dentro do body*/
+
 body{
-  background-color: rgb(27, 26, 87); /*Aplicar cor de fundo e estilizar os demais elementos dentro do body*/
+  background-color: rgb(27, 26, 87); 
   color: white;
   text-align: center;
 }
