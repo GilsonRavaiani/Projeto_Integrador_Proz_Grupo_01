@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-/*Aplicar cor de fundo e estilizar os demais elementos dentro do body*/
+/*Aplicar cor de fundo, cor em todas as fontes dentro do body e alinhamento do texto ao centro*/
 
 body{
   background-color: rgb(27, 26, 87); 
