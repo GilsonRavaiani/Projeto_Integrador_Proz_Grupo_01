@@ -26,11 +26,12 @@ h1{
  
 }
 
- ul { /* Organização da ul*/
+/*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
+
+ul {
   display: flex;
-  justify-content: space-around; /* Aplicado para separar as logos*/ 
-  align-items: center;  
-   
+  justify-content: space-around; 
+  align-items: center;    
 }
 
 .nossa-foto{
