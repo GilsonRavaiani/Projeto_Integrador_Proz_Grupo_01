@@ -70,9 +70,11 @@ section{
   font-size: medium;  
 }
 
+/*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
+
  #ladoalado{
   display: flex;
   flex-direction: row;
-  justify-content: space-around; /*Utilizado space-around para alinhar deixando espaço maior na borda*/
+  justify-content: space-around; 
  }
 
