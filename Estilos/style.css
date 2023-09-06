@@ -76,5 +76,11 @@ section{
   display: flex;
   flex-direction: row;
   justify-content: space-around; 
+
  }
 
+ /*Estilizado tamanho fonte footer*/
+  
+p{
+  font-size: 10px;
+}
