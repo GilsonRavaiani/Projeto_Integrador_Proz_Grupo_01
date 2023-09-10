@@ -28,6 +28,12 @@ header {
     justify-content: space-between;
     margin-bottom: 2rem;
 }
+/* -------------------------- Responsividade header -------------------------- */
+@media screen and (max-width: 1050px) {
+    header {
+        flex-direction: column;
+    }
+}
 
 header nav ul {
     display: flex;
@@ -65,7 +71,6 @@ nav li a:hover {
 
 
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
-
 footer {
     width: 100%;
     color: var(--color-neutral-40);
@@ -97,10 +102,7 @@ footer {
         padding: 3rem 2rem;
     }
 }
-
-
 /* -------------------------- Responsividade Footer -------------------------- */
-
 
 #footer-contacts h1 {
     margin-bottom: 0.75rem;
