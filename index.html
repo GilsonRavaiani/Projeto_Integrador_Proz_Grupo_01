@@ -15,15 +15,15 @@
 <body>
     <!-- Início do Header da página -->
     <header>
-        <nav class="nav-bar">
-            <a href="./index.html"><img src="./assets/WhatService Logo Circle.png" alt="WhatService Logo"></a>
+        <a href="./index.html"><img src="./assets/WhatService Logo Circle.png" alt="WhatService Logo"></a>
+        <nav class="header-container">
             <ul>
-                <li><a href="parceiros.html">Parceiros</a></li>
-                <li><a href="">Recursos</a></li>
-                <li><a href="">Suporte</a></li>
-                <li><a href="">Regras do Negócio</a></li>
+                <li><a class="header-link" href="#">Parceiros</a></li>
+                <li><a class="header-link" href="#">Recursos</a></li>
+                <li><a class="header-link" href="#">Suporte</a></li>
+                <li><a class="header-link" href="#">Regras do Negócio</a></li>
+                <button id="header-button" type="button">Entrar</button>
             </ul>
-            <button class="header-button" type="button">Entrar</button>
         </nav>
     </header>
     <!-- Fim do Header e Início da Main da página -->
@@ -169,14 +169,6 @@
                         <img src="./assets/group 39.png" alt="Depoimentos de clientes">
                     </div>
                 </div>
-
-                <div class="newsletter">
-                    <h3><span class="orange-text">Suporte</span><span class="blue-text">WhatService</span></h3>
-                    <h4>Inscreva-se na Newsletter e receba as notícias da empresa.</h4>
-                    <input type="email" placeholder="Digite o seu e-mail">
-                    <button type="button">Inscreva-se</button>
-                </div>
-
             </div>
 
         </section>
@@ -186,7 +178,7 @@
     <footer>
         <div id="footer-content">
             <div id="footer-contacts">
-                <h1>Logo</h1>
+                <a href="./index.html"><img src="./assets/WhatService Logo Circle.png" id="logo-footer" alt="WhatService Logo"></a>
                 <p>All Rights Reserved © whatservice.com</p>
 
                 <div id="footer-social-media">
@@ -200,44 +192,40 @@
             </div>
             <ul class="footer-list">
                 <li>
-                    <h3>Blog</h3>
+                    <h3>Organização</h3>
                 </li>
 
                 <li>
-                    <a href="#" class="footer-link">Tech</a>
+                    <a href="#" class="footer-link">Empresa</a>
                 </li>
                 <li>
-                    <a href="#" class="footer-link">Adventures</a>
-                </li>
-                <li>
-                    <a href="#" class="footer-link">Music</a>
+                    <a href="#" class="footer-link">Regras de Negócio</a>
                 </li>
             </ul>
 
             <ul class="footer-list">
                 <li>
-                    <h3>Products</h3>
+                    <h3>Time</h3>
                 </li>
 
                 <li>
-                    <a href="#" class="footer-link">App</a>
+                    <a href="#" class="footer-link">Sobre Nós</a>
                 </li>
                 <li>
-                    <a href="#" class="footer-link">Desktop</a>
+                    <a href="#" class="footer-link">Contate-nos</a>
                 </li>
                 <li>
-                    <a href="#" class="footer-link">Cloud</a>
+                    <a href="#" class="footer-link">Localização</a>
                 </li>
             </ul>
 
             <div id="footer-subscribe">
-                <h3>Subscribe</h3>
+                <h3><span class="orange-text">News</span><span class="blue-text">letter</span></h3>
                 <p>Insira o seu e-mail para receber notificações e/ou novas soluções</p>
 
                 <div id="input-group">
                     <input type="email" id="email" placeholder="Insira o seu e-mail">
-                    <button type="button">E-mail
-                        <i class="fa-regular fa-envelope"></i>
+                    <button type="button"><i class="fa-regular fa-envelope"></i>
                     </button>
 
                 </div>
