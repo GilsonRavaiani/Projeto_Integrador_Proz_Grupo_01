@@ -5,6 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Um site que irá facilitar a divulgação dos seus serviços autônomos">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="styles.css">
     <title>WhatService</title>
 </head>
@@ -12,15 +15,15 @@
 <body>
     <!-- Início do Header da página -->
     <header>
-        <img src="./assets/WhatService Logo Circle.png" alt="WhatService Logo">
-        <nav class="nav-bar">
+        <a href="./index.html"><img src="./assets/WhatService Logo Circle.png" alt="WhatService Logo"></a>
+        <nav class="header-container">
             <ul>
-                <li><a href="parceiros.html">Parceiros</a></li>
-                <li><a href="">Recursos</a></li>
-                <li><a href="">Suporte</a></li>
-                <li><a href="">Regras do Negócio</a></li>
+                <li><a class="header-link" href="#">Parceiros</a></li>
+                <li><a class="header-link" href="#">Recursos</a></li>
+                <li><a class="header-link" href="#">Suporte</a></li>
+                <li><a class="header-link" href="#">Regras do Negócio</a></li>
+                <button id="header-button" type="button">Entrar</button>
             </ul>
-            <button class="header-button" type="button">Entrar</button>
         </nav>
     </header>
     <!-- Fim do Header e Início da Main da página -->
@@ -46,8 +49,10 @@
             </div>
             <div class="right-second-page">
                 <ul>
-                    <li><a href="https://prozeducacao.com.br/"><img src="./assets/proz.png" alt="Proz Educação"></a></li>
-                    <li><a href="https://www.portaltechs.com/"><img src="./assets/portal tech.png" alt="Portal Tech"></a></li>
+                    <li><a href="https://prozeducacao.com.br/"><img src="./assets/proz.png" alt="Proz Educação"></a>
+                    </li>
+                    <li><a href="https://www.portaltechs.com/"><img src="./assets/portal tech.png"
+                                alt="Portal Tech"></a></li>
                     <li><a href="https://aws.amazon.com"><img src="./assets/aws.png" alt="AWS"></a></li>
                     <li><a href="https://about.meta.com/br/"><img src="./assets/meta.png" alt="Meta"></a></li>
                 </ul>
@@ -86,7 +91,8 @@
             <div class="fourth-page">
                 <h3>Nossos <span class="orange-text">Recursos</span></h3>
 
-                <div class="clients-fourth-page"> <!-- Seção dos clientes (Foto lado esquerdo - descrição lado direito)-->
+                <div class="clients-fourth-page">
+                    <!-- Seção dos clientes (Foto lado esquerdo - descrição lado direito)-->
                     <img src="./assets/recursos-left1.png" alt="Imagem de clientes">
                 </div>
                 <div class="clients-description-fourth-page">
@@ -97,10 +103,13 @@
                     </p>
                 </div>
 
-                <div class="acess-description-fourth-page"> <!-- Seção de acesso (Descrição lado esquerdo - foto lado direito -->
+                <div class="acess-description-fourth-page">
+                    <!-- Seção de acesso (Descrição lado esquerdo - foto lado direito -->
                     <h3>Acesse em minutos</h3>
-                    <p>Ao realizar o login você irá acessa uma plataforma simples e inovadora, possuindo recursos que irão aprimorar
-                        a sua busca, facilitando e incentivando a você obter assuidade na tomada de decisão, escolhendo o
+                    <p>Ao realizar o login você irá acessa uma plataforma simples e inovadora, possuindo recursos que
+                        irão aprimorar
+                        a sua busca, facilitando e incentivando a você obter assuidade na tomada de decisão, escolhendo
+                        o
                         profissional ideal para a sua demanda.</p>
                 </div>
                 <div class="acess-fourth-page">
@@ -110,25 +119,35 @@
                 <div class="integration-fourth-page"> <!-- Seção de integração H3 e ícones abaixo -->
                     <h3><span class="orange-text">Integre</span> com suas ferramentas existentes em poucos cliques</h3>
                     <div class="icons">
-                        <a class="app-icon" href="https://explore.zoom.us/pt/products/meetings/"><img src="./assets/image 21.png" alt="Zoom"></a>
-                        <a class="app-icon" href="https://slack.com/intl/pt-br"><img src="./assets/image 16.png" alt="Slack"></a>
-                        <a class="app-icon" href="http://www.dropbox.com"><img src="./assets/image 15.png" alt="Dropbox"></a>
-                        <a class="app-icon" href="https://drive.google.com/"><img src="./assets/image 17.png" alt="Drive"></a>
+                        <a class="app-icon" href="https://explore.zoom.us/pt/products/meetings/"><img
+                                src="./assets/image 21.png" alt="Zoom"></a>
+                        <a class="app-icon" href="https://slack.com/intl/pt-br"><img src="./assets/image 16.png"
+                                alt="Slack"></a>
+                        <a class="app-icon" href="http://www.dropbox.com"><img src="./assets/image 15.png"
+                                alt="Dropbox"></a>
+                        <a class="app-icon" href="https://drive.google.com/"><img src="./assets/image 17.png"
+                                alt="Drive"></a>
                     </div>
                     <button type="button">Veja todos</button>
                 </div>
 
-                <div class="services-fourth-page"> <!-- Seção dos serviços (Foto lado esquerdo - descrição lado direito)-->
+                <div class="services-fourth-page">
+                    <!-- Seção dos serviços (Foto lado esquerdo - descrição lado direito)-->
                     <img src="./assets/group 68.png" alt="Imagem de serviço">
                 </div>
                 <div class="services-description-fourth-page">
                     <h3>Encontre os serviços ideais para a sua demanda</h3>
-                    <p>Em poucos segundos de acesso, voce poderá acessar informações e fotos que irão facilitar a sua tomada de decisão, garantindo a escolha do serviço ideal para a sua necessidade.</p>
+                    <p>Em poucos segundos de acesso, voce poderá acessar informações e fotos que irão facilitar a sua
+                        tomada de decisão, garantindo a escolha do serviço ideal para a sua necessidade.</p>
                 </div>
 
-                <div class="rastreability-description-fourth-page"> <!-- Seção de rastreabilidade (Descrição lado esquerdo - foto lado direito -->
+                <div class="rastreability-description-fourth-page">
+                    <!-- Seção de rastreabilidade (Descrição lado esquerdo - foto lado direito) -->
                     <h3>Nós garantimos a rastreabilidade</h3>
-                    <p>Visualize os serviços prestados pelos profissionais com total rastreabilidade, através das informações sobre o dia, hora e local que a atividade foi ou será realizada. A interface visual fácil de usar permite que qualquer membro do site entre e comece, sem necessidade de treinamento.</p>
+                    <p>Visualize os serviços prestados pelos profissionais com total rastreabilidade, através das
+                        informações sobre o dia, hora e local que a atividade foi ou será realizada. A interface visual
+                        fácil de usar permite que qualquer membro do site entre e comece, sem necessidade de
+                        treinamento.</p>
                 </div>
                 <div class="rastreability-fourth-page">
                     <img src="./assets/group 71.png" alt="Foto de rastreabilidade">
@@ -136,10 +155,12 @@
 
                 <div class="suport-fourth-page"> <!-- Seção de suporte (Foto lado esquerdo - descrição lado direito)-->
                     <img src="./assets/group 76.png" alt="Imagem oferencendo suporte">
-                </div>
-                <div class="suport-description-fourth-page">
-                    <h3>Suporte ao cliente 24 horas por dia, 7 dias por semana</h3>
-                    <p>Nossa equipe está aqui para fornecer suporte personalizado dentro da hora disponível 24 horas por dia, 7 dias por semana. De acordo com nosso compromisso de fornecer um serviço superior e profissional.</p>
+                    <div class="suport-description-fourth-page">
+                        <h3>Suporte ao cliente 24 horas por dia, 7 dias por semana</h3>
+                        <p>Nossa equipe está aqui para fornecer suporte personalizado dentro da hora disponível 24 horas
+                            por dia, 7 dias por semana. De acordo com nosso compromisso de fornecer um serviço superior
+                            e profissional.</p>
+                    </div>
                 </div>
 
                 <div class="testimonials"> <!-- Seção de suporte (Foto lado esquerdo - descrição lado direito)-->
@@ -148,15 +169,73 @@
                         <img src="./assets/group 39.png" alt="Depoimentos de clientes">
                     </div>
                 </div>
-
-
-
-
             </div>
 
         </section>
 
     </main>
+
+    <footer>
+        <div id="footer-content">
+            <div id="footer-contacts">
+                <a href="./index.html"><img src="./assets/WhatService Logo Circle.png" id="logo-footer" alt="WhatService Logo"></a>
+                <p>All Rights Reserved © whatservice.com</p>
+
+                <div id="footer-social-media">
+                    <a href="https://www.facebook.com/?locale=pt_BR" class="footer-link" id="facebook"><i class="fa-brands fa-facebook"></i></a>
+            
+                    <a href="https://www.instagram.com/" class="footer-link" id="instagram"><i class="fa-brands fa-instagram"></i></a>
+
+                    <a href="https://web.whatsapp.com/" class="footer-link" id="whatsapp"><i class="fa-brands fa-whatsapp"></i></a>
+                    
+                </div>
+            </div>
+            <ul class="footer-list">
+                <li>
+                    <h3>Organização</h3>
+                </li>
+
+                <li>
+                    <a href="#" class="footer-link">Empresa</a>
+                </li>
+                <li>
+                    <a href="#" class="footer-link">Regras de Negócio</a>
+                </li>
+            </ul>
+
+            <ul class="footer-list">
+                <li>
+                    <h3>Time</h3>
+                </li>
+
+                <li>
+                    <a href="#" class="footer-link">Sobre Nós</a>
+                </li>
+                <li>
+                    <a href="#" class="footer-link">Contate-nos</a>
+                </li>
+                <li>
+                    <a href="#" class="footer-link">Localização</a>
+                </li>
+            </ul>
+
+            <div id="footer-subscribe">
+                <h3><span class="orange-text">News</span><span class="blue-text">letter</span></h3>
+                <p>Insira o seu e-mail para receber notificações e/ou novas soluções</p>
+
+                <div id="input-group">
+                    <input type="email" id="email" placeholder="Insira o seu e-mail">
+                    <button type="button"><i class="fa-regular fa-envelope"></i>
+                    </button>
+
+                </div>
+            </div>
+        </div>
+        <div id="footer-copyright">
+            &#169
+            2023 All rights reserved
+        </div>
+    </footer>
 
 </body>
 
