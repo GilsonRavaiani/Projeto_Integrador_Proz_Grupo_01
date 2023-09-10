@@ -12,7 +12,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    letter-spacing: 1px;
 }
 
 footer {
@@ -22,6 +21,7 @@ footer {
 
 .footer-link {
     text-decoration: none;
+
 }
 
 #footer-content {
@@ -35,18 +35,29 @@ footer {
     margin-bottom: 0.75rem;
 }
 
-#footer_social_media {
+#footer-social-media {
     display: flex;
     gap: 2rem;
     margin-top: 1.5rem;
 }
 
-#footer_social_media .footer-link {
+#footer-social-media .footer-link {
     display: flex;
+    align-items: center;
+    justify-content: center;
     height: 2.5rem;
     width: 2.5rem;
     color: var(--color-neutral-40);
     border-radius: 50%;
+    transition: all 0.4s;
+}
+
+#footer-social-media .footer-link i {
+    font-size: 1.25rem;
+}
+
+#footer-social-media .footer-link:hover {
+    opacity: 0.4;
 }
 
 #instagram {
