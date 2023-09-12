@@ -28,6 +28,59 @@ header {
     justify-content: space-between;
     margin-bottom: 2rem;
 }
+
+.checkbtn {
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+#check {
+    display: none;
+}
+
+
+/* -------------------------- Responsividade header -------------------------- */
+@media (max-width: 935px) {
+    .checkbtn {
+        display: block;
+    }
+    ul {
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: var(--color-neutral-50);
+        top: 80px;
+        left: -100%;
+        flex-direction: column;
+        align-items: center;
+        transition: all 0.5s;
+    }
+    #header-button {
+        margin: 50px 0px 0px 40px ;
+    }
+    nav ul li {
+        display: block;
+    }
+    nav ul li a {
+        font-size: 25px;
+    }
+    a:hover,a.header-link {
+        background: none;
+        color: #4267b3;
+    }
+    nav label i {
+        margin-left: 45px;
+    }
+    #check:checked ~ ul {
+        left: 0;
+    }
+
+}
+
 /* -------------------------- Responsividade header -------------------------- */
 @media screen and (max-width: 1050px) {
     header {
@@ -52,7 +105,6 @@ nav li a {
     cursor: pointer;
     transition: all 0.5s;
     color: var(--color-neutral-40);
-    
 }
 
 nav li a:hover {
