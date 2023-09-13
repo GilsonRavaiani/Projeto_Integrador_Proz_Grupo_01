@@ -283,6 +283,7 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 
 **Previsibilidade**: As sprints têm durações fixas e entregas regulares. Isso facilita a previsibilidade das datas de entrega e permite que as partes interessadas planejem adequadamente com base no ritmo de trabalho da equipe.
 
+<<<<<<< HEAD
 ### Divisão das sprints
 
 **Sprint 01**: Sprint 01, Definição do projeto, layout e regras do negócio
@@ -290,6 +291,15 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 **Sprint 02**: Divisão das paginas e criação da estrutura em HTML
 
 **Sprint 03**: Estilização do site e organização do conteúdo através do CSS
+=======
+### Divisão das sprints do nosso projeto
+
+**Sprint 01**: ?
+
+**Sprint 02**: ?
+
+**Sprint 03**: ?
+>>>>>>> backup
 
 **Sprint 04**: ?
 
