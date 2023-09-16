@@ -28,11 +28,6 @@
     z-index: 100;
 }
 
-header a img { /* ----- tamanho da logo do header ----- */
-    width: 3.82rem;
-    height: 3.90rem;
-}
-
 .header::before {
     content: '';
     position: absolute;
@@ -98,24 +93,24 @@ header a img { /* ----- tamanho da logo do header ----- */
     cursor: pointer;
     display: none;
 }
-/* -------------------------- Responsividade Header -------------------------- */
+/* -------------------------- Responsividade Footer -------------------------- */
 @media (max-width: 1005px) {
     .header {
         transition: all 0.5s;
         padding: 1.3rem 5%;
     }
 }
-@media (max-width: 925px) {
+@media (max-width: 900px) {
     .icons {
         display: inline-flex;
     }
-    #check:checked~.icons #menu-icon { /* ----- ao clicar no menu ele irá sumir com o display none ----- */
+    #check:checked~.icons #menu-icon {
         display: none;
     }
     .icons #close-icon {
         display: none;
     }
-    #check:checked~.icons #close-icon { /* ----- ao clicar no X ele irá sumir com o display none ----- */
+    #check:checked~.icons #close-icon {
         display: block;
     }
     .navbar {
@@ -123,15 +118,15 @@ header a img { /* ----- tamanho da logo do header ----- */
         top: 100%;
         left: 0;
         width: 100%;
-        height: 0; /* ----- navbar sem altura - desativada ----- */
+        height: 0;
         background: rgba(0, 0, 0, 0.7);
-        backdrop-filter: blur(10px); /* ----- Efeito de desfoque ----- */
+        backdrop-filter: blur(10px);
         box-shadow: 0 0.5rem 1rem rgba(60, 1, 52, 0.7);
-        overflow: hidden; /* ----- Efeito Scroll ----- */
+        overflow: hidden;
         transition: 0.4s ease;
     }
     #check:checked~.navbar {
-        height: 17.7rem; /* ----- navbar possuindo a altura do menu - ativada ----- */
+        height: 17.7rem;
     }
     .navbar a {
         display: block;
@@ -140,19 +135,7 @@ header a img { /* ----- tamanho da logo do header ----- */
         text-align: center;
     }       
 }
-/* -------------------------------------------------- Fim da estilização do header -------------------------------------------------- */
 
-section {
-    display: flex;
-    top: 0;
-    left: 0;
-}
-
-div.left-first-page {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-}
 
 
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
