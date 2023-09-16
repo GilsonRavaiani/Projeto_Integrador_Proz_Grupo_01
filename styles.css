@@ -158,11 +158,40 @@ div.left-first-page { /* ----- lado esquerdo do container-first-page ----- */
     display: flex;
     justify-content: center;
     flex-direction: column;
+    margin-left: 5rem;
 }
 
 div.left-first-page h1 {
-    font-size: 3rem;
+    font-size: 4rem;
     color: var(--color-neutral-40);
+}
+
+div.left-first-page h2 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    font-weight: 100;
+    color: var(--color-neutral-40);
+}
+
+div.left-first-page p {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    font-weight: 200;
+    color: var(--color-neutral-40);
+}
+
+div button#register-button {
+    font-size: 1.15rem;
+    background: #FFCA1D;
+    width: 10rem;
+    box-shadow: none;
+    border-radius: 0.4rem;
+    border: #FFCA1D;
+    padding: 0.5rem;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer; 
 }
 
 img.img-right-first-page {
