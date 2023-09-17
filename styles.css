@@ -14,12 +14,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
 /* --------------------------------------------------Estilização do Header -------------------------------------------------- */
 .header {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100vw;
     padding: 1.3rem 10%;
     background: var(--color-neutral-50);
     display: flex;
@@ -38,7 +40,7 @@ header a img { /* ----- tamanho da logo do header ----- */
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100vw;
     height: 100%;
     background: rgba(83, 0, 86, 0.1);
     backdrop-filter: blur(50px);
@@ -49,7 +51,7 @@ header a img { /* ----- tamanho da logo do header ----- */
     position: absolute;
     top: 0;
     left: -100%;
-    width: 100%;
+    width: 100vw;
     height: 100%;
     background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
     transition: 0.6s;
@@ -71,6 +73,15 @@ header a img { /* ----- tamanho da logo do header ----- */
     text-decoration: none;
     font-weight: 500;
     margin-left: 2.5rem;
+}
+.navbar a:hover {
+    color: violet
+}
+.navbar a button#header-button:hover {
+    background-color: violet;
+    color: white;
+    font-weight: 700;
+    transition: all 0.5s;
 }
 
 #check { /* ----- checkbox "fantasma" para utilização da barra de navegação ----- */
@@ -99,7 +110,7 @@ header a img { /* ----- tamanho da logo do header ----- */
     display: none;
 }
 /* -------------------------- Responsividade Header -------------------------- */
-@media (max-width: 1005px) {
+@media (max-width: 1025px) {
     .header {
         transition: all 0.5s;
         padding: 1.3rem 5%;
@@ -143,43 +154,140 @@ header a img { /* ----- tamanho da logo do header ----- */
 /* -------------------------------------------------- Fim da estilização do header -------------------------------------------------- */
 
 /* -------------------------------------------- Estilização da primeira página "container-first-page" -------------------------------------------- */
-section.first-page{
-    top: 0;
-    left: 0;
-}
 
-div.container-first-page { /* ----- divisão do container da primeira página ----- */
+section.first-page {
+    margin-top: 5rem;
+    width: 100%;
+    height: 100vh;
     display: flex;
-    justify-content: space-around;
-    background: linear-gradient(#4B4AEF, #7f37c9, #f5f5f5);
-}
-
-div.left-first-page { /* ----- lado esquerdo do container-first-page ----- */
-    display: flex;
+    align-items: center;
     justify-content: center;
-    flex-direction: column;
-    margin-left: 5rem;
+    padding: 0px 10%;
+    background: linear-gradient(#4B4AEF, #7f37c9, #b8a7d5);   
 }
 
-div.left-first-page h1 {
-    font-size: 4rem;
+@media (max-width: 925px) { /* -------------------------- Responsividade container-first-page - 925px -------------------------- */
+    section.first-page {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        overflow: hidden;
+        padding: 20%;
+        transition: all 0.5s;
+    }
+    .left-first-page .home-title { /* h1 */
+        font-size: 6vw;
+        margin-top: 12rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-text { /* h2 */
+        font-size: 4vw;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-paragraph { /* p */
+        font-size: 2vw;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .left-first-page #register-button { /* button */
+        font-size: 3vw;
+        font-weight: 800;
+        width: 25vw;
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+    }
+}
+
+@media (max-width: 540px) { /* -------------------------- Responsividade container-first-page - 450px -------------------------- */
+    section.first-page {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        overflow: hidden;
+        padding: 20%;
+    }
+    .left-first-page .home-title { /* h1 */
+        font-size: 6vw;
+        margin-top: 6rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-text { /* h2 */
+        font-size: 5vw;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-paragraph { /* p */
+        font-size: 3vw;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .left-first-page #register-button { /* button */
+        font-size: 4vw;
+        font-weight: 900;
+        width: 40vw;
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+    }
+    .right-first-page #img-right-first-page {
+        width: 120%;
+    }
+}
+
+@media (max-width: 280px) { /* -------------------------- Responsividade container-first-page - 275px -------------------------- */
+    section.first-page {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        overflow: hidden;
+        padding: 15%;
+    }
+    .left-first-page .home-title { /* h1 */
+        font-size: 9vw;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-text { /* h2 */
+        font-size: 6.5vw;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-paragraph { /* p */
+        font-size: 3vw;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .left-first-page #register-button { /* button */
+        font-size: 0.8rem;
+        width: 70%;
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+    }
+    .right-first-page #img-right-first-page {
+        width: 120%;
+    }
+}
+
+.left-first-page h1 {
+    font-size: 4vw;
+    margin-bottom: 1rem;
+    color: var(--color-neutral-40);  
+}
+.left-first-page h2 {
+    font-size: 3vw;
+    margin-bottom: 1rem;
     color: var(--color-neutral-40);
-}
-
-div.left-first-page h2 {
-    font-size: 3rem;
-    margin-bottom: 2rem;
     font-weight: 100;
-    color: var(--color-neutral-40);
+    
 }
-
-div.left-first-page p {
-    font-size: 2rem;
-    margin-bottom: 2rem;
-    font-weight: 200;
+.left-first-page p {
+    font-size: 1.5vw;
     color: var(--color-neutral-40);
+    font-weight: 300;
+    line-height: 2rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
 }
-
 div button#register-button {
     font-size: 1.15rem;
     background: #FFCA1D;
@@ -193,13 +301,22 @@ div button#register-button {
     font-weight: 500;
     cursor: pointer; 
 }
-
-img.img-right-first-page {
-    margin: 10rem 2rem 2rem 5rem;
-    width: 50rem;
-    height: 45rem;
+div button#register-button:hover {
+    background-color: violet;
+    color: white;
+    font-weight: 700;
+    transition: all 0.5s;
 }
 
+div.right-first-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img#img-right-first-page {
+    width: 100%;
+}
 
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
 footer {
