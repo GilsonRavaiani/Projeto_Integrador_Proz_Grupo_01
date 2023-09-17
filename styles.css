@@ -172,30 +172,34 @@ section.first-page {
         flex-direction: column;
         text-align: center;
         overflow: hidden;
-        padding: 20%;
+        padding: 25%;
         transition: all 0.5s;
     }
     .left-first-page .home-title { /* h1 */
         font-size: 6vw;
-        margin-top: 12rem;
+        margin-top: 15rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-text { /* h2 */
         font-size: 4vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-paragraph { /* p */
         font-size: 2vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 2rem;
     }
     .left-first-page #register-button { /* button */
-        font-size: 3vw;
+        font-size: 2.6vw;
         font-weight: 800;
-        width: 25vw;
-        margin-top: 1rem;
-        margin-bottom: 3rem;
+        width: 21vw;
+        margin-top: 0.2rem;
+        margin-bottom: 2rem;
+    }
+    .right-first-page #img-right-first-page {
+        width: 100%;
+        margin-bottom: 20%;
     }
 }
 
@@ -206,26 +210,27 @@ section.first-page {
         text-align: center;
         overflow: hidden;
         padding: 20%;
+        transition: all 0.7s;
     }
     .left-first-page .home-title { /* h1 */
         font-size: 6vw;
-        margin-top: 6rem;
+        margin-top: 9rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-text { /* h2 */
         font-size: 5vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-paragraph { /* p */
         font-size: 3vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 2rem;
     }
     .left-first-page #register-button { /* button */
-        font-size: 4vw;
+        font-size: 3vw;
         font-weight: 900;
-        width: 40vw;
+        width: 30vw;
         margin-top: 1rem;
         margin-bottom: 3rem;
     }
@@ -241,6 +246,7 @@ section.first-page {
         text-align: center;
         overflow: hidden;
         padding: 15%;
+        transition: all 0.5s;
     }
     .left-first-page .home-title { /* h1 */
         font-size: 9vw;
@@ -248,13 +254,13 @@ section.first-page {
         margin-bottom: 1rem;
     }
     .left-first-page .home-text { /* h2 */
-        font-size: 6.5vw;
+        font-size: 6vw;
         margin-top: 1rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-paragraph { /* p */
         font-size: 3vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 2rem;
     }
     .left-first-page #register-button { /* button */
@@ -289,9 +295,9 @@ section.first-page {
     margin-bottom: 3rem;
 }
 div button#register-button {
-    font-size: 1.15rem;
+    font-size: 1.2vw;
     background: #FFCA1D;
-    width: 10rem;
+    width: 11vw;
     box-shadow: none;
     border-radius: 0.4rem;
     border: #FFCA1D;
@@ -317,6 +323,62 @@ div.right-first-page {
 img#img-right-first-page {
     width: 100%;
 }
+
+section.container-footer-first-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(75, 2, 78, 0.4);
+    color: var(--color-neutral-40);
+    font-size: 1.5vw;
+    font-weight: 200;
+    width: 100%;
+    height: 2rem;
+}
+/* ----------------------------------------- Fim da estilização da primeira página "container-first-page" ----------------------------------------- */
+
+/* ----------------------------------------- Estilização da segunda página "container-second-page" ----------------------------------------- */
+
+section.container-second-page{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;   
+}
+
+.left-second-page h3 {
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 1.3vw;
+}
+
+.left-second-page h3 span.orange-text { 
+    color: #ff9807;
+    font-weight: 600;
+}
+.left-second-page h3 span.blue-text {
+    color: #4B4AEF;
+    font-weight: 600;
+}
+
+.right-second-page ul { /* ----- icones da segunda página alinhados horizontalmente ----- */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50vw;
+    list-style: none;
+}
+
+.right-second-page img.partners-icons {
+    width: 8vw;
+    height: auto;
+}
+/* -------------------------- Responsividade container-second-page - 925px -------------------------- */
+
+
+
+
 
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
 footer {

@@ -14,12 +14,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
 /* --------------------------------------------------Estilização do Header -------------------------------------------------- */
 .header {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100vw;
     padding: 1.3rem 10%;
     background: var(--color-neutral-50);
     display: flex;
@@ -28,12 +30,17 @@
     z-index: 100;
 }
 
+header a img { /* ----- tamanho da logo do header ----- */
+    width: 3.82rem;
+    height: 3.90rem;
+}
+
 .header::before {
     content: '';
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 100vw;
     height: 100%;
     background: rgba(83, 0, 86, 0.1);
     backdrop-filter: blur(50px);
@@ -44,7 +51,7 @@
     position: absolute;
     top: 0;
     left: -100%;
-    width: 100%;
+    width: 100vw;
     height: 100%;
     background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
     transition: 0.6s;
@@ -66,6 +73,15 @@
     text-decoration: none;
     font-weight: 500;
     margin-left: 2.5rem;
+}
+.navbar a:hover {
+    color: violet
+}
+.navbar a button#header-button:hover {
+    background-color: violet;
+    color: white;
+    font-weight: 700;
+    transition: all 0.5s;
 }
 
 #check { /* ----- checkbox "fantasma" para utilização da barra de navegação ----- */
@@ -93,24 +109,24 @@
     cursor: pointer;
     display: none;
 }
-/* -------------------------- Responsividade Footer -------------------------- */
-@media (max-width: 1005px) {
+/* -------------------------- Responsividade Header -------------------------- */
+@media (max-width: 1025px) {
     .header {
         transition: all 0.5s;
         padding: 1.3rem 5%;
     }
 }
-@media (max-width: 900px) {
+@media (max-width: 925px) {
     .icons {
         display: inline-flex;
     }
-    #check:checked~.icons #menu-icon {
+    #check:checked~.icons #menu-icon { /* ----- ao clicar no menu ele irá sumir com o display none ----- */
         display: none;
     }
     .icons #close-icon {
         display: none;
     }
-    #check:checked~.icons #close-icon {
+    #check:checked~.icons #close-icon { /* ----- ao clicar no X ele irá sumir com o display none ----- */
         display: block;
     }
     .navbar {
@@ -118,15 +134,15 @@
         top: 100%;
         left: 0;
         width: 100%;
-        height: 0;
+        height: 0; /* ----- navbar sem altura - desativada ----- */
         background: rgba(0, 0, 0, 0.7);
-        backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px); /* ----- Efeito de desfoque ----- */
         box-shadow: 0 0.5rem 1rem rgba(60, 1, 52, 0.7);
-        overflow: hidden;
+        overflow: hidden; /* ----- Efeito Scroll ----- */
         transition: 0.4s ease;
     }
     #check:checked~.navbar {
-        height: 17.7rem;
+        height: 17.7rem; /* ----- navbar possuindo a altura do menu - ativada ----- */
     }
     .navbar a {
         display: block;
@@ -135,8 +151,172 @@
         text-align: center;
     }       
 }
+/* -------------------------------------------------- Fim da estilização do header -------------------------------------------------- */
 
+/* -------------------------------------------- Estilização da primeira página "container-first-page" -------------------------------------------- */
 
+section.first-page {
+    margin-top: 5rem;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 10%;
+    background: linear-gradient(#4B4AEF, #7f37c9, #b8a7d5);   
+}
+
+@media (max-width: 925px) { /* -------------------------- Responsividade container-first-page - 925px -------------------------- */
+    section.first-page {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        overflow: hidden;
+        padding: 20%;
+        transition: all 0.5s;
+    }
+    .left-first-page .home-title { /* h1 */
+        font-size: 6vw;
+        margin-top: 12rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-text { /* h2 */
+        font-size: 4vw;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-paragraph { /* p */
+        font-size: 2vw;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .left-first-page #register-button { /* button */
+        font-size: 3vw;
+        font-weight: 800;
+        width: 25vw;
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+    }
+}
+
+@media (max-width: 540px) { /* -------------------------- Responsividade container-first-page - 450px -------------------------- */
+    section.first-page {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        overflow: hidden;
+        padding: 20%;
+    }
+    .left-first-page .home-title { /* h1 */
+        font-size: 6vw;
+        margin-top: 6rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-text { /* h2 */
+        font-size: 5vw;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-paragraph { /* p */
+        font-size: 3vw;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .left-first-page #register-button { /* button */
+        font-size: 4vw;
+        font-weight: 900;
+        width: 40vw;
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+    }
+    .right-first-page #img-right-first-page {
+        width: 120%;
+    }
+}
+
+@media (max-width: 280px) { /* -------------------------- Responsividade container-first-page - 275px -------------------------- */
+    section.first-page {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        overflow: hidden;
+        padding: 15%;
+    }
+    .left-first-page .home-title { /* h1 */
+        font-size: 9vw;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-text { /* h2 */
+        font-size: 6.5vw;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    .left-first-page .home-paragraph { /* p */
+        font-size: 3vw;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+    }
+    .left-first-page #register-button { /* button */
+        font-size: 0.8rem;
+        width: 70%;
+        margin-top: 1rem;
+        margin-bottom: 3rem;
+    }
+    .right-first-page #img-right-first-page {
+        width: 120%;
+    }
+}
+
+.left-first-page h1 {
+    font-size: 4vw;
+    margin-bottom: 1rem;
+    color: var(--color-neutral-40);  
+}
+.left-first-page h2 {
+    font-size: 3vw;
+    margin-bottom: 1rem;
+    color: var(--color-neutral-40);
+    font-weight: 100;
+    
+}
+.left-first-page p {
+    font-size: 1.5vw;
+    color: var(--color-neutral-40);
+    font-weight: 300;
+    line-height: 2rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
+}
+div button#register-button {
+    font-size: 1.15rem;
+    background: #FFCA1D;
+    width: 10rem;
+    box-shadow: none;
+    border-radius: 0.4rem;
+    border: #FFCA1D;
+    padding: 0.5rem;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer; 
+}
+div button#register-button:hover {
+    background-color: violet;
+    color: white;
+    font-weight: 700;
+    transition: all 0.5s;
+}
+
+div.right-first-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img#img-right-first-page {
+    width: 100%;
+}
 
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
 footer {
