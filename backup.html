@@ -46,46 +46,59 @@
             </div>
         </section>
 
+        <section class="container-footer-first-page"> <!-- Footer da primeira parte da página-->
+            <div class="footer-first-page">
+                <p>Seu perfil estará disponível para que os clientes possam acessar e entrar em contato com você.</p>
+            </div>
+        </section>
+
+
         <section class="container-second-page"> <!-- Seção da segunda parte da página-->
             <div class="left-second-page">
-                <h3>Veja por que mais de 100.000 equipes escolhem o <strong>WhatService</strong></h3>
+                <h3>Veja por que mais de 100.000 equipes escolhem o <span class="orange-text">What</span><span
+                        class="blue-text">Service</span></h3>
             </div>
             <div class="right-second-page">
                 <ul>
-                    <li><a href="https://prozeducacao.com.br/"><img src="./assets/proz.png" alt="Proz Educação"></a>
-                    </li>
-                    <li><a href="https://www.portaltechs.com/"><img src="./assets/portal tech.png"
-                                alt="Portal Tech"></a></li>
-                    <li><a href="https://aws.amazon.com"><img src="./assets/aws.png" alt="AWS"></a></li>
-                    <li><a href="https://about.meta.com/br/"><img src="./assets/meta.png" alt="Meta"></a></li>
+                    <li><a href="https://prozeducacao.com.br/"><img class="partners-icons" src="./assets/proz.png"
+                                alt="Proz Educação"></a></li>
+                    <li><a href="https://www.portaltechs.com/"><img class="partners-icons"
+                                src="./assets/portal tech.png" alt="Portal Tech"></a></li>
+                    <li><a href="https://aws.amazon.com"><img class="partners-icons" src="./assets/aws.png"
+                                alt="AWS"></a></li>
+                    <li><a href="https://about.meta.com/br/"><img class="partners-icons" src="./assets/meta.png"
+                                alt="Meta"></a></li>
                 </ul>
             </div>
         </section>
 
-        <section class="container-third-page"> <!-- Seção da terceira parte da página-->
+        <section class="container-top-third-page">
             <div class="top-third-page">
                 <h3>O que <span class="orange-text">oferecemos?</span></h3>
-                <div class="center-third-page">
-                    <div> <!-- Regras de Negócio -->
-                        <img src="./assets/graph_icon.png" class="img-div-left" alt="Regras de Negócio">
-                        <h3>Regras do Negócio</h3>
-                        <p>Nosso plano de negócios é um documento completo, que descreve as principais atividades de
-                            negócios da nossa empresa.</p>
-                    </div>
+            </div>
+        </section>
 
-                    <div> <!-- Proteção e Privacidade -->
-                        <img src="./assets/financial_icon.png" class="img-div-mid" alt="Proteção e Privacidade">
-                        <h3>Proteção e Privacidade</h3>
-                        <p>Nossos especialistas desenvolveram o site de forma que você tenha transparência em suas
-                            transações, garantindo segurança e privacidade no decorrer da sua utilização.</p>
-                    </div>
+        <section class="container-third-page"> <!-- Seção da terceira parte da página-->
+            <div class="center-third-page">
+                <div> <!-- Regras de Negócio -->
+                    <img src="./assets/graph_icon.png" class="img-div-left" alt="Regras de Negócio">
+                    <h3>Regras do Negócio</h3>
+                    <p>Nosso plano de negócios é um documento completo, que descreve as principais atividades de
+                        negócios da nossa empresa.</p>
+                </div>
 
-                    <div> <!-- Análise de Profissionais -->
-                        <img src="./assets/market_icon.png" class="img-div-right" alt="Análise de Profissionais">
-                        <h3>Análise de Profissionais</h3>
-                        <p>Acesse o WhatService e obtenha uma avaliação quantitativa e qualitativa dos profissionais.
-                        </p>
-                    </div>
+                <div> <!-- Proteção e Privacidade -->
+                    <img src="./assets/financial_icon.png" class="img-div-mid" alt="Proteção e Privacidade">
+                    <h3>Proteção e Privacidade</h3>
+                    <p>Nossos especialistas desenvolveram o site de forma que você tenha transparência em suas
+                        transações, garantindo segurança e privacidade no decorrer da sua utilização.</p>
+                </div>
+
+                <div> <!-- Análise de Profissionais -->
+                    <img src="./assets/market_icon.png" class="img-div-right" alt="Análise de Profissionais">
+                    <h3>Análise de Profissionais</h3>
+                    <p>Acesse o WhatService e obtenha uma avaliação quantitativa e qualitativa dos profissionais.
+                    </p>
                 </div>
             </div>
         </section>
@@ -245,474 +258,3 @@
 </body>
 
 </html>
-
-<!-- CSS
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
-
-:root {
-    --color-neutral-0: #0e0c0c;
-    --color-neutral-10: #171717;
-    --color-neutral-30: #a8a29e;
-    --color-neutral-40: #f5f5f5;
-    --color-neutral-50: #7f37c9;
-}
-
-* {
-    font-family: "Poppins", sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
-/* --------------------------------------------------Estilização do Header -------------------------------------------------- */
-.header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    padding: 1.3rem 10%;
-    background: var(--color-neutral-50);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    z-index: 100;
-}
-
-header a img { /* ----- tamanho da logo do header ----- */
-    width: 3.82rem;
-    height: 3.90rem;
-}
-
-.header::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100%;
-    background: rgba(83, 0, 86, 0.1);
-    backdrop-filter: blur(50px);
-    z-index: -1;
-}
-.header::after { /* ----- Efeito ao passar o cursor no header "esquerda para a direita" ----- */
-    content: '';
-    position: absolute;
-    top: 0;
-    left: -100%;
-    width: 100vw;
-    height: 100%;
-    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
-    transition: 0.6s;
-}
-.header:hover::after { /* ----- Efeito ao sair o cursor do header "direita para a esquerda" ----- */
-    left: 100%;
-}
-
-.logo {
-    font-size: 2rem;
-    color: var(--color-neutral-40);
-    text-decoration: none;
-    font-weight: 700;
-}
-
-.navbar a {
-    font-size: 1.15rem;
-    color: var(--color-neutral-40);
-    text-decoration: none;
-    font-weight: 500;
-    margin-left: 2.5rem;
-}
-.navbar a:hover {
-    color: violet
-}
-.navbar a button#header-button:hover {
-    background-color: violet;
-    color: white;
-    font-weight: 700;
-    transition: all 0.5s;
-}
-
-#check { /* ----- checkbox "fantasma" para utilização da barra de navegação ----- */
-    display: none;
-}
-
-.navbar button {
-    font-size: 1.15rem;
-    background: #FFCA1D;
-    box-shadow: none;
-    border-radius: 0.4rem;
-    border: #FFCA1D;
-    padding: 0.5rem;
-    color: #000000;
-    text-decoration: none;
-    font-weight: 500;
-    cursor: pointer;
-}
-
-.icons { /* ----- icones: menu hambúrguer e X ----- */
-    position: absolute;
-    right: 5%;
-    font-size: 2.8rem;
-    color: #fff;
-    cursor: pointer;
-    display: none;
-}
-/* -------------------------- Responsividade Header -------------------------- */
-@media (max-width: 1025px) {
-    .header {
-        transition: all 0.5s;
-        padding: 1.3rem 5%;
-    }
-}
-@media (max-width: 925px) {
-    .icons {
-        display: inline-flex;
-    }
-    #check:checked~.icons #menu-icon { /* ----- ao clicar no menu ele irá sumir com o display none ----- */
-        display: none;
-    }
-    .icons #close-icon {
-        display: none;
-    }
-    #check:checked~.icons #close-icon { /* ----- ao clicar no X ele irá sumir com o display none ----- */
-        display: block;
-    }
-    .navbar {
-        position: absolute;
-        top: 100%;
-        left: 0;
-        width: 100%;
-        height: 0; /* ----- navbar sem altura - desativada ----- */
-        background: rgba(0, 0, 0, 0.7);
-        backdrop-filter: blur(10px); /* ----- Efeito de desfoque ----- */
-        box-shadow: 0 0.5rem 1rem rgba(60, 1, 52, 0.7);
-        overflow: hidden; /* ----- Efeito Scroll ----- */
-        transition: 0.4s ease;
-    }
-    #check:checked~.navbar {
-        height: 17.7rem; /* ----- navbar possuindo a altura do menu - ativada ----- */
-    }
-    .navbar a {
-        display: block;
-        font-size: 1.1rem;
-        margin: 1.5rem 0;
-        text-align: center;
-    }       
-}
-/* -------------------------------------------------- Fim da estilização do header -------------------------------------------------- */
-
-/* -------------------------------------------- Estilização da primeira página "container-first-page" -------------------------------------------- */
-
-section.first-page {
-    margin-top: 5rem;
-    width: 100%;
-    height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 0px 10%;
-    background: linear-gradient(#4B4AEF, #7f37c9, #b8a7d5);   
-}
-
-@media (max-width: 925px) { /* -------------------------- Responsividade container-first-page - 925px -------------------------- */
-    section.first-page {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        overflow: hidden;
-        padding: 20%;
-        transition: all 0.5s;
-    }
-    .left-first-page .home-title { /* h1 */
-        font-size: 6vw;
-        margin-top: 12rem;
-        margin-bottom: 1rem;
-    }
-    .left-first-page .home-text { /* h2 */
-        font-size: 4vw;
-        margin-top: 2rem;
-        margin-bottom: 1rem;
-    }
-    .left-first-page .home-paragraph { /* p */
-        font-size: 2vw;
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-    }
-    .left-first-page #register-button { /* button */
-        font-size: 3vw;
-        font-weight: 800;
-        width: 25vw;
-        margin-top: 1rem;
-        margin-bottom: 3rem;
-    }
-}
-
-@media (max-width: 540px) { /* -------------------------- Responsividade container-first-page - 450px -------------------------- */
-    section.first-page {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        overflow: hidden;
-        padding: 20%;
-    }
-    .left-first-page .home-title { /* h1 */
-        font-size: 6vw;
-        margin-top: 6rem;
-        margin-bottom: 1rem;
-    }
-    .left-first-page .home-text { /* h2 */
-        font-size: 5vw;
-        margin-top: 2rem;
-        margin-bottom: 1rem;
-    }
-    .left-first-page .home-paragraph { /* p */
-        font-size: 3vw;
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-    }
-    .left-first-page #register-button { /* button */
-        font-size: 4vw;
-        font-weight: 900;
-        width: 40vw;
-        margin-top: 1rem;
-        margin-bottom: 3rem;
-    }
-    .right-first-page #img-right-first-page {
-        width: 120%;
-    }
-}
-
-@media (max-width: 280px) { /* -------------------------- Responsividade container-first-page - 275px -------------------------- */
-    section.first-page {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-        overflow: hidden;
-        padding: 15%;
-    }
-    .left-first-page .home-title { /* h1 */
-        font-size: 9vw;
-        margin-top: 1rem;
-        margin-bottom: 1rem;
-    }
-    .left-first-page .home-text { /* h2 */
-        font-size: 6.5vw;
-        margin-top: 1rem;
-        margin-bottom: 1rem;
-    }
-    .left-first-page .home-paragraph { /* p */
-        font-size: 3vw;
-        margin-top: 2rem;
-        margin-bottom: 2rem;
-    }
-    .left-first-page #register-button { /* button */
-        font-size: 0.8rem;
-        width: 70%;
-        margin-top: 1rem;
-        margin-bottom: 3rem;
-    }
-    .right-first-page #img-right-first-page {
-        width: 120%;
-    }
-}
-
-.left-first-page h1 {
-    font-size: 4vw;
-    margin-bottom: 1rem;
-    color: var(--color-neutral-40);  
-}
-.left-first-page h2 {
-    font-size: 3vw;
-    margin-bottom: 1rem;
-    color: var(--color-neutral-40);
-    font-weight: 100;
-    
-}
-.left-first-page p {
-    font-size: 1.5vw;
-    color: var(--color-neutral-40);
-    font-weight: 300;
-    line-height: 2rem;
-    letter-spacing: 2.5px;
-    margin-bottom: 3rem;
-}
-div button#register-button {
-    font-size: 1.15rem;
-    background: #FFCA1D;
-    width: 10rem;
-    box-shadow: none;
-    border-radius: 0.4rem;
-    border: #FFCA1D;
-    padding: 0.5rem;
-    color: #000000;
-    text-decoration: none;
-    font-weight: 500;
-    cursor: pointer; 
-}
-div button#register-button:hover {
-    background-color: violet;
-    color: white;
-    font-weight: 700;
-    transition: all 0.5s;
-}
-
-div.right-first-page {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-img#img-right-first-page {
-    width: 100%;
-}
-
-/* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
-footer {
-    width: 100%;
-    color: var(--color-neutral-40);
-    margin-top: 4rem;
-}
-
-.footer-link {
-    text-decoration: none;
-
-}
-
-#footer-content {
-    background-color: var(--color-neutral-10);
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    padding: 3rem 3.5rem;
-}
-/* -------------------------- Responsividade Footer -------------------------- */
-@media screen and (max-width: 1050px) {
-    #footer-content {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 2rem;
-    }
-}
-
-@media screen and (max-width: 450px) {
-    #footer-content {
-        grid-template-columns: repeat(1, 1fr);
-        padding: 3rem 2rem;
-    }
-}
-/* -------------------------- Responsividade Footer -------------------------- */
-
-#footer-contacts h1 {
-    margin-bottom: 0.75rem;
-}
-
-#logo-footer {
-    width: 4rem;
-    height: 4rem;
-    margin: 1rem;
-}
-
-#footer-social-media {
-    display: flex;
-    gap: 2rem;
-    margin-top: 1.5rem;
-}
-
-#footer-social-media .footer-link {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 2.5rem;
-    width: 2.5rem;
-    color: var(--color-neutral-40);
-    border-radius: 50%;
-    transition: all 0.5s;
-}
-
-#footer-social-media .footer-link i {
-    font-size: 1.25rem;
-}
-
-#footer-social-media .footer-link:hover {
-    opacity: 0.4;
-}
-
-#instagram {
-    background: linear-gradient(#7f37c9, #ff2992, #ff9807);
-}
-
-#facebook {
-    background-color: #4267b3;
-}
-
-#whatsapp {
-    background-color: #25d366;
-}
-
-.footer-list {
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
-    list-style: none;
-}
-
-.footer-list .footer-link {
-    color: (var(--color-neutral-30));
-    transition: all 0.5s;
-}
-
-.footer-list .footer-link:hover {
-    color: var(--color-neutral-50);
-    opacity: 0.7;
-}
-
-#footer-subscribe {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-}
-
-#footer-subscribe p {
-    color: var(--color-neutral-30);
-}
-
-#input-group {
-    display: flex;
-    align-items: center;
-    background-color: var(--color-neutral-0);
-    border-radius: 4px;
-}
-
-#input-group input {
-    all: unset;
-    padding: 0.75rem;
-    width: 100%;
-}
-
-#input-group button {
-    background-color: var(--color-neutral-50);
-    border: none;
-    color: var(--color-neutral-40);
-    padding: 1.25rem;
-    font-size: 1.25rem;
-    height: 100%;
-    border-radius: 0px 4px 4px 0px;
-    cursor: pointer;
-    transition: all 0.5s;
-}
-
-#input-group button:hover {
-    opacity: 0.6;
-}
-
-#footer-copyright {
-    display: flex;
-    justify-content: center;
-    background-color: var(--color-neutral-0);
-    font-size: 0.9rem;
-    padding: 1.5rem;
-    font-weight: 200;
-    letter-spacing: 5px;
-}
-    
--->

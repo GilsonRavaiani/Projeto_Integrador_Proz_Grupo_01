@@ -33,6 +33,12 @@
 header a img { /* ----- tamanho da logo do header ----- */
     width: 3.82rem;
     height: 3.90rem;
+    cursor: pointer;
+}
+
+header a img:hover { /* Movimentação suave p/direita, ao passar o cursor na logo do header */
+    margin-left: 10px;
+    transition: 0.6s ease-in-out;
 }
 
 .header::before {
@@ -110,17 +116,21 @@ header a img { /* ----- tamanho da logo do header ----- */
     display: none;
 }
 /* -------------------------- Responsividade Header -------------------------- */
-@media (max-width: 1025px) {
+@media (max-width: 1050px) {
     .header {
         transition: all 0.5s;
         padding: 1.3rem 5%;
+    }
+    .header label.icons { /* Tamanho do menu "hambúrguer */
+        font-size: 6vw;
+        transition: all 0.5s;
     }
 }
 @media (max-width: 925px) {
     .icons {
         display: inline-flex;
     }
-    #check:checked~.icons #menu-icon { /* ----- ao clicar no menu ele irá sumir com o display none ----- */
+    #check:checked~.icons #menu-icon { /* ----- Ao clicar no menu ele irá sumir com o display none ----- */
         display: none;
     }
     .icons #close-icon {
@@ -151,9 +161,21 @@ header a img { /* ----- tamanho da logo do header ----- */
         text-align: center;
     }       
 }
+@media (max-width: 540px) {
+    .header label.icons { /* Tamanho do menu "hambúrguer */
+        font-size: 8vw;
+        transition: all 0.5s;
+    }
+}
+@media (max-width: 280px) {
+    .header label.icons { /* Tamanho do menu "hambúrguer */
+        font-size: 12vw;
+        transition: all 0.5s;
+    }
+}
 /* -------------------------------------------------- Fim da estilização do header -------------------------------------------------- */
 
-/* -------------------------------------------- Estilização da primeira página "container-first-page" -------------------------------------------- */
+/* -------------------------------------------- Estilização da primeira section "container-first-page" -------------------------------------------- */
 
 section.first-page {
     margin-top: 5rem;
@@ -172,30 +194,34 @@ section.first-page {
         flex-direction: column;
         text-align: center;
         overflow: hidden;
-        padding: 20%;
+        padding: 25%;
         transition: all 0.5s;
     }
     .left-first-page .home-title { /* h1 */
         font-size: 6vw;
-        margin-top: 12rem;
+        margin-top: 15rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-text { /* h2 */
         font-size: 4vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-paragraph { /* p */
         font-size: 2vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 2rem;
     }
     .left-first-page #register-button { /* button */
-        font-size: 3vw;
+        font-size: 2.6vw;
         font-weight: 800;
-        width: 25vw;
-        margin-top: 1rem;
-        margin-bottom: 3rem;
+        width: 21vw;
+        margin-top: 0.2rem;
+        margin-bottom: 2rem;
+    }
+    .right-first-page #img-right-first-page {
+        width: 100%;
+        margin-bottom: 20%;
     }
 }
 
@@ -206,26 +232,27 @@ section.first-page {
         text-align: center;
         overflow: hidden;
         padding: 20%;
+        transition: all 0.7s;
     }
     .left-first-page .home-title { /* h1 */
         font-size: 6vw;
-        margin-top: 6rem;
+        margin-top: 9rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-text { /* h2 */
         font-size: 5vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-paragraph { /* p */
         font-size: 3vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 2rem;
     }
     .left-first-page #register-button { /* button */
-        font-size: 4vw;
+        font-size: 3vw;
         font-weight: 900;
-        width: 40vw;
+        width: 30vw;
         margin-top: 1rem;
         margin-bottom: 3rem;
     }
@@ -241,6 +268,7 @@ section.first-page {
         text-align: center;
         overflow: hidden;
         padding: 15%;
+        transition: all 0.5s;
     }
     .left-first-page .home-title { /* h1 */
         font-size: 9vw;
@@ -248,13 +276,13 @@ section.first-page {
         margin-bottom: 1rem;
     }
     .left-first-page .home-text { /* h2 */
-        font-size: 6.5vw;
+        font-size: 6vw;
         margin-top: 1rem;
         margin-bottom: 1rem;
     }
     .left-first-page .home-paragraph { /* p */
         font-size: 3vw;
-        margin-top: 2rem;
+        margin-top: 1rem;
         margin-bottom: 2rem;
     }
     .left-first-page #register-button { /* button */
@@ -289,9 +317,9 @@ section.first-page {
     margin-bottom: 3rem;
 }
 div button#register-button {
-    font-size: 1.15rem;
+    font-size: 1.2vw;
     background: #FFCA1D;
-    width: 10rem;
+    width: 11vw;
     box-shadow: none;
     border-radius: 0.4rem;
     border: #FFCA1D;
@@ -318,6 +346,97 @@ img#img-right-first-page {
     width: 100%;
 }
 
+section.container-footer-first-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(75, 2, 78, 0.4);
+    color: var(--color-neutral-40);
+    font-size: 1.6vw;
+    font-weight: 200;
+    width: 100%;
+    height: 2rem;
+}
+/* ----------------------------------------- Fim da estilização da primeira section "container-first-page" ----------------------------------------- */
+
+/* ----------------------------------------- Estilização da segunda section "container-second-page" ----------------------------------------- */
+
+section.container-second-page{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;   
+}
+
+.left-second-page h3 {
+    margin: 0 auto;
+    font-weight: 400;
+    font-size: 1.3vw;
+}
+
+.left-second-page h3 span.orange-text { 
+    color: #ff9807;
+    font-weight: 600;
+}
+.left-second-page h3 span.blue-text {
+    color: #4B4AEF;
+    font-weight: 600;
+}
+
+.right-second-page ul { /* ----- icones da segunda section alinhados horizontalmente ----- */
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50vw;
+    list-style: none;
+}
+
+.right-second-page img.partners-icons {
+    width: 10vw;
+    height: auto;
+}
+/* -------------------------- Responsividade container-second-page - 925px -------------------------- */
+@media (max-width: 925px) {
+    section.container-second-page {
+        display: flex;
+        flex-direction: column;
+        flex: wrap;
+        padding: 5%;
+        transition: all 0.5s;
+    }
+    .left-second-page h3 {
+        margin: 0 auto;
+        font-weight: 400;
+        font-size: 2.3vw;
+    }
+    .right-second-page img.partners-icons {
+        width: 17vw;
+    }
+}
+/* ----------------------------------------- Fim da estilização da segunda section "container-second-page" ----------------------------------------- */
+
+/* ----------------------------------------- Estilização da terceira section "container-third-page" ----------------------------------------- */
+
+section.container-top-third-page { /* Texto do topo da terceira section */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: rgba(75, 2, 78, 0.1);
+    width: 100%;
+    height: auto;
+    border: 1px dashed violet;
+    margin: 1rem 0;
+}
+section.container-top-third-page h3 {
+    font-size: 2.6vw;
+    font-weight: 200;
+    color: #7f37c9;
+    letter-spacing: 0.5vw;
+}
+
+
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
 footer {
     width: 100%;
@@ -337,23 +456,29 @@ footer {
     padding: 3rem 3.5rem;
 }
 /* -------------------------- Responsividade Footer -------------------------- */
-@media screen and (max-width: 1050px) {
+@media (max-width: 1050px) {
     #footer-content {
         grid-template-columns: repeat(2, 1fr);
         gap: 2rem;
+        transition: all 0.5s;
     }
 }
 
-@media screen and (max-width: 450px) {
+@media (max-width: 540px) {
     #footer-content {
         grid-template-columns: repeat(1, 1fr);
         padding: 3rem 2rem;
+        transition: all 0.5s;
     }
 }
 /* -------------------------- Responsividade Footer -------------------------- */
 
 #footer-contacts h1 {
     margin-bottom: 0.75rem;
+}
+
+#footer-contacts p {
+    width: 80%;
 }
 
 #logo-footer {
