@@ -115,12 +115,16 @@ header a img { /* ----- tamanho da logo do header ----- */
         transition: all 0.5s;
         padding: 1.3rem 5%;
     }
+    .header label.icons { /* Tamanho do menu "hambúrguer */
+        font-size: 6vw;
+        transition: all 0.5s;
+    }
 }
 @media (max-width: 925px) {
     .icons {
         display: inline-flex;
     }
-    #check:checked~.icons #menu-icon { /* ----- ao clicar no menu ele irá sumir com o display none ----- */
+    #check:checked~.icons #menu-icon { /* ----- Ao clicar no menu ele irá sumir com o display none ----- */
         display: none;
     }
     .icons #close-icon {
@@ -150,6 +154,18 @@ header a img { /* ----- tamanho da logo do header ----- */
         margin: 1.5rem 0;
         text-align: center;
     }       
+}
+@media (max-width: 540px) {
+    .header label.icons { /* Tamanho do menu "hambúrguer */
+        font-size: 8vw;
+        transition: all 0.5s;
+    }
+}
+@media (max-width: 280px) {
+    .header label.icons { /* Tamanho do menu "hambúrguer */
+        font-size: 12vw;
+        transition: all 0.5s;
+    }
 }
 /* -------------------------------------------------- Fim da estilização do header -------------------------------------------------- */
 
@@ -331,7 +347,7 @@ section.container-footer-first-page {
     justify-content: center;
     background: rgba(75, 2, 78, 0.4);
     color: var(--color-neutral-40);
-    font-size: 1.5vw;
+    font-size: 1.6vw;
     font-weight: 200;
     width: 100%;
     height: 2rem;
@@ -371,10 +387,27 @@ section.container-second-page{
 }
 
 .right-second-page img.partners-icons {
-    width: 8vw;
+    width: 10vw;
     height: auto;
 }
 /* -------------------------- Responsividade container-second-page - 925px -------------------------- */
+@media (max-width: 925px) {
+    section.container-second-page {
+        display: flex;
+        flex-direction: column;
+        flex: wrap;
+        padding: 5%;
+        transition: all 0.5s;
+    }
+    .left-second-page h3 {
+        margin: 0 auto;
+        font-weight: 400;
+        font-size: 2.3vw;
+    }
+    .right-second-page img.partners-icons {
+        width: 17vw;
+    }
+}
 
 
 
