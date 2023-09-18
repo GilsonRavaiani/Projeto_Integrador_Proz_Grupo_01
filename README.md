@@ -285,11 +285,11 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 
 ### Divisão das sprints
 
-**Sprint 01**: Definição tema, layout e demais informações para início do projeto
+**Sprint 01**: Sprint 01, Definição do projeto, layout e regras do negócio
 
-**Sprint 02**: Criação da estrutura HTML
+**Sprint 02**: Divisão das paginas e criação da estrutura em HTML
 
-**Sprint 03**: Desenvolvendo CSS nas páginas criadas na sprint 02.
+**Sprint 03**: Estilização do site e organização do conteúdo através do CSS
 
 **Sprint 04**: ?
 
@@ -305,10 +305,6 @@ O que foi, o que está e o que será feito no projeto, colocando os pontos de ac
 
 Segue mais um exemplo do andamento que realizamos no TRELLO para entrega da sprint03:
 
-![TRELLO](./Imagens/trello2708.jpg)
+![TRELLO](./Imagens/trello_2708.jpg)
 
-01/09/2023
-
-Reorganizado pastas e arquivos .html para melhor compreensão do código.
-
-Criado branch "BACKUP" para desenvolvimento em conjunto e o que estiver pronto vamos subindo pra main.
+Iniciando merge para atualização branch main após término das atividades em relação ao CSS
