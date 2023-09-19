@@ -396,8 +396,8 @@ section.container-second-page{
     width: 10vw;
     height: auto;
 }
-/* -------------------------- Responsividade container-second-page - 925px -------------------------- */
-@media (max-width: 925px) {
+
+@media (max-width: 925px) { /* -------------------------- Responsividade container-second-page - 925px -------------------------- */
     section.container-second-page {
         display: flex;
         flex-direction: column;
@@ -448,18 +448,27 @@ div.center-third-page {
     width: 8vw;
 }
 div.center-third-page p {
-    height: 20vh;
+    margin: 2vw;
+    height: 10vh;
 }
 div.third-page {
-    margin: 4vw;
+    margin: 2vw;
+    background-color: rgb(244, 243, 243) ;
+    border-radius: 3rem;
+    padding: 2%;
 }
-@media (max-width: 660px) {
+@media (max-width: 925px) { /* -------------------------- Responsividade container-third-page - 925px -------------------------- */
     div.center-third-page {
         display: flex;
         flex-direction: column;
     }
+    div.third-page {
+        font-size: 2vw;
+    }
+    div.third-page p {
+        height: 30%;
+    }
 }
-
 
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
 footer {
