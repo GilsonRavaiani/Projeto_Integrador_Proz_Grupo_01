@@ -1,0 +1,174 @@
+* {
+   font-family: 'Maven Pro', sans-serif;
+   margin: 0;
+   padding: 0;
+   
+ }
+ 
+ header {
+  background-color: rgb(142, 1, 243);
+  /*display: flex;
+  justify-content: space-between;*/
+  padding: 5px;
+  /*margin:auto; */
+ 
+ }
+ 
+ main {
+   background-color: rgb(238, 5, 83);
+   margin-top: 20px;
+   
+  
+ }
+ 
+ section {
+   display: flex;
+   justify-content: center;
+  
+
+ }
+ 
+
+ h1{
+   font-size: 3rem;
+   text-align: center;
+   color: rgb(249, 249, 249);
+ }
+ 
+ h2{
+   font-size: 1.5rem;
+   text-align: center;
+   color: rgb(249, 249, 249);
+ }
+ 
+ h5{
+   text-align: center;
+ }
+
+
+ img {
+  max-width: 100%;
+  height: auto;
+}
+
+ 
+ 
+.logo {
+   text-align: center;
+   text-decoration-color: white;
+   justify-content: center;
+   margin: 10px;
+
+ }
+
+
+
+ 
+.content{
+   display:flex;
+   background-color: rgb(255, 208, 0);
+   justify-content: center;
+   
+   padding:10px;
+   margin: 10px;
+   
+}
+
+/*.content:hover{       
+  background-color: rgb(251, 251, 252);
+
+}*/
+
+.pedreiros {
+  width: 300px;
+  height: auto;
+  margin: 10px auto;
+  padding: 50px 0px;
+
+}
+
+.pedreiros li {
+  display: inline-block;
+  text-align: center;
+  vertical-align: top;
+  margin: 50px;
+  margin-bottom: 12px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  /*border-radius: 50px;*/
+  transition: all 0.4s;
+  box-shadow: 1px 1px 50px;
+  background-color:rgba(238, 5, 83);
+
+}
+
+.pedreiros li:hover {
+  
+  color: rgb(238, 5, 83);
+  border-color: rgb(7, 7, 7);
+  transform: scale(1.5);
+  background-color: rgb(142, 1, 243);
+}
+
+.pedreiros li:hover h2 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+    
+}
+
+
+footer {
+  bottom: 0;
+  background-color: white;
+  color: black;
+  line-height: 50px;
+}
+
+
+/*.produtos li:active {
+  border-radius: 35px;
+  border-color: rgb(34, 104, 34);
+  border-width: 3px;
+}
+
+.produtos li:active h2 {
+  color: rgb(34, 104, 34);
+}
+
+
+.produtos h2 {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}*/
+
+
+
+/*.produtos h2:hover {
+  font-size: 30px;
+  font-weight: bold;
+}
+.produto-descricao {
+  font-size: 16px;
+}
+
+.produto-preco {
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 10px;
+}
+*/
+
+
+
+

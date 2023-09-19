@@ -1,0 +1,81 @@
+/* Importando a fonte do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+/* Definindo as variáveis de cores */
+:root {
+    --color-neutral-50: #aa7adb;
+}
+
+/* Ajustando alguns pontos importantes no CSS */
+
+/* Definindo a cor de fundo do body */
+body {
+    font-family: 'Poppins', Arial, sans-serif; /* Usando a fonte importada do Google Fonts */
+    background-color: var(--color-neutral-50); /* Definindo a cor de fundo */
+}
+
+/* Coloquei no centr */
+h1 {
+    text-align: center;
+}
+
+/* CSS do formulário fazendo alguns ajustes como a largura a margem o padding etc */
+form {
+    width: 50%; /* largura */
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* CSS dos label */
+label {
+    display: block; /* */
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+/* Adicionado aqui algumas regras no input para padronizar os botões */
+input[type="text"],
+input[type="tel"],
+input[type="email"],
+input[type="file"] 
+ {
+    width: 100%; /* largura */
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Adicionado aqui algumas regras no input para padronizar os botões */
+input[type="submit"],
+input[type="reset"] {
+    padding: 10px 20px; /* define o espaço entre o conteúdo interno e as bordas */
+    background-color:  #FFCA1D;
+    color: black; 
+    border: none; /* removendo qualquer tipo de borda */
+    border-radius: 5px; /* ajustando os cantos do elemento */
+    cursor: pointer;
+}
+
+/* Adicionado hover para deixar o botão mais bonitinho e colocando uma cor pra ficar bacana =) */
+input[type="submit"]:hover,
+input[type="reset"]:hover {
+    background-color:  #FFCA1D;
+}
+
+.btn{
+    font-size: 1.15rem;
+    background: #FFCA1D;
+    width: 85px;
+    box-shadow: none;
+    border-radius: 0.4rem;
+    border: #FFCA1D;
+    padding: 0.5rem;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer;
+   
+}
