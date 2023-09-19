@@ -65,17 +65,6 @@ input[type="reset"]:hover {
     background-color:  #FFCA1D;
 }
 
-/* .btn{
-    padding: 5px 15px;
-    width: 60px;
-    background-color:#fff;
-    color: #fff;
-    border-radius: 5px;
-    text-align: center;
-    user-select: none;
-    cursor: pointer;    
-
-} */
 .btn{
     font-size: 1.15rem;
     background: #FFCA1D;
@@ -88,4 +77,5 @@ input[type="reset"]:hover {
     text-decoration: none;
     font-weight: 500;
     cursor: pointer;
+   
 }
