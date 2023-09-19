@@ -435,30 +435,6 @@ section.container-top-third-page h3 {
     color: #7f37c9;
     letter-spacing: 0.5vw;
 }
-section.container-third-page {
-    width: 100%;
-}
-div.center-third-page {
-    display: flex;
-    text-align: center;
-    margin: 10vh 10vw;
-
-}
-.img-third-page {
-    width: 8vw;
-}
-div.center-third-page p {
-    height: 20vh;
-}
-div.third-page {
-    margin: 4vw;
-}
-@media (max-width: 660px) {
-    div.center-third-page {
-        display: flex;
-        flex-direction: column;
-    }
-}
 
 
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */

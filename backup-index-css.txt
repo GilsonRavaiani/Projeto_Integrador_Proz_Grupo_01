@@ -1,3 +1,265 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Um site que irá facilitar a divulgação dos seus serviços autônomos">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./styles.css">
+    <title>WhatService</title>
+</head>
+
+<body>
+    <!-- Início do Header da página -->
+    <header class="header">
+        <a href="index.html" class="logo"><img src="./assets/WhatService Logo Circle.png" alt="logo-whatservice"
+                id="img-logo-header"></a>
+
+        <input type="checkbox" id="check">
+        <label for="check" class="icons">
+            <i class="fa-solid fa-bars" id="menu-icon"></i>
+            <i class="fa-solid fa-x" id="close-icon"></i>
+        </label>
+
+        <nav class="navbar">
+            <a href="#">Parceiros</a>
+            <a href="#">Recursos</a>
+            <a href="#">Suporte</a>
+            <a href="#">Regras do Negócio</a>
+            <a href="#"><button id="header-button" type="button">Entrar</button></a>
+        </nav>
+    </header>
+    <!-- Fim do Header e Início da Main da página -->
+    <main>
+        <section class="first-page"> <!-- Seção da primeira parte da página-->
+            <div class="left-first-page">
+                <h1 class="home-title">Ei, profissional!</h1>
+                <h2 class="home-text">O seu lugar é aqui &#x2714</h2>
+                <p class="home-paragraph">Cadastre-se, realize o login e divulgue o seu perfil e serviços.</p>
+                <button type="button" id="register-button">Cadastre-se</button>
+            </div>
+            <div class="right-first-page">
+                <img src="./assets/ex_profissionais.png" alt="Foto com dois profissionais" id="img-right-first-page">
+            </div>
+        </section>
+
+        <section class="container-footer-first-page"> <!-- Footer da primeira parte da página-->
+            <div class="footer-first-page">
+                <p>Seu perfil estará disponível para que os clientes possam acessar e entrar em contato com você.</p>
+            </div>
+        </section>
+
+
+        <section class="container-second-page"> <!-- Seção da segunda parte da página-->
+            <div class="left-second-page">
+                <h3>Veja por que mais de 100.000 equipes escolhem o <span class="orange-text">What</span><span
+                        class="blue-text">Service</span></h3>
+            </div>
+            <div class="right-second-page">
+                <ul>
+                    <li><a href="https://prozeducacao.com.br/"><img class="partners-icons" src="./assets/proz.png"
+                                alt="Proz Educação"></a></li>
+                    <li><a href="https://www.portaltechs.com/"><img class="partners-icons"
+                                src="./assets/portal tech.png" alt="Portal Tech"></a></li>
+                    <li><a href="https://aws.amazon.com"><img class="partners-icons" src="./assets/aws.png"
+                                alt="AWS"></a></li>
+                    <li><a href="https://about.meta.com/br/"><img class="partners-icons" src="./assets/meta.png"
+                                alt="Meta"></a></li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="container-top-third-page">
+            <div class="top-third-page">
+                <h3>O que <span class="orange-text">oferecemos?</span></h3>
+            </div>
+        </section>
+
+        <section class="container-third-page"> <!-- Seção da terceira parte da página-->
+            <div class="center-third-page">
+                <div class="third-page"> <!-- Regras de Negócio -->
+                    <img src="./assets/graph_icon.png" class="img-third-page" alt="Regras de Negócio">
+                    <h3>Regras do Negócio</h3>
+                    <p>Nosso plano de negócios é um documento completo, que descreve os principais negócios da nossa empresa.</p>
+                </div>
+
+                <div class="third-page"> <!-- Proteção e Privacidade -->
+                    <img src="./assets/financial_icon.png" class="img-third-page" alt="Proteção e Privacidade">
+                    <h3>Proteção e Privacidade</h3>
+                    <p>Tenha transparência em suas transações, garantindo segurança e privacidade no decorrer da sua utilização.</p>
+                </div>
+
+                <div class="third-page"> <!-- Análise de Profissionais -->
+                    <img src="./assets/market_icon.png" class="img-third-page" alt="Análise de Profissionais">
+                    <h3>Análise Profissional</h3>
+                    <p>Acesse o WhatService e obtenha uma avaliação quantitativa e qualitativa dos profissionais.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="container-fourth-page"> <!-- Seção da quarta parte da página-->
+            <div class="fourth-page">
+                <h3>Nossos <span class="orange-text">Recursos</span></h3>
+
+                <div class="clients-fourth-page">
+                    <!-- Seção dos clientes (Foto lado esquerdo - descrição lado direito)-->
+                    <img src="./assets/recursos-left1.png" alt="Imagem de clientes">
+                </div>
+                <div class="clients-description-fourth-page">
+                    <h3>Encontre tudo em um layout profissional</h3>
+                    <p>Planejar, rastrear e escolher o melhor profissional nunca foi tão fácil. Um layout profissional
+                        integrado e
+                        simples de usar, o WhatService permite que você gaste menos tempo gerenciando as suas buscas.
+                    </p>
+                </div>
+
+                <div class="acess-description-fourth-page">
+                    <!-- Seção de acesso (Descrição lado esquerdo - foto lado direito -->
+                    <h3>Acesse em minutos</h3>
+                    <p>Ao realizar o login você irá acessa uma plataforma simples e inovadora, possuindo recursos que
+                        irão aprimorar
+                        a sua busca, facilitando e incentivando a você obter assuidade na tomada de decisão, escolhendo
+                        o
+                        profissional ideal para a sua demanda.</p>
+                </div>
+                <div class="acess-fourth-page">
+                    <img src="./assets/second-right-photo.png" alt="Foto de acesso">
+                </div>
+
+                <div class="integration-fourth-page"> <!-- Seção de integração H3 e ícones abaixo -->
+                    <h3><span class="orange-text">Integre</span> com suas ferramentas existentes em poucos cliques</h3>
+                    <div class="icons">
+                        <a class="app-icon" href="https://explore.zoom.us/pt/products/meetings/"><img
+                                src="./assets/image 21.png" alt="Zoom"></a>
+                        <a class="app-icon" href="https://slack.com/intl/pt-br"><img src="./assets/image 16.png"
+                                alt="Slack"></a>
+                        <a class="app-icon" href="http://www.dropbox.com"><img src="./assets/image 15.png"
+                                alt="Dropbox"></a>
+                        <a class="app-icon" href="https://drive.google.com/"><img src="./assets/image 17.png"
+                                alt="Drive"></a>
+                    </div>
+                    <button type="button">Veja todos</button>
+                </div>
+
+                <div class="services-fourth-page">
+                    <!-- Seção dos serviços (Foto lado esquerdo - descrição lado direito)-->
+                    <img src="./assets/group 68.png" alt="Imagem de serviço">
+                </div>
+                <div class="services-description-fourth-page">
+                    <h3>Encontre os serviços ideais para a sua demanda</h3>
+                    <p>Em poucos segundos de acesso, voce poderá acessar informações e fotos que irão facilitar a sua
+                        tomada de decisão, garantindo a escolha do serviço ideal para a sua necessidade.</p>
+                </div>
+
+                <div class="rastreability-description-fourth-page">
+                    <!-- Seção de rastreabilidade (Descrição lado esquerdo - foto lado direito) -->
+                    <h3>Nós garantimos a rastreabilidade</h3>
+                    <p>Visualize os serviços prestados pelos profissionais com total rastreabilidade, através das
+                        informações sobre o dia, hora e local que a atividade foi ou será realizada. A interface visual
+                        fácil de usar permite que qualquer membro do site entre e comece, sem necessidade de
+                        treinamento.</p>
+                </div>
+                <div class="rastreability-fourth-page">
+                    <img src="./assets/group 71.png" alt="Foto de rastreabilidade">
+                </div>
+
+                <div class="suport-fourth-page"> <!-- Seção de suporte (Foto lado esquerdo - descrição lado direito)-->
+                    <img src="./assets/group 76.png" alt="Imagem oferencendo suporte">
+                    <div class="suport-description-fourth-page">
+                        <h3>Suporte ao cliente 24 horas por dia, 7 dias por semana</h3>
+                        <p>Nossa equipe está aqui para fornecer suporte personalizado dentro da hora disponível 24 horas
+                            por dia, 7 dias por semana. De acordo com nosso compromisso de fornecer um serviço superior
+                            e profissional.</p>
+                    </div>
+                </div>
+
+                <div class="testimonials"> <!-- Seção de suporte (Foto lado esquerdo - descrição lado direito)-->
+                    <div>
+                        <h3>Depoimentos de <span class="orange-text">clientes</span></h3>
+                        <img src="./assets/group 39.png" alt="Depoimentos de clientes">
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <div id="footer-content">
+            <div id="footer-contacts">
+                <a href="./index.html"><img src="./assets/WhatService Logo Circle.png" id="logo-footer"
+                        alt="WhatService Logo"></a>
+                <p>All Rights Reserved © whatservice.com</p>
+
+                <div id="footer-social-media">
+                    <a href="https://www.facebook.com/?locale=pt_BR" class="footer-link" id="facebook"><i
+                            class="fa-brands fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/" class="footer-link" id="instagram"><i
+                            class="fa-brands fa-instagram"></i></a>
+                    <a href="https://web.whatsapp.com/" class="footer-link" id="whatsapp"><i
+                            class="fa-brands fa-whatsapp"></i></a>
+
+                </div>
+            </div>
+            <ul class="footer-list">
+                <li>
+                    <h3>Organização</h3>
+                </li>
+
+                <li>
+                    <a href="#" class="footer-link">Empresa</a>
+                </li>
+                <li>
+                    <a href="#" class="footer-link">Regras de Negócio</a>
+                </li>
+            </ul>
+
+            <ul class="footer-list">
+                <li>
+                    <h3>Time</h3>
+                </li>
+
+                <li>
+                    <a href="#" class="footer-link">Sobre Nós</a>
+                </li>
+                <li>
+                    <a href="#" class="footer-link">Contate-nos</a>
+                </li>
+                <li>
+                    <a href="#" class="footer-link">Localização</a>
+                </li>
+            </ul>
+
+            <div id="footer-subscribe">
+                <h3><span class="orange-text">News</span><span class="blue-text">letter</span></h3>
+                <p>Insira o seu e-mail para receber notificações e/ou novas soluções</p>
+
+                <div id="input-group">
+                    <input type="email" id="email" placeholder="Insira o seu e-mail">
+                    <button type="button"><i class="fa-regular fa-envelope"></i>
+                    </button>
+
+                </div>
+            </div>
+        </div>
+        <div id="footer-copyright">
+            &#169
+            2023 All rights reserved
+        </div>
+    </footer>
+
+</body>
+
+</html>
+
+
+<!-- CSS -->
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 
 :root {
@@ -613,3 +875,4 @@ footer {
     font-weight: 200;
     letter-spacing: 5px;
 }
+

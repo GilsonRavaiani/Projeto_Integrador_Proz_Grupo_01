@@ -306,5 +306,3 @@ O que foi, o que está e o que será feito no projeto, colocando os pontos de ac
 Segue mais um exemplo do andamento que realizamos no TRELLO para entrega da sprint03:
 
 ![TRELLO](./Imagens/trello_2708.jpg)
-
-Finalizado CSS

@@ -84,3 +84,16 @@ section{
 p{
   font-size: 10px;
 }
+
+.btn{
+  display: flex;
+  padding: 5px 15px;
+  width: 60px;
+  background-color:#5734b8;
+  color: #fff;
+  border-radius: 5px;
+  text-align: center;
+  user-select: none;
+  cursor: pointer; 
+
+}

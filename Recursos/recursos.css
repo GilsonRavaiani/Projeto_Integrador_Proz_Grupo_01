@@ -613,3 +613,32 @@ footer {
     font-weight: 200;
     letter-spacing: 5px;
 }
+
+
+
+
+/* .btn{
+    padding: 5px 15px;
+    width: 60px;
+    background-color:#fff;
+    color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;    
+
+} */
+
+.btn{
+    font-size: 1.15rem;
+    background: #007bff;
+    width: 100px;
+    box-shadow: none;
+    border-radius: 0.4rem;
+    border: #FFCA1D;
+    padding: 0.5rem;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer;
+}
