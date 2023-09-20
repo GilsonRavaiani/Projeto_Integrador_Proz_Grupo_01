@@ -1,1 +1,1 @@
-# estilos.css e cadastro_autonomos.html
+# estilo.css e cadastro_autonomos.html
