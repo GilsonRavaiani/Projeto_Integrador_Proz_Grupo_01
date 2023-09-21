@@ -291,7 +291,7 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 
 **Sprint 03**: Estilização do site e organização do conteúdo através do CSS
 
-**Sprint 04**: ?
+**Sprint 04**: Renderização dinâmica e validação de formulários
 
 **Sprint 05**: ?
 
