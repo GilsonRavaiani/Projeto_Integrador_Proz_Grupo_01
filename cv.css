@@ -6,8 +6,8 @@
 
 /*Aplicar cor de fundo, cor em todas as fontes dentro do BODY e alinhamento dos textos ao centro*/
 
-body{
-  background-color: rgb(27, 26, 87); 
+body {
+  background: linear-gradient(#4B4AEF, #7f37c9, #b8a7d5);
   color: white;
   text-align: center;
 }
@@ -15,85 +15,90 @@ body{
 /*Aplicar cor de fundo ao HEADER(cabeçalho)*/
 
 header {
-  background: white;  
-    
+  background: white;
+
 }
 
 /* Aplicar espaçamento entre header e div id=ladoalado */
 
-h1{
+h1 {
   padding: 20px;
- 
+
 }
+
+
 
 /*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
 
 ul {
   display: flex;
-  justify-content: space-around; 
-  align-items: center;    
+  justify-content: space-around;
+  align-items: center;
 }
 
 /*Estilizado nossas fotos, cor, estilo, altura e largura*/
 
-.nossa-foto{
+.nossa-foto {
   border-style: inset;
   border-color: rgb(45, 6, 136);
   border-radius: 40%;
   width: 150px;
-  height: 150px; 
-   
-  }
+  height: 150px;
+
+}
 
 /*Estilizado  imagens dentro da UL tamanho altura e largura*/
 
-.logo-nav{
+.logo-nav {
   height: 80px;
   width: 100px;
-  
+
 }
 
 /* Estilizado fonte e cor do texto dentro da tag "a"  retirado sublinhado*/
-a{
+a {
   text-decoration: none;
   font-size: 15px;
-  color: white;
+  color: black;
 }
 
 /*Estilizado  links de acesso a redes sociais, espaçamento interno e tamanho da fonte*/
 
-section{
-  background-color: #5734b8;
+section {
+  background-color: yellow;
   border-radius: 10px;
   max-width: 150px;
   padding: 10px;
-  font-size: medium;  
+  font-size: medium;
+  font-weight: bold;
 }
 
 /*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
 
- #ladoalado{
+#ladoalado {
   display: flex;
   flex-direction: row;
-  justify-content: space-around; 
+  justify-content: space-around;
 
- }
+}
 
- /*Estilizado tamanho fonte footer*/
+/*Estilizado tamanho fonte footer*/
 
-p{
+p {
   font-size: 10px;
 }
 
-.btn{
-  display: flex;
-  padding: 5px 15px;
-  width: 60px;
-  background-color:#5734b8;
-  color: #fff;
-  border-radius: 5px;
-  text-align: center;
-  user-select: none;
-  cursor: pointer; 
+.text-footer {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+}
 
+.btn {
+  background-color: yellow;
+  border-radius: 10px;
+  max-width: 150px;
+  padding: 10px;
+  font-size: medium;
+  font-weight: bold;
 }
