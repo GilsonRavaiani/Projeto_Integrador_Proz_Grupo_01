@@ -70,6 +70,7 @@ section {
   max-width: 150px;
   padding: 10px;
   font-size: medium;
+  font-weight: bold;
 }
 
 /*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
