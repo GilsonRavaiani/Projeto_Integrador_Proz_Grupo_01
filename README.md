@@ -283,15 +283,15 @@ Vemos a importância em diversos pontos, mas vou citar alguns importantes:
 
 **Previsibilidade**: As sprints têm durações fixas e entregas regulares. Isso facilita a previsibilidade das datas de entrega e permite que as partes interessadas planejem adequadamente com base no ritmo de trabalho da equipe.
 
-### Divisão das sprints do nosso projeto
+### Divisão das sprints
 
-**Sprint 01**: ?
+**Sprint 01**: Sprint 01, Definição do projeto, layout e regras do negócio
 
-**Sprint 02**: ?
+**Sprint 02**: Divisão das paginas e criação da estrutura em HTML
 
-**Sprint 03**: ?
+**Sprint 03**: Estilização do site e organização do conteúdo através do CSS
 
-**Sprint 04**: ?
+**Sprint 04**: Renderização dinâmica e validação de formulários
 
 **Sprint 05**: ?
 
@@ -306,3 +306,13 @@ O que foi, o que está e o que será feito no projeto, colocando os pontos de ac
 Segue mais um exemplo do andamento que realizamos no TRELLO para entrega da sprint03:
 
 ![TRELLO](./Imagens/trello_2708.jpg)
+
+Concluído Sprint 03 e conforme todas as sprints uma oportunidade de aprender com as falhas, visualizar oportunidades de melhorias e agradecer pelo aprendizado obtido.
+
+Como estamos aprendendo: A prática te levará a perfeição(Posso dizer domínio, pois a perfeição é uma busca constante de melhorias).
+
+Vou deixar abaixo atualização referente ao trello da sprint 03 e o que esperamos da sprint 04:
+
+![Sprint04](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/8e753e58-420f-452b-a41f-c71ccffb0de0)
+
+![trello031023](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/8ab304e1-1307-4070-a8fc-cc54f357673a)
