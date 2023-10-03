@@ -26,6 +26,8 @@ h1 {
 
 }
 
+
+
 /*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
 
 ul {
@@ -57,13 +59,13 @@ ul {
 a {
   text-decoration: none;
   font-size: 15px;
-  color: white;
+  color: black;
 }
 
 /*Estilizado  links de acesso a redes sociais, espaçamento interno e tamanho da fonte*/
 
 section {
-  background-color: #5734b8;
+  background-color: yellow;
   border-radius: 10px;
   max-width: 150px;
   padding: 10px;
