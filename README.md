@@ -306,3 +306,12 @@ O que foi, o que está e o que será feito no projeto, colocando os pontos de ac
 Segue mais um exemplo do andamento que realizamos no TRELLO para entrega da sprint03:
 
 ![TRELLO](./Imagens/trello_2708.jpg)
+
+Concluído Sprint 03 e conforme todas as sprints uma oportunidade de aprender com as falhas, visualizar oportunidades de melhorias e agradecer pelo aprendizado obtido.
+
+Como estamos aprendendo: A prática te levará a perfeição(Posso dizer domínio, pois a perfeição é uma busca constante de melhorias).
+
+Vou deixar abaixo atualização referente ao trello da sprint 03 e o que esperamos da sprint 04:
+
+![Sprint04](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/8e753e58-420f-452b-a41f-c71ccffb0de0)
+
