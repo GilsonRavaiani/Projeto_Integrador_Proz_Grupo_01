@@ -315,3 +315,4 @@ Vou deixar abaixo atualização referente ao trello da sprint 03 e o que esperam
 
 ![Sprint04](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/8e753e58-420f-452b-a41f-c71ccffb0de0)
 
+![trello031023](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/8ab304e1-1307-4070-a8fc-cc54f357673a)
