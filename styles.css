@@ -699,4 +699,96 @@ footer {
     letter-spacing: 5px;
 }
 
-/*INICIANDO CSS PÁGINA CV.HTML*/
+/* INICIO CSS PÁGINA CV*/
+
+/*Aplicar cor de fundo, cor em todas as fontes dentro do BODY e alinhamento dos textos ao centro*/
+
+.body-cv {
+    background: linear-gradient(#4B4AEF, #7f37c9, #b8a7d5);
+    color: white;
+    text-align: center;
+}
+
+/*Aplicar cor de fundo ao HEADER(cabeçalho)*/
+
+.header-cv {
+    background: white;
+}
+
+/* Aplicar espaçamento entre header e div id=ladoalado */
+
+.h1-cv {
+    padding: 20px;
+}
+
+/*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
+
+.ul-cv {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*Estilizado nossas fotos, cor, estilo, altura e largura*/
+
+.nossa-foto-cv {
+    border-style: inset;
+    border-color: rgb(71, 28, 170);
+    border-radius: 40%;
+    width: 150px;
+    height: 150px;
+}
+
+/*Estilizado  imagens dentro da UL tamanho altura e largura*/
+
+.logo-nav-cv {
+    height: 80px;
+    width: 100px;
+}
+
+/* Estilizado fonte e cor do texto dentro da tag "a"  retirado sublinhado*/
+.a-cv {
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+}
+
+/*Estilizado  links de acesso a redes sociais, espaçamento interno e tamanho da fonte*/
+
+.section-cv {
+    background-color: #7d7dee;
+    border-radius: 10px;
+    max-width: 150px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+/*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
+
+#ladoalado {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+/*Estilizado tamanho fonte footer*/
+
+.p-cv {
+    font-size: 10px;
+}
+
+.text-footer-cv {
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn-cv {
+    background-color: #7d7dee;
+    border-radius: 10px;
+    max-width: 150px;
+    padding: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
