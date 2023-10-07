@@ -343,4 +343,6 @@ Para nosso site escolhemos .shop, apesar de muitos assimilarem o .shop como um s
 
 ![shop](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/dcc31d38-765d-445c-9b73-00284b8f67a8)
 
+Depois de definirmos a URL, criamos o termo de uso referente ao cadastro para acesso ao site:
 
+[TERMOS DE USO PARA O REGISTRO DE CLIENTES E PROFISSIONAIS.pdf](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/files/12837081/TERMOS.DE.USO.PARA.O.REGISTRO.DE.CLIENTES.E.PROFISSIONAIS.pdf)
