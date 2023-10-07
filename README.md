@@ -342,3 +342,5 @@ Vou deixar alguns exemplos abaixo, mas lembrando que existem várias opções.
 Para nosso site escolhemos .shop, apesar de muitos assimilarem o .shop como um shopping online, esse sufixo(TLDs - Top-Level Domains) vai além disso. Veja a imagem abaixo:
 
 ![shop](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/dcc31d38-765d-445c-9b73-00284b8f67a8)
+
+
