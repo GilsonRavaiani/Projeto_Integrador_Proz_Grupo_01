@@ -468,12 +468,8 @@ section.container-second-page {
     height: auto;
 }
 
-<<<<<<< HEAD
-@media (max-width: 925px) { /* -------------------------- Responsividade container-second-page - 925px -------------------------- */
-=======
 /* -------------------------- Responsividade container-second-page - 925px -------------------------- */
 @media (max-width: 925px) {
->>>>>>> 78041db2969190fcc2cc6c42bbba17fde07dd9f8
     section.container-second-page {
         display: flex;
         flex-direction: column;
@@ -543,12 +539,8 @@ div.third-page {
     border-radius: 3rem;
     padding: 2%;
 }
-<<<<<<< HEAD
-@media (max-width: 925px) { /* -------------------------- Responsividade container-third-page - 925px -------------------------- */
-=======
 
 @media (max-width: 660px) {
->>>>>>> 78041db2969190fcc2cc6c42bbba17fde07dd9f8
     div.center-third-page {
         display: flex;
         flex-direction: column;
