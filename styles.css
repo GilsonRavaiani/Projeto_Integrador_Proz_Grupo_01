@@ -529,11 +529,15 @@ div.center-third-page {
 }
 
 div.center-third-page p {
-    height: 20vh;
+    margin: 2vw;
+    height: 10vh;
 }
 
 div.third-page {
-    margin: 4vw;
+    margin: 2vw;
+    background-color: rgb(244, 243, 243) ;
+    border-radius: 3rem;
+    padding: 2%;
 }
 
 @media (max-width: 660px) {
@@ -541,8 +545,13 @@ div.third-page {
         display: flex;
         flex-direction: column;
     }
+    div.third-page {
+        font-size: 2vw;
+    }
+    div.third-page p {
+        height: 30%;
+    }
 }
-
 
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
 footer {
