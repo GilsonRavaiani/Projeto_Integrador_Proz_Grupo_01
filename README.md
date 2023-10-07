@@ -316,3 +316,9 @@ Vou deixar abaixo atualização referente ao trello da sprint 03 e o que esperam
 ![Sprint04](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/8e753e58-420f-452b-a41f-c71ccffb0de0)
 
 ![trello031023](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/8ab304e1-1307-4070-a8fc-cc54f357673a)
+
+Importante também é criarmos uma URL(sigla para Uniform Resource Locator) plataforma pelo qual o usuário vai acessar o site, e chegou a hora de definirmos.
+
+Primeiro foi a escolha no domínio ao qual o usuário/cliente irá digitar para acesso.
+
+O registro principal temos o nome da empresa: Whatservice e 
