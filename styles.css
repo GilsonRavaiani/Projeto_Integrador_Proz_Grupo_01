@@ -750,6 +750,11 @@ footer {
     /*Largura*/
 }
 
+.h3-cv {
+    font-size: 2vw;
+    text-align: center;
+}
+
 /*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
 
 .ul-cv {
@@ -764,8 +769,9 @@ footer {
     border-style: inset;
     border-color: rgb(71, 28, 170);
     border-radius: 40%;
-    width: 7vw;
-    height: auto;
+    width: 12vw;
+    /*Responsivo*/
+    height: 100%;
 }
 
 /*Estilizado  imagens dentro da UL tamanho altura e largura*/
@@ -799,6 +805,7 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
+    align-items: center;
 }
 
 /*Estilizado tamanho fonte footer*/
