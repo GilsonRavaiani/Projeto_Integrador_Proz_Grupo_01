@@ -741,18 +741,7 @@ footer {
 /* Aplicar espaçamento entre header e div id=ladoalado */
 
 .h1-cv {
-    padding: 2rem;
-    font-size: 3vw;
-    /*tamanho da fonte responsivo */
-    letter-spacing: 5px;
-    /*Espaçamento horizontal entre caracteres*/
-    font-weight: 500;
-    /*Largura*/
-}
-
-.h3-cv {
-    font-size: 2vw;
-    text-align: center;
+    padding: 20px;
 }
 
 /*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
@@ -769,14 +758,8 @@ footer {
     border-style: inset;
     border-color: rgb(71, 28, 170);
     border-radius: 40%;
-<<<<<<< HEAD
-    width: 12vw;
-    /*Responsivo*/
-=======
-    text-align: center;
-    width: 12vw;
->>>>>>> 6879b5be29cc1ee66ef7399ad8795de9bed5b3af
-    height: 100%;
+    width: 150px;
+    height: 150px;
 }
 
 /*Estilizado  imagens dentro da UL tamanho altura e largura*/
@@ -810,7 +793,6 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    align-items: center;
 }
 
 /*Estilizado tamanho fonte footer*/
@@ -827,6 +809,7 @@ footer {
 }
 
 .btn-cv {
+
     background-color: #7d7dee;
     border-radius: 10px;
     max-width: 150px;
