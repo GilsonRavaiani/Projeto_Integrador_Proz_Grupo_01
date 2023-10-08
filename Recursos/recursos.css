@@ -1,7 +1,63 @@
-.btn{
-    font-size: 1.15rem;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+:root {
+    --color-neutral-0: #0e0c0c;
+    --color-neutral-10: #171717;
+    --color-neutral-30: #a8a29e;
+    --color-neutral-40: #f5f5f5;
+    --color-neutral-50: #7f37c9;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section.container-fourth-page {
+    display: flex;
+    align-items: center;
+}
+
+div.left-fourth-page {
+    margin: 1rem;
+    width: 50%;
+}
+
+section div.left-fourth-page h2 {
+    padding: 1rem;
+    font-size: 4vw;
+    color: var(--color-neutral-50);
+    letter-spacing: 7px;
+}
+
+section div.left-fourth-page h3 {
+    padding: 1rem;
+    font-size: 1.5vw;
+    color:var(--color-neutral-30);
+    letter-spacing: 5px;
+    font-weight: 400;
+}
+
+section div.left-fourth-page p {
+    text-align: justify;
+    padding: 1rem;
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 2rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
+}
+
+section div.left-fourth-page a {
+    padding: 1rem;
+}
+
+div button#fourth-page-button {
+    font-size: 1.2vw;
     background: #FFCA1D;
-    width: 85px;
+    width: 11vw;
     box-shadow: none;
     border-radius: 0.4rem;
     border: #FFCA1D;
@@ -9,5 +65,69 @@
     color: #000000;
     text-decoration: none;
     font-weight: 500;
-    cursor: pointer;
+    cursor: pointer;
+}
+
+div button#fourth-page-button:hover {
+    background-color: violet;
+    color: white;
+    font-weight: 700;
+    transition: all 0.5s;
+}
+
+div.right-fourth-page {
+    margin: 1rem ;
+}
+
+div.right-fourth-page img {
+    width: 100%;
+}
+
+@media (max-width: 660px) {
+    section.container-fourth-page {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: all 0.7s;
+    }
+
+    div.right-fourth-page {
+        align-items: center;
+        width: 70%;
+    }
+    section div.left-fourth-page h2 {
+        /* h2 */
+        font-size: 8vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+    section div.left-fourth-page h3 {
+        padding: 1rem;
+        font-size: 3.5vw;
+        color:var(--color-neutral-30);
+        letter-spacing: 5px;
+        font-weight: 400;
+        transition: all 0.7s;
+    }
+    section div.left-fourth-page p {
+        text-align: justify;
+        padding: 1rem;
+        font-size: 3vw;
+        font-weight: 300;
+        line-height: 2rem;
+        letter-spacing: 2.5px;
+        margin-bottom: 3rem;
+        transition: all 0.7s;
+    }
+    div button#fourth-page-button {
+        /* button */
+        font-size: 2.6vw;
+        font-weight: 800;
+        width: 90%;
+        margin-top: 0.2rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+
 }
