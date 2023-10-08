@@ -15,16 +15,21 @@
     box-sizing: border-box;
 }
 
-section.container-fourth-page {
+/* -------------------------------------------------- Estilização da página "Nossos Recursos" --------------------------------------------- */
+section.container-fourth-page { 
     display: flex;
     align-items: center;
+    margin: 4rem 1rem;
 }
 
 div.left-fourth-page {
-    margin: 1rem;
+    width: 50%;
+    margin-right: 1rem;
+
+}
+div.right-fourth-page {
     width: 50%;
 }
-
 section div.left-fourth-page h2 {
     padding: 1rem;
     font-size: 4vw;
@@ -45,7 +50,7 @@ section div.left-fourth-page p {
     padding: 1rem;
     font-size: 1.5vw;
     font-weight: 300;
-    line-height: 2rem;
+    line-height: 3rem;
     letter-spacing: 2.5px;
     margin-bottom: 3rem;
 }
@@ -82,7 +87,15 @@ div.right-fourth-page {
 div.right-fourth-page img {
     width: 100%;
 }
-
+/* -------------------------------------------------- Responsividade da página "Nossos Recursos" --------------------------------------------- */
+@media (max-width: 830px) {
+    section div.left-fourth-page p {
+    font-size: 2vw;
+    font-weight: 300;
+    line-height: 2rem;
+    transition: all 0.7s;
+}
+}
 @media (max-width: 660px) {
     section.container-fourth-page {
         display: flex;
@@ -90,7 +103,10 @@ div.right-fourth-page img {
         width: 100%;
         transition: all 0.7s;
     }
-
+    div.left-fourth-page {
+        margin: 1rem;
+        width: 80%;
+    }
     div.right-fourth-page {
         align-items: center;
         width: 70%;
@@ -101,6 +117,7 @@ div.right-fourth-page img {
         margin-top: 1rem;
         margin-bottom: 2rem;
         transition: all 0.7s;
+        text-align: center;
     }
     section div.left-fourth-page h3 {
         padding: 1rem;
@@ -109,6 +126,7 @@ div.right-fourth-page img {
         letter-spacing: 5px;
         font-weight: 400;
         transition: all 0.7s;
+        text-align: center;
     }
     section div.left-fourth-page p {
         text-align: justify;
@@ -119,6 +137,7 @@ div.right-fourth-page img {
         letter-spacing: 2.5px;
         margin-bottom: 3rem;
         transition: all 0.7s;
+        width: 100%;
     }
     div button#fourth-page-button {
         /* button */
@@ -129,5 +148,86 @@ div.right-fourth-page img {
         margin-bottom: 2rem;
         transition: all 0.7s;
     }
+}
+/* -------------------------------------------------- Estilização da página "Nossos Recursos" --------------------------------------------- */
 
+/* -------------------------------------------------- Estilização da página "Acesse em Minutos" --------------------------------------------- */
+section.access-fourth-page { 
+    display: flex;
+    align-items: center;
+    margin: 4rem 1rem;
+}
+div.left-access-fourth-page {
+    width: 50%;
+}
+div.right-description-fourth-page {
+    width: 50%;
+    margin-right: 1rem;
+}
+section div.right-description-fourth-page h3 {
+    padding: 1rem;
+    font-size: 3.5vw;
+    color: var(--color-neutral-50);
+    letter-spacing: 7px;
+}
+section div.right-description-fourth-page p {
+    text-align: justify;
+    padding: 1rem;
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 3rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
+}
+section div.right-description-fourth-page a {
+    padding: 1rem;
+}
+div.left-access-fourth-page {
+    margin: 1rem ;
+}
+
+div.left-access-fourth-page img {
+    width: 100%;
+}
+/* -------------------------------------------------- Responsividade da página "Acesse em Minutos" --------------------------------------------- */
+@media (max-width: 830px) {
+    section div.right-description-fourth-page p {
+    font-size: 2vw;
+    font-weight: 300;
+    line-height: 2rem;
+    transition: all 0.7s;
+}
+}
+@media (max-width: 660px) {
+    section.access-fourth-page {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: all 0.7s;
+    }
+    div.right-description-fourth-page {
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+        text-align: center;
+    }
+    section div.right-description-fourth-page h3 {
+        padding: 1rem;
+        color:var(--color-neutral-50);
+        letter-spacing: 5px;
+        font-size: 8vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+    section div.right-description-fourth-page p {
+        text-align: justify;
+        padding: 1rem;
+        font-size: 3vw;
+        font-weight: 300;
+        line-height: 2rem;
+        letter-spacing: 2.5px;
+        margin-bottom: 3rem;
+        transition: all 0.7s;
+    }
 }
