@@ -529,8 +529,10 @@ div.center-third-page {
 }
 
 div.center-third-page p {
+    text-align: center;
+    font-size: 1.3vw;
     margin: 2vw;
-    height: 10vh;
+    height: 30vh;
 }
 
 div.third-page {
@@ -538,6 +540,16 @@ div.third-page {
     background-color: rgb(244, 243, 243) ;
     border-radius: 3rem;
     padding: 2%;
+}
+
+@media (max-width: 925px) {
+    div.third-page {
+        font-size: 2vw;
+    }
+    div.third-page p {
+        font-size: 2vw;
+        height: 30%;
+    }
 }
 
 @media (max-width: 660px) {
@@ -549,6 +561,7 @@ div.third-page {
         font-size: 2vw;
     }
     div.third-page p {
+        font-size: 2vw;
         height: 30%;
     }
 }
