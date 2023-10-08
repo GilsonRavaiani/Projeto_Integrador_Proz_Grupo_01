@@ -1,12 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+:root {
+    --color-neutral-0: #0e0c0c;
+    --color-neutral-10: #171717;
+    --color-neutral-30: #a8a29e;
+    --color-neutral-40: #f5f5f5;
+    --color-neutral-50: #7f37c9;
+}
+
+
 * {
-   font-family: 'Maven Pro', sans-serif;
-   margin: 0;
-   padding: 0;
-   
- }
- 
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
  header {
-  background-color: rgb(142, 1, 243);
+  background-color: rgb(130, 41, 194);
   padding: 5px;
 
  
@@ -100,7 +111,7 @@ background-color:rgba(238, 5, 83);
 color: rgb(238, 5, 83);
 border-color: rgb(7, 7, 7);
 transform: scale(1.5);
-background-color: rgb(142, 1, 243);
+background-color: rgb(130, 41, 194);
 
 
 }
@@ -129,7 +140,7 @@ background-color:rgba(238, 5, 83);
 color: rgb(238, 5, 83);
 border-color: rgb(7, 7, 7);
 transform: scale(1.5);
-background-color: rgb(142, 1, 243);
+background-color: rgb(130, 41, 194);
 
 }
 
@@ -155,8 +166,7 @@ background-color:rgba(238, 5, 83);
 color: rgb(238, 5, 83);
 border-color: rgb(7, 7, 7);
 transform: scale(1.5);
-background-color: rgb(142, 1, 243);
-
+background-color: rgb(130, 41, 194);
 }
 
 .eletricista{
@@ -181,7 +191,7 @@ background-color:rgba(238, 5, 83);
 color: rgb(238, 5, 83);
 border-color: rgb(7, 7, 7);
 transform: scale(1.5);
-background-color: rgb(142, 1, 243);
+background-color: rgb(130, 41, 194);
 
 
 }
@@ -209,7 +219,7 @@ background-color:rgba(238, 5, 83);
 color: rgb(238, 5, 83);
 border-color: rgb(7, 7, 7);
 transform: scale(1.5);
-background-color: rgb(142, 1, 243);
+background-color: rgb(130, 41, 194);
 
 
 }
