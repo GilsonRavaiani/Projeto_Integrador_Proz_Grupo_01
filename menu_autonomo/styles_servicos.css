@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+:root {
+    --color-neutral-0: #0e0c0c;
+    --color-neutral-10: #171717;
+    --color-neutral-30: #a8a29e;
+    --color-neutral-40: #f5f5f5;
+    --color-neutral-50: #7f37c9;
+}
+
+
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ header {
+  background-color: rgb(130, 41, 194);
+  padding: 5px;
+
+ 
+ }
+ 
+ main {
+   background-color: rgb(238, 5, 83);
+   margin-top: 20px;
+   
+  
+ }
+ 
+ section {
+   display: flex;
+   justify-content: center;
+  
+
+ }
+ 
+
+ h1{
+   font-size: 3rem;
+   text-align: center;
+   color: rgb(249, 249, 249);
+ }
+ 
+ h2{
+   font-size: 1.5rem;
+   text-align: center;
+   color: rgb(249, 249, 249);
+ }
+ 
+ h5{
+   text-align: center;
+ }
+
+
+ img, a {
+  max-width: 100%;
+  height: auto;
+}
+
+ 
+ 
+.logo {
+   text-align: center;
+   text-decoration-color: white;
+   justify-content: center;
+   margin: 10px;
+
+ }
+
+
+ 
+.content{
+   display:flex;
+   background-color: rgb(255, 208, 0);
+   justify-content: center;
+   
+   padding:10px;
+   margin: 10px;
+   
+}
+
+.content:hover{       
+  background-color: rgb(251, 251, 252);
+
+}
+
+.pedreiro{
+
+display: inline-block;
+text-align: center;
+vertical-align: top;
+margin: 10px;
+margin-bottom: 12px;
+padding: 10px 20px;
+box-sizing: border-box;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+
+transition: all 0.4s;
+box-shadow: 1px 1px 50px;
+background-color:rgba(238, 5, 83);
+
+}
+
+.pedreiro:hover{
+      
+color: rgb(238, 5, 83);
+border-color: rgb(7, 7, 7);
+transform: scale(1.5);
+background-color: rgb(130, 41, 194);
+
+
+}
+
+
+.encanador{
+display: inline-block;
+text-align: center;
+vertical-align: top;
+margin: 10px;
+margin-bottom: 12px;
+padding: 10px 20px;
+box-sizing: border-box;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+
+transition: all 0.4s;
+box-shadow: 1px 1px 50px;
+background-color:rgba(238, 5, 83);
+  
+ 
+}
+
+.encanador:hover{
+color: rgb(238, 5, 83);
+border-color: rgb(7, 7, 7);
+transform: scale(1.5);
+background-color: rgb(130, 41, 194);
+
+}
+
+
+.pintor{
+display: inline-block;
+text-align: center;
+vertical-align: top;
+margin: 10px;
+margin-bottom: 12px;
+padding: 10px 20px;
+box-sizing: border-box;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+  
+transition: all 0.4s;
+box-shadow: 1px 1px 50px;
+background-color:rgba(238, 5, 83);
+}
+
+.pintor:hover{   
+color: rgb(238, 5, 83);
+border-color: rgb(7, 7, 7);
+transform: scale(1.5);
+background-color: rgb(130, 41, 194);
+}
+
+.eletricista{
+display: inline-block;
+text-align: center;
+vertical-align: top;
+margin: 10px;
+margin-bottom: 12px;
+padding: 10px 20px;
+box-sizing: border-box;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+    
+transition: all 0.4s;
+box-shadow: 1px 1px 50px;
+background-color:rgba(238, 5, 83);
+
+}
+
+.eletricista:hover{  
+color: rgb(238, 5, 83);
+border-color: rgb(7, 7, 7);
+transform: scale(1.5);
+background-color: rgb(130, 41, 194);
+
+
+}
+
+.diarista{
+display: inline-block;
+text-align: center;
+vertical-align: top;
+margin: 10px;
+margin-bottom: 12px;
+padding: 10px 20px;
+box-sizing: border-box;
+border-color: black;
+border-width: 2px;
+border-style: solid;
+      
+transition: all 0.4s;
+box-shadow: 1px 1px 50px;
+background-color:rgba(238, 5, 83);
+  
+    
+}
+
+.diarista:hover{  
+color: rgb(238, 5, 83);
+border-color: rgb(7, 7, 7);
+transform: scale(1.5);
+background-color: rgb(130, 41, 194);
+
+
+}
+
+
+
+footer {
+  bottom: 0;
+  background-color: white;
+  color: black;
+  line-height: 50px;
+}
+
