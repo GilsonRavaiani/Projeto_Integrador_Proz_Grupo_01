@@ -741,7 +741,13 @@ footer {
 /* Aplicar espaçamento entre header e div id=ladoalado */
 
 .h1-cv {
-    padding: 20px;
+    padding: 2rem;
+    font-size: 3vw;
+    /*tamanho da fonte responsivo */
+    letter-spacing: 5px;
+    /*Espaçamento horizontal entre caracteres*/
+    font-weight: 500;
+    /*Largura*/
 }
 
 /*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
