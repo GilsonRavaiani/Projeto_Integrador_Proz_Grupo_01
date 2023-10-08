@@ -669,8 +669,9 @@ footer {
     border-style: inset;
     border-color: rgb(71, 28, 170);
     border-radius: 40%;
-    width: 150px;
-    height: 150px;
+    text-align: center;
+    width: 12vw;
+    height: 100%;
 }
 /*Estilizado  imagens dentro da UL tamanho altura e largura*/
 
@@ -713,7 +714,6 @@ footer {
     height: 9rem;
 }
 .btn-cv {
-
     background-color: #7d7dee;
     border-radius: 10px;
     max-width: 150px;
