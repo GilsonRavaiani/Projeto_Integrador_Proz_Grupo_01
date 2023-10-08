@@ -29,17 +29,20 @@
     align-items: center;
     z-index: 100;
 }
+
 header a img {
     /* ----- tamanho da logo do header ----- */
     width: 3.82rem;
     height: 3.90rem;
     cursor: pointer;
 }
+
 header a img:hover {
     /* Movimentação suave p/direita, ao passar o cursor na logo do header */
     margin-left: 10px;
     transition: 0.6s ease-in-out;
 }
+
 .header::before {
     content: '';
     position: absolute;
@@ -51,6 +54,7 @@ header a img:hover {
     backdrop-filter: blur(50px);
     z-index: -1;
 }
+
 .header::after {
     /* ----- Efeito ao passar o cursor no header "esquerda para a direita" ----- */
     content: '';
@@ -62,16 +66,19 @@ header a img:hover {
     background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
     transition: 0.6s;
 }
+
 .header:hover::after {
     /* ----- Efeito ao sair o cursor do header "direita para a esquerda" ----- */
     left: 100%;
 }
+
 .logo {
     font-size: 2rem;
     color: var(--color-neutral-40);
     text-decoration: none;
     font-weight: 700;
 }
+
 .navbar a {
     font-size: 1.15rem;
     color: var(--color-neutral-40);
@@ -79,19 +86,23 @@ header a img:hover {
     font-weight: 500;
     margin-left: 2.5rem;
 }
+
 .navbar a:hover {
     color: violet
 }
+
 .navbar a button#header-button:hover {
     background-color: violet;
     color: white;
     font-weight: 700;
     transition: all 0.5s;
 }
+
 #check {
     /* ----- checkbox "fantasma" para utilização da barra de navegação ----- */
     display: none;
 }
+
 .navbar button {
     font-size: 1.15rem;
     background: #FFCA1D;
@@ -104,6 +115,7 @@ header a img:hover {
     font-weight: 500;
     cursor: pointer;
 }
+
 .icons {
     /* ----- icones: menu hambúrguer e X ----- */
     position: absolute;
@@ -120,27 +132,33 @@ header a img:hover {
         transition: all 0.5s;
         padding: 1.3rem 5%;
     }
+
     .header label.icons {
         /* Tamanho do menu "hambúrguer */
         font-size: 6vw;
         transition: all 0.5s;
     }
 }
+
 @media (max-width: 925px) {
     .icons {
         display: inline-flex;
     }
+
     #check:checked~.icons #menu-icon {
         /* ----- Ao clicar no menu ele irá sumir com o display none ----- */
         display: none;
     }
+
     .icons #close-icon {
         display: none;
     }
+
     #check:checked~.icons #close-icon {
         /* ----- ao clicar no X ele irá sumir com o display none ----- */
         display: block;
     }
+
     .navbar {
         position: absolute;
         top: 100%;
@@ -156,10 +174,12 @@ header a img:hover {
         /* ----- Efeito Scroll ----- */
         transition: 0.4s ease;
     }
+
     #check:checked~.navbar {
         height: 17.7rem;
         /* ----- navbar possuindo a altura do menu - ativada ----- */
     }
+
     .navbar a {
         display: block;
         font-size: 1.1rem;
@@ -167,6 +187,7 @@ header a img:hover {
         text-align: center;
     }
 }
+
 @media (max-width: 540px) {
     .header label.icons {
         /* Tamanho do menu "hambúrguer */
@@ -174,6 +195,7 @@ header a img:hover {
         transition: all 0.5s;
     }
 }
+
 @media (max-width: 280px) {
     .header label.icons {
         /* Tamanho do menu "hambúrguer */
@@ -198,6 +220,7 @@ section.first-page {
 }
 
 @media (max-width: 925px) {
+
     /* -------------------------- Responsividade container-first-page - 925px -------------------------- */
     section.first-page {
         display: flex;
@@ -207,24 +230,28 @@ section.first-page {
         padding: 25%;
         transition: all 0.5s;
     }
+
     .left-first-page .home-title {
         /* h1 */
         font-size: 6vw;
         margin-top: 15rem;
         margin-bottom: 1rem;
     }
+
     .left-first-page .home-text {
         /* h2 */
         font-size: 4vw;
         margin-top: 1rem;
         margin-bottom: 1rem;
     }
+
     .left-first-page .home-paragraph {
         /* p */
         font-size: 2vw;
         margin-top: 1rem;
         margin-bottom: 2rem;
     }
+
     .left-first-page #register-button {
         /* button */
         font-size: 2.6vw;
@@ -233,6 +260,7 @@ section.first-page {
         margin-top: 0.2rem;
         margin-bottom: 2rem;
     }
+
     .right-first-page #img-right-first-page {
         width: 100%;
         margin-bottom: 20%;
@@ -240,6 +268,7 @@ section.first-page {
 }
 
 @media (max-width: 540px) {
+
     /* -------------------------- Responsividade container-first-page - 450px -------------------------- */
     section.first-page {
         display: flex;
@@ -249,24 +278,28 @@ section.first-page {
         padding: 20%;
         transition: all 0.7s;
     }
+
     .left-first-page .home-title {
         /* h1 */
         font-size: 6vw;
         margin-top: 9rem;
         margin-bottom: 1rem;
     }
+
     .left-first-page .home-text {
         /* h2 */
         font-size: 5vw;
         margin-top: 1rem;
         margin-bottom: 1rem;
     }
+
     .left-first-page .home-paragraph {
         /* p */
         font-size: 3vw;
         margin-top: 1rem;
         margin-bottom: 2rem;
     }
+
     .left-first-page #register-button {
         /* button */
         font-size: 3vw;
@@ -275,12 +308,14 @@ section.first-page {
         margin-top: 1rem;
         margin-bottom: 3rem;
     }
+
     .right-first-page #img-right-first-page {
         width: 120%;
     }
 }
 
 @media (max-width: 280px) {
+
     /* -------------------------- Responsividade container-first-page - 275px -------------------------- */
     section.first-page {
         display: flex;
@@ -290,24 +325,28 @@ section.first-page {
         padding: 15%;
         transition: all 0.5s;
     }
+
     .left-first-page .home-title {
         /* h1 */
         font-size: 9vw;
         margin-top: 1rem;
         margin-bottom: 1rem;
     }
+
     .left-first-page .home-text {
         /* h2 */
         font-size: 6vw;
         margin-top: 1rem;
         margin-bottom: 1rem;
     }
+
     .left-first-page .home-paragraph {
         /* p */
         font-size: 3vw;
         margin-top: 1rem;
         margin-bottom: 2rem;
     }
+
     .left-first-page #register-button {
         /* button */
         font-size: 0.8rem;
@@ -315,15 +354,18 @@ section.first-page {
         margin-top: 1rem;
         margin-bottom: 3rem;
     }
+
     .right-first-page #img-right-first-page {
         width: 120%;
     }
 }
+
 .left-first-page h1 {
     font-size: 4vw;
     margin-bottom: 1rem;
     color: var(--color-neutral-40);
 }
+
 .left-first-page h2 {
     font-size: 3vw;
     margin-bottom: 1rem;
@@ -331,6 +373,7 @@ section.first-page {
     font-weight: 100;
 
 }
+
 .left-first-page p {
     font-size: 1.5vw;
     color: var(--color-neutral-40);
@@ -339,6 +382,7 @@ section.first-page {
     letter-spacing: 2.5px;
     margin-bottom: 3rem;
 }
+
 div button#register-button {
     font-size: 1.2vw;
     background: #FFCA1D;
@@ -352,20 +396,24 @@ div button#register-button {
     font-weight: 500;
     cursor: pointer;
 }
+
 div button#register-button:hover {
     background-color: violet;
     color: white;
     font-weight: 700;
     transition: all 0.5s;
 }
+
 div.right-first-page {
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
 img#img-right-first-page {
     width: 100%;
 }
+
 section.container-footer-first-page {
     display: flex;
     flex-direction: column;
@@ -388,19 +436,23 @@ section.container-second-page {
     justify-content: space-around;
     width: 100%;
 }
+
 .left-second-page h3 {
     margin: 0 auto;
     font-weight: 400;
     font-size: 1.3vw;
 }
+
 .left-second-page h3 span.orange-text {
     color: #ff9807;
     font-weight: 600;
 }
+
 .left-second-page h3 span.blue-text {
     color: #4B4AEF;
     font-weight: 600;
 }
+
 .right-second-page ul {
     /* ----- icones da segunda section alinhados horizontalmente ----- */
     display: flex;
@@ -409,10 +461,12 @@ section.container-second-page {
     width: 50vw;
     list-style: none;
 }
+
 .right-second-page img.partners-icons {
     width: 10vw;
     height: auto;
 }
+
 /* -------------------------- Responsividade container-second-page - 925px -------------------------- */
 @media (max-width: 925px) {
     section.container-second-page {
@@ -422,11 +476,13 @@ section.container-second-page {
         padding: 5%;
         transition: all 0.5s;
     }
+
     .left-second-page h3 {
         margin: 0 auto;
         font-weight: 400;
         font-size: 2.3vw;
     }
+
     .right-second-page img.partners-icons {
         width: 17vw;
     }
@@ -447,45 +503,54 @@ section.container-top-third-page {
     border: 1px dashed violet;
     margin: 1rem 0;
 }
+
 section.container-top-third-page h3 {
     font-size: 2.6vw;
     font-weight: 200;
     color: #7f37c9;
     letter-spacing: 0.5vw;
 }
+
 section.container-third-page {
     width: 100%;
 }
+
 div.center-third-page {
     display: flex;
     text-align: center;
     margin: 10vh 10vw;
 
 }
+
 .img-third-page {
     width: 8vw;
 }
+
 div.center-third-page p {
     text-align: center;
     font-size: 1.3vw;
     margin: 2vw;
     height: 30vh;
 }
+
 div.third-page {
     margin: 2vw;
     background-color: rgb(244, 243, 243);
     border-radius: 3rem;
     padding: 2%;
 }
+
 @media (max-width: 925px) {
     div.third-page {
         font-size: 2vw;
     }
+
     div.third-page p {
         font-size: 2vw;
         height: 30%;
     }
 }
+
 @media (max-width: 660px) {
     div.center-third-page {
         display: flex;
@@ -501,22 +566,26 @@ div.third-page {
         height: 30%;
     }
 }
+
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
 footer {
     width: 100%;
     color: var(--color-neutral-40);
     margin-top: 4rem;
 }
+
 .footer-link {
     text-decoration: none;
 
 }
+
 #footer-content {
     background-color: var(--color-neutral-10);
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     padding: 3rem 3.5rem;
 }
+
 /* -------------------------- Responsividade Footer -------------------------- */
 @media (max-width: 1050px) {
     #footer-content {
@@ -525,6 +594,7 @@ footer {
         transition: all 0.5s;
     }
 }
+
 @media (max-width: 540px) {
     #footer-content {
         grid-template-columns: repeat(1, 1fr);
@@ -565,54 +635,67 @@ footer {
     border-radius: 50%;
     transition: all 0.5s;
 }
+
 #footer-social-media .footer-link i {
     font-size: 1.25rem;
 }
+
 #footer-social-media .footer-link:hover {
     opacity: 0.4;
 }
+
 #instagram {
     background: linear-gradient(#7f37c9, #ff2992, #ff9807);
 }
+
 #facebook {
     background-color: #4267b3;
 }
+
 #whatsapp {
     background-color: #25d366;
 }
+
 .footer-list {
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
     list-style: none;
 }
+
 .footer-list .footer-link {
     color: (var(--color-neutral-30));
     transition: all 0.5s;
 }
+
 .footer-list .footer-link:hover {
     color: var(--color-neutral-50);
     opacity: 0.7;
 }
+
 #footer-subscribe {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
 }
+
 #footer-subscribe p {
     color: var(--color-neutral-30);
 }
+
 #input-group {
     display: flex;
     align-items: center;
     background-color: var(--color-neutral-0);
     border-radius: 4px;
 }
+
 #input-group input {
     all: unset;
     padding: 0.75rem;
     width: 100%;
 }
+
 #input-group button {
     background-color: var(--color-neutral-50);
     border: none;
@@ -624,9 +707,11 @@ footer {
     cursor: pointer;
     transition: all 0.5s;
 }
+
 #input-group button:hover {
     opacity: 0.6;
 }
+
 #footer-copyright {
     display: flex;
     justify-content: center;
@@ -646,16 +731,25 @@ footer {
     color: white;
     text-align: center;
 }
+
 /*Aplicar cor de fundo ao HEADER(cabeçalho)*/
 
 .header-cv {
     background: white;
 }
+
 /* Aplicar espaçamento entre header e div id=ladoalado */
 
 .h1-cv {
-    padding: 20px;
+    padding: 2rem;
+    font-size: 3vw;
+    /*tamanho da fonte responsivo */
+    letter-spacing: 5px;
+    /*Espaçamento horizontal entre caracteres*/
+    font-weight: 500;
+    /*Largura*/
 }
+
 /*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
 
 .ul-cv {
@@ -663,27 +757,32 @@ footer {
     justify-content: space-around;
     align-items: center;
 }
+
 /*Estilizado nossas fotos, cor, estilo, altura e largura*/
 
 .nossa-foto-cv {
     border-style: inset;
     border-color: rgb(71, 28, 170);
     border-radius: 40%;
-    width: 150px;
-    height: 150px;
+    width: 7vw;
+    height: auto;
+
 }
+
 /*Estilizado  imagens dentro da UL tamanho altura e largura*/
 
 .logo-nav-cv {
     height: 80px;
     width: 100px;
 }
+
 /* Estilizado fonte e cor do texto dentro da tag "a"  retirado sublinhado*/
 .a-cv {
     text-decoration: none;
     font-size: 15px;
     color: white;
 }
+
 /*Estilizado  links de acesso a redes sociais, espaçamento interno e tamanho da fonte*/
 
 .section-cv {
@@ -694,6 +793,7 @@ footer {
     font-size: medium;
     font-weight: bold;
 }
+
 /*Aplicado display flex para organização das caixas, space-around para deixar espaço dividido igualmente com margens uniformes */
 
 #ladoalado {
@@ -701,17 +801,20 @@ footer {
     flex-direction: row;
     justify-content: space-around;
 }
+
 /*Estilizado tamanho fonte footer*/
 
 .p-cv {
     font-size: 10px;
 }
+
 .text-footer-cv {
     color: white;
     font-size: 15px;
     font-weight: bold;
     height: 9rem;
 }
+
 .btn-cv {
 
     background-color: #7d7dee;
