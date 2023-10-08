@@ -473,7 +473,7 @@ div.center-third-page p {
 }
 div.third-page {
     margin: 2vw;
-    background-color: rgb(244, 243, 243) ;
+    background-color: rgb(244, 243, 243);
     border-radius: 3rem;
     padding: 2%;
 }
@@ -491,9 +491,11 @@ div.third-page {
         display: flex;
         flex-direction: column;
     }
+
     div.third-page {
         font-size: 2vw;
     }
+
     div.third-page p {
         font-size: 2vw;
         height: 30%;
@@ -708,8 +710,10 @@ footer {
     color: white;
     font-size: 15px;
     font-weight: bold;
+    height: 9rem;
 }
 .btn-cv {
+
     background-color: #7d7dee;
     border-radius: 10px;
     max-width: 150px;
