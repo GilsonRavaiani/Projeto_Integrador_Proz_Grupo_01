@@ -346,3 +346,21 @@ Para nosso site escolhemos .shop, apesar de muitos assimilarem o .shop como um s
 Depois de definirmos a URL, criamos o termo de uso referente ao cadastro para acesso ao site:
 
 [TERMOS DE USO PARA O REGISTRO DE CLIENTES E PROFISSIONAIS.pdf](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/files/12837081/TERMOS.DE.USO.PARA.O.REGISTRO.DE.CLIENTES.E.PROFISSIONAIS.pdf)
+
+## Validação de dados em um formulário usando JavaScript e o DOM (Document Object Model)
+
+A validação de dados em um formulário usando JavaScript e o DOM (Document Object Model) é uma parte fundamental do desenvolvimento web. Ela desempenha um papel crucial por várias razões importantes:
+
+**1 - Melhoria da Experiência do Usuário:** A validação de dados permite que você forneça feedback imediato ao usuário quando ele preenche um formulário incorretamente. Isso ajuda a evitar que os usuários cometam erros e reduz a frustração, melhorando a experiência do usuário.
+
+**2 - Segurança:** A validação de dados no lado do cliente é uma camada adicional de segurança que pode ajudar a proteger sua aplicação contra-ataques comuns, como injeção de código malicioso. Ela pode ajudar a prevenir que dados não confiáveis sejam enviados ao servidor.
+
+**3 - Eficiência do Servidor:** Validar dados no lado do cliente antes de enviá-los ao servidor economiza recursos do servidor, pois ele não precisa processar e validar dados incorretos. Isso ajuda a reduzir a carga do servidor e melhora o desempenho.
+
+**4 - Redução de Erros:** A validação no lado do cliente pode ajudar a reduzir erros de entrada de dados, como números de telefone inválidos, endereços de e-mail mal formatados e outros problemas comuns. Isso é especialmente importante em formulários que coletam informações críticas.
+
+**5 - Compatibilidade:** A validação de dados no lado do cliente pode ajudar a garantir que os dados inseridos pelos usuários estejam formatados corretamente e atendam aos requisitos específicos do aplicativo. Isso facilita a integração de dados em sistemas externos.
+
+**6 - Economia de Tempo:** Ao fornecer feedback imediato sobre erros de validação, os usuários podem corrigir os problemas antes de enviar o formulário. Isso economiza tempo para ambos os desenvolvedores e usuários, pois evita o processo de correção de erros após o envio.
+
+**7 - Conformidade com Regulamentos:** Em muitos casos, existem regulamentos e normas que exigem validação de dados, especialmente em aplicações que lidam com informações confidenciais, como dados financeiros ou de saúde. A validação ajuda a cumprir esses requisitos.
