@@ -316,3 +316,33 @@ Vou deixar abaixo atualização referente ao trello da sprint 03 e o que esperam
 ![Sprint04](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/8e753e58-420f-452b-a41f-c71ccffb0de0)
 
 ![trello031023](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/8ab304e1-1307-4070-a8fc-cc54f357673a)
+
+Importante também é criarmos uma URL(Uniform Resource Locator que em português significa "Localizador Uniforme de Recursos") e escolhermos a plataforma pelo qual o usuário irá acessar o site, e chegou a hora de definirmos.
+
+Primeiro foi a escolha no domínio ao qual o usuário/cliente irá digitar para acesso.
+
+O nome da empresa pode ser uma opção e optamos por ela.
+
+Domínio: Whatservice
+
+Agora vamos escolher o sufixo(se refere ao último componente da URL, que é o domínio de alto nível (TLD - Top-Level Domain). O TLD é a parte da URL que aparece após o último ponto, e seu principal objetivo é indicar a categoria ou a natureza do site.).
+
+Vou deixar alguns exemplos abaixo, mas lembrando que existem várias opções.
+
+.com: Indica que o site é de natureza comercial, mas também é amplamente utilizado para diversos tipos de sites.
+
+.org: Geralmente associado a organizações sem fins lucrativos.
+
+.net: Originalmente associado a entidades relacionadas à rede (como provedores de serviços de Internet), mas agora é usado por uma variedade de sites.
+
+.gov: Usado por sites governamentais nos Estados Unidos.
+
+.edu: Reservado para instituições de ensino, como universidades e faculdades.
+
+Para nosso site escolhemos .shop, apesar de muitos assimilarem o .shop como um shopping online, esse sufixo(TLDs - Top-Level Domains) vai além disso. Veja a imagem abaixo:
+
+![shop](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/assets/101072367/dcc31d38-765d-445c-9b73-00284b8f67a8)
+
+Depois de definirmos a URL, criamos o termo de uso referente ao cadastro para acesso ao site:
+
+[TERMOS DE USO PARA O REGISTRO DE CLIENTES E PROFISSIONAIS.pdf](https://github.com/GilsonRavaiani/Projeto_Integrador_Proz_Grupo_01/files/12837081/TERMOS.DE.USO.PARA.O.REGISTRO.DE.CLIENTES.E.PROFISSIONAIS.pdf)
