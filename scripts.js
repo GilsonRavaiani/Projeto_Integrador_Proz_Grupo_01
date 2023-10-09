@@ -42,10 +42,11 @@ class Validador {
             }
         }, this);
 
-        // Validar telefone
+        // Validar telefone e aplicar a máscara
         const telefoneInput = formulario.querySelector('[data-phone-validate]');
         if (telefoneInput) {
             this.phonevalidate(telefoneInput);
+            telefoneInput.addEventListener('input', () => this.phoneMask(telefoneInput));
         }
     }
 
@@ -141,6 +142,18 @@ class Validador {
         }
     }
 
+    // método para aplicar a máscara de telefone (XX) XXXXX-XXXX
+    phoneMask(input) {
+        // Remove caracteres não numéricos
+        let cleanedValue = input.value.replace(/\D/g, '');
+
+        // Aplica a máscara
+        let maskedValue = cleanedValue.replace(/^(\d{2})(\d{5})(\d{4})$/, '($1) $2-$3');
+
+        // Atualiza o valor no campo
+        input.value = maskedValue;
+    }
+
     // método para imprimir mensagens de erro
     exibirMensagem(input, msg) {
         let quantErros = input.parentNode.querySelector('.error-validation');
@@ -171,4 +184,3 @@ botaoEnviar.addEventListener('click', function (e) {
     e.preventDefault();
     validador.validar(formulario);
 });
-
