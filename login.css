@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+:root {
+    --color-neutral-0: #0e0c0c;
+    --color-neutral-10: #171717;
+    --color-neutral-30: #a8a29e;
+    --color-neutral-40: #f5f5f5;
+    --color-neutral-50: #7f37c9;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+
+input,
+label {
+    display: block;
+    outline: none;
+    width: 100%;
+}
+
+a {
+    color: #E60084;
+}
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#left-container {
+    width: 45%;
+    height: 100%;
+    margin: 2rem;
+    border-radius: 10px;
+}
+#left-container h1 {
+    font-size: 6vw;
+    color: blueviolet;
+}
+#left-container h2 {
+    font-size: 3vw;
+    color: gray;
+    letter-spacing: 5px;
+    font-weight: 300;
+}
+
+/* form */
+#right-container {
+    width: 45%;
+    height: 100%;
+    margin: 2rem;
+    border-radius: 10px;
+}
+
+#right-container h1 {
+    text-align: center;
+    letter-spacing: 6px;
+    color: gray;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    font-size: 3vw;
+}
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.full-box {
+    flex: 1 1 100%;
+    position: relative;
+}
+
+.half-box {
+    flex: 1 1 48%;
+    position: relative;
+}
+
+.spacing {
+    margin-right: 2.5%;
+}
+
+label {
+    font-weight: bold;
+    font-size: .8rem;
+}
+
+input {
+    border-bottom: 2px solid #323232;
+    padding: 10px;
+    font-size: .9rem;
+    margin-bottom: 40px;
+}
+
+input:focus {
+    border-color: #E60084;
+}
+
+.input-container {
+    margin-top: 20px;
+}
+
+.input-container,
+.button-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+input[type="submit"],
+button {
+    display: block;
+    background-color: blueviolet;
+    color: #FFF;
+    border-radius: 5rem;
+    height: 3rem;
+    cursor: pointer;
+    width: 48%;
+    font-weight: 600;
+    font-size: 1.2vw;
+}
+
+button {
+    background-color: #FFCA1D;
+}
+
+#agreement {
+    margin-right: 5px;
+}
+
+#agreement,
+#agreement-label {
+    display: inline-block;
+    width: auto;
+}
+
+.error-validation {
+    color: #ff1a1a;
+    position: absolute;
+    top: 57px;
+    font-size: 12px;
+}
+
+.template {
+    display: none;
+}
+
+.checkbox-container input {
+    display: flex;
+    align-items: center;
+    margin-left: -20%; /* Correção na propriedade 'margin-left' */
+    margin-top: -18px;
+}
+input#whatsapp {
+    width: 100%;
+}
+div input#agreement {
+    text-align: center;
+    margin-left: 1rem;
+}
+:hover {
+    color: rgb(104, 36, 119);
+    font-weight: 800;
+    transition: all 0.5s;
+}
+
+@media (max-width: 1050px) {
+    section.main-container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: all 0.7s;
+    }
+    .checkbox-container input {
+        margin-left: -20%; /* Correção na propriedade 'margin-left' */
+    }
+    #left-container {
+        text-align: center;
+        width: 80%;
+        height: 100%;
+        margin: 2rem;
+        border-radius: 10px;
+        transition: all 0.7s;
+    }
+    #left-container h1 {
+        font-size: 9vw;
+        transition: all 0.7s;
+    }
+    #left-container h2 {
+        font-size: 5vw;
+        transition: all 0.7s;
+    }
+    #right-container {
+        width: 80%;
+        height: 100%;
+        margin: 2rem;
+        border-radius: 10px;
+        transition: all 0.7s;
+    }
+    #right-container h1 {
+        font-size: 5vw;
+        transition: all 0.7s;
+    }
+    div.button-container input, button {
+        font-size: 2vw;
+        transition: all 0.7s;
+    }
+}
+
+@media (max-width: 590px) {
+    div.full-box {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        transition: all 0.7s;
+    }
+    div.button-container input, button {
+        font-size: 3vw;
+        transition: all 0.7s;
+    }
+}
+
+@media (max-width: 340px) {
+    div.terms-agree {
+        display: flex;
+        flex-wrap: wrap;
+        transition: all 0.7s;
+    }
+    div.terms-agree label {
+        display: flex;
+        flex-direction: column;
+        transition: all 0.7s;
+    }
+    div.button-container input, button {
+        font-size: 4vw;
+        transition: all 0.7s;
+    }
+}
+
+@media (max-width: 280px) {
+    #right-container {
+        width: 90%;
+    }
+    div input::placeholder {
+        font-size: 3vw;
+    }
+}
