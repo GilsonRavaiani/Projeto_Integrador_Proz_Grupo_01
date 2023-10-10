@@ -92,7 +92,7 @@ input:focus {
 input[type="submit"],
 button {
     display: block;
-    background-color: #E60084;
+    background-color: #4CAF50;
     color: black;
     border-radius: 20px;
     height: 40px;
