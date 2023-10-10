@@ -68,14 +68,14 @@ label {
 }
 
 input {
-  border-bottom: 2px solid #323232;
+  border-bottom: 2px solid #4CAF50;
   padding: 10px;
   font-size: .9rem;
   margin-bottom: 40px;
 }
 
 input:focus {
-  border-color: #E60084;
+  border-color: #4CAF50;
 }
 
 .input-container {
@@ -92,7 +92,7 @@ input:focus {
 input[type="submit"],
 button {
   display: block;
-  background-color: #E60084;
+  background-color: #4CAF50;
   color: #FFF;
   border-radius: 20px;
   height: 40px;
@@ -101,7 +101,7 @@ button {
 }
 
 button {
-  background-color: #4CAF50;
+  background-color: ; #4CAF50
 }
 
 #agreement {
