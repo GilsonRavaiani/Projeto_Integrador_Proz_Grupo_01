@@ -16,7 +16,7 @@ label {
 }
 
 a {
-  color: #7f37c9;
+  color: #E60084;
 }
 
 body {
@@ -54,7 +54,7 @@ form {
 }
 
 .half-box {
-  flex: 1 1 45%;
+  flex: 1 1 48%;
   position: relative;
 }
 
@@ -78,13 +78,30 @@ input:focus {
   border-color: #E60084;
 }
 
-input[type="submit"] {
-  background-color: #7f37c9;
+.input-container {
+  margin-top: 20px;
+}
+
+.input-container,
+.button-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+input[type="submit"],
+button {
+  display: block;
+  background-color: #E60084;
   color: #FFF;
-  border: none;
   border-radius: 20px;
   height: 40px;
   cursor: pointer;
+  width: 48%;
+}
+
+button {
+  background-color: #4CAF50;
 }
 
 #agreement {
@@ -106,4 +123,18 @@ input[type="submit"] {
 
 .template {
   display: none;
+}
+
+.checkbox-container input {
+  display: flex;
+  align-items: center;
+  margin-left: -20%;
+  /* Correção na propriedade 'margin-left' */
+  margin-top: -12px;
+}
+
+:hover {
+  color: rgb(104, 36, 119);
+  font-weight: 700;
+  transition: all 0.5s;
 }
