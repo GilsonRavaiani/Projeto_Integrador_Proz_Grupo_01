@@ -75,7 +75,7 @@ input {
 }
 
 input:focus {
-    border-color: #E60084;
+    border-color: #4CAF50;
 }
 
 .input-container {
