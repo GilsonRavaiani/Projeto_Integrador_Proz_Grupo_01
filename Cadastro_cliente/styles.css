@@ -16,42 +16,27 @@ label {
 }
 
 a {
-  color: #E60084;
+  color: #7f37c9;
 }
 
 body {
   padding-top: 5vh;
+  background-image: linear-gradient(#7f37c9, #4B4AEF, #b8a7d5);
   background-size: cover;
   background-position-y: -150px;
 }
 
 /* form */
-.container {
-  display: flex;
-  padding: 5%;
+#main-container {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FFF;
+  border-radius: 10px;
+  padding: 25px;
 }
-
-.box-container {
-  flex: 1;
-  margin-right: 5px;
-  padding-top: 70px;
-  padding: 10px;
-  text-align: center;
-}
-
-.box-container:last-child {
-  margin-right: 0;
-  /* Remove a margem direita da última div */
-}
-
-.img-logo {
-  width: 300px;
-  height: 200px;
-}
-
 
 #main-container h1 {
-  padding: 100px;
   text-align: center;
   margin-bottom: 25px;
   font-size: 1.6rem;
@@ -66,7 +51,6 @@ form {
 .full-box {
   flex: 1 1 100%;
   position: relative;
-  padding: auto;
 }
 
 .half-box {
@@ -79,8 +63,6 @@ form {
 }
 
 label {
-  padding: 10px;
-  padding-top: 1%;
   font-weight: bold;
   font-size: .8rem;
 }
@@ -93,12 +75,11 @@ input {
 }
 
 input:focus {
-  border-color: #da34b0;
-  /*Quando clicamos seleciona a borda com a cor desejada */
+  border-color: #E60084;
 }
 
 input[type="submit"] {
-  background-color: #da34b0;
+  background-color: #7f37c9;
   color: #FFF;
   border: none;
   border-radius: 20px;
@@ -119,7 +100,7 @@ input[type="submit"] {
 .error-validation {
   color: #ff1a1a;
   position: absolute;
-  top: 75px;
+  top: 57px;
   font-size: 12px;
 }
 
