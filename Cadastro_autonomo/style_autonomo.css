@@ -93,7 +93,7 @@ input[type="submit"],
 button {
     display: block;
     background-color: #E60084;
-    color: #FFF;
+    color: black;
     border-radius: 20px;
     height: 40px;
     cursor: pointer;
@@ -101,7 +101,7 @@ button {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #FFCA1D;
 }
 
 #agreement {
