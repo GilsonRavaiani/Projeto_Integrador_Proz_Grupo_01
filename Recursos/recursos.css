@@ -50,7 +50,7 @@ section div.left-fourth-page p {
     padding: 1rem;
     font-size: 1.5vw;
     font-weight: 300;
-    line-height: 3rem;
+    line-height: 3.5rem;
     letter-spacing: 2.5px;
     margin-bottom: 3rem;
 }
@@ -89,21 +89,20 @@ div.right-fourth-page img {
 }
 /* -------------------------------------------------- Responsividade da página "Nossos Recursos" --------------------------------------------- */
 @media (max-width: 830px) {
+    section div.left-fourth-page h3 { /* --------- Responsividade max-830px da página "Nossos Recursos" - h3 --------- */
+        padding: 1rem;
+        font-size: 3.5vw;
+        color:var(--color-neutral-30);
+        letter-spacing: 5px;
+        font-weight: 400;
+        transition: all 0.7s;
+    }
     section div.left-fourth-page p { /* --------- Responsividade max-830px da página "Nossos Recursos" - parágrafo --------- */
     font-size: 2vw;
     font-weight: 300;
     line-height: 2rem;
     transition: all 0.7s;
-}
-section div.left-fourth-page h3 { /* --------- Responsividade max-830px da página "Nossos Recursos" - h3 --------- */
-    padding: 1rem;
-    font-size: 3.5vw;
-    color:var(--color-neutral-30);
-    letter-spacing: 5px;
-    font-weight: 400;
-    transition: all 0.7s;
-    text-align: center;
-}
+    }
 }
 @media (max-width: 660px) { /* --------- Responsividade max-660px da página "Nossos Recursos" --------- */
     section.container-fourth-page {
@@ -350,6 +349,8 @@ div.left-services-fourth-page img {
         transition: all 0.7s;
     }
 }
+/* --------------------------------------------- Fim da estilização da página de "Encontre os Serviços" ---------------------------------------- */
+
 /* -------------------------------------------------- Estilização da página de "Rastreabilidade" --------------------------------------------- */
 section.rastreability-fourth-page { 
     display: flex;
@@ -440,3 +441,144 @@ div.right-rastreability-fourth-page img {
     }
 }
 /* -------------------------------------------------- Fim da estilização da página de "Rastreabilidade" --------------------------------------------- */
+
+/* --------------------------------------------- Estilização da página de "Suporte" ---------------------------------------- */
+section.client-suport-fourth-page { 
+    display: flex;
+    align-items: center;
+    margin: 4rem 1rem;
+    -webkit-flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+    flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+}
+div.right-suport-fourth-page {
+    width: 50%;
+    margin-left: 1rem;
+
+}
+div.left-suport-description-fourth-page {
+    width: 50%;
+}
+section div.left-suport-description-fourth-page h3 {
+    padding: 1rem;
+    font-size: 3.5vw;
+    color: var(--color-neutral-50);
+    letter-spacing: 7px;
+}
+section div.left-suport-description-fourth-page p {
+    text-align: justify;
+    padding: 1rem;
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 3rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
+}
+section div.left-suport-description-fourth-page a {
+    padding: 1rem;
+}
+div.right-suport-fourth-page {
+    margin: 1rem ;
+}
+
+div.right-suport-fourth-page img {
+    width: 100%;
+}
+/* -------------------------------------------------- Responsividade da página "Suporte" --------------------------------------------- */
+@media (max-width: 830px) {  
+    section div.left-suport-description-fourth-page p { /* --------- Responsividade max-830px da página "Suporte" - Parágrafo --------- */
+    font-size: 2vw;
+    font-weight: 300;
+    line-height: 2rem;
+    transition: all 0.7s;
+}
+}
+@media (max-width: 660px) {
+    section.client-suport-fourth-page { /* --------- Responsividade max-660px da section "Suporte" --------- */
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: all 0.7s;
+    }
+    div.left-suport-description-fourth-page { /* --------- Responsividade max-660px da div "Suporte" --------- */
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+        text-align: center;
+    }
+    section div.left-suport-description-fourth-page h3 { /* --------- Responsividade max-660px da página "Suporte" h3 --------- */
+        padding: 1rem;
+        color:var(--color-neutral-50);
+        letter-spacing: 5px;
+        font-size: 7vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+    section div.left-suport-description-fourth-page p { /* --------- Responsividade max-660px da página "Suporte" Parágrafo --------- */
+        text-align: justify;
+        padding: 1rem;
+        font-size: 3vw;
+        font-weight: 300;
+        line-height: 2rem;
+        letter-spacing: 2.5px;
+        margin-bottom: 3rem;
+        transition: all 0.7s;
+    }
+}
+/* --------------------------------------------- Fim da estilização da página de "Suporte" ---------------------------------------- */
+
+/* --------------------------------------------- Estilização da página de "Depoimentos" ---------------------------------------- */
+
+section.testimonials-page {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+section div.testimonials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section div.testimonials h3 {
+    padding: 1rem;
+    color: var(--color-neutral-30);
+    letter-spacing: 10px;
+    font-size: 5vw;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    transition: all 0.7s;
+}
+
+section div.testimonials img {
+    width: 100%;
+}
+
+@media (max-width: 830px) { /* --------- Responsividade max-830px da section "Depoimentos" --------- */
+    section div.testimonials h3 {
+        padding: 1rem;
+        color: var(--color-neutral-30);
+        letter-spacing: 10px;
+        font-size: 4vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+}
+
+@media (max-width: 660px) { /* --------- Responsividade max-660px da section "Depoimentos" --------- */
+    section div.testimonials h3 {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem;
+        color: var(--color-neutral-30);
+        letter-spacing: 10px;
+        font-size: 5vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+}

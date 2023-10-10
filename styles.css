@@ -566,6 +566,553 @@ div.third-page {
         height: 30%;
     }
 }
+/* ----------------------------------------- Fim da estilização da terceira section "container-third-page" ----------------------------------------- */
+
+/* -------------------------------------------------- Estilização da página "Nossos Recursos" --------------------------------------------- */
+section.container-fourth-page { 
+    display: flex;
+    align-items: center;
+    margin: 4rem 1rem;
+}
+
+div.left-fourth-page {
+    width: 50%;
+    margin-right: 1rem;
+
+}
+div.right-fourth-page {
+    width: 50%;
+}
+section div.left-fourth-page h2 {
+    padding: 1rem;
+    font-size: 4vw;
+    color: var(--color-neutral-50);
+    letter-spacing: 7px;
+}
+
+section div.left-fourth-page h3 {
+    padding: 1rem;
+    font-size: 1.5vw;
+    color:var(--color-neutral-30);
+    letter-spacing: 5px;
+    font-weight: 400;
+}
+
+section div.left-fourth-page p {
+    text-align: justify;
+    padding: 1rem;
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 3.5rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
+}
+
+section div.left-fourth-page a {
+    padding: 1rem;
+}
+
+div button#fourth-page-button {
+    font-size: 1.2vw;
+    background: #FFCA1D;
+    width: 11vw;
+    box-shadow: none;
+    border-radius: 0.4rem;
+    border: #FFCA1D;
+    padding: 0.5rem;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+div button#fourth-page-button:hover {
+    background-color: violet;
+    color: white;
+    font-weight: 700;
+    transition: all 0.5s;
+}
+
+div.right-fourth-page {
+    margin: 1rem ;
+}
+
+div.right-fourth-page img {
+    width: 100%;
+}
+/* -------------------------------------------------- Responsividade da página "Nossos Recursos" --------------------------------------------- */
+@media (max-width: 830px) {
+    section div.left-fourth-page h3 { /* --------- Responsividade max-830px da página "Nossos Recursos" - h3 --------- */
+        padding: 1rem;
+        font-size: 3.5vw;
+        color:var(--color-neutral-30);
+        letter-spacing: 5px;
+        font-weight: 400;
+        transition: all 0.7s;
+    }
+    section div.left-fourth-page p { /* --------- Responsividade max-830px da página "Nossos Recursos" - parágrafo --------- */
+    font-size: 2vw;
+    font-weight: 300;
+    line-height: 2rem;
+    transition: all 0.7s;
+    }
+}
+@media (max-width: 660px) { /* --------- Responsividade max-660px da página "Nossos Recursos" --------- */
+    section.container-fourth-page {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: all 0.7s;
+    }
+    div.left-fourth-page {
+        margin: 1rem;
+        width: 80%;
+    }
+    div.right-fourth-page {
+        align-items: center;
+        width: 70%;
+    }
+    section div.left-fourth-page h2 {
+        /* h2 */
+        font-size: 8vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+        text-align: center;
+    }
+    section div.left-fourth-page h3 {
+        padding: 1rem;
+        font-size: 3.5vw;
+        color:var(--color-neutral-30);
+        letter-spacing: 5px;
+        font-weight: 400;
+        transition: all 0.7s;
+        text-align: center;
+    }
+    section div.left-fourth-page p {
+        text-align: justify;
+        padding: 1rem;
+        font-size: 3vw;
+        font-weight: 300;
+        line-height: 2rem;
+        letter-spacing: 2.5px;
+        margin-bottom: 3rem;
+        transition: all 0.7s;
+        width: 100%;
+    }
+    div button#fourth-page-button {
+        /* button */
+        font-size: 2.6vw;
+        font-weight: 800;
+        width: 90%;
+        margin-top: 0.2rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+}
+/* -------------------------------------------------- Fim da estilização da página "Nossos Recursos" --------------------------------------------- */
+
+/* -------------------------------------------------- Estilização da página "Acesse em Minutos" --------------------------------------------- */
+section.access-fourth-page { 
+    display: flex;
+    align-items: center;
+    margin: 4rem 1rem;
+    -webkit-flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+    flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+}
+div.right-access-fourth-page {
+    width: 50%;
+    margin-left: 1rem;
+
+}
+div.left-description-fourth-page {
+    width: 50%;
+}
+section div.left-description-fourth-page h3 {
+    padding: 1rem;
+    font-size: 3.5vw;
+    color: var(--color-neutral-50);
+    letter-spacing: 7px;
+}
+section div.left-description-fourth-page p {
+    text-align: justify;
+    padding: 1rem;
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 3rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
+}
+section div.left-description-fourth-page a {
+    padding: 1rem;
+}
+div.right-access-fourth-page {
+    margin: 1rem ;
+}
+
+div.right-access-fourth-page img {
+    width: 100%;
+}
+/* -------------------------------------------------- Responsividade da página "Acesse em Minutos" --------------------------------------------- */
+@media (max-width: 830px) {  
+    section div.left-description-fourth-page p { /* --------- Responsividade max-830px da página "Acesse em Minutos" - Parágrafo --------- */
+    font-size: 2vw;
+    font-weight: 300;
+    line-height: 2rem;
+    transition: all 0.7s;
+}
+}
+@media (max-width: 660px) {
+    section.access-fourth-page { /* --------- Responsividade max-660px da section "Acesse em Minutos" --------- */
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: all 0.7s;
+    }
+    div.left-description-fourth-page { /* --------- Responsividade max-660px da div "Acesse em Minutos" --------- */
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+        text-align: center;
+    }
+    section div.left-description-fourth-page h3 { /* --------- Responsividade max-660px da página "Acesse em Minutos" h3 --------- */
+        padding: 1rem;
+        color:var(--color-neutral-50);
+        letter-spacing: 5px;
+        font-size: 8vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+    section div.left-description-fourth-page p { /* --------- Responsividade max-660px da página "Acesse em Minutos" Parágrafo --------- */
+        text-align: justify;
+        padding: 1rem;
+        font-size: 3vw;
+        font-weight: 300;
+        line-height: 2rem;
+        letter-spacing: 2.5px;
+        margin-bottom: 3rem;
+        transition: all 0.7s;
+    }
+}
+/* -------------------------------------------------- Fim da estilização da página "Acesse em Minutos" --------------------------------------------- */
+
+/* --------------------------------------------- Estilização da página de "Encontre os Serviços" ---------------------------------------- */
+section.services-fourth-page { 
+    display: flex;
+    align-items: center;
+    margin: 4rem 1rem;
+    -webkit-flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+    flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+}
+div.left-services-fourth-page {
+    width: 50%;
+    margin-left: 1rem;
+
+}
+div.right-services-fourth-page {
+    width: 50%;
+}
+section div.right-services-fourth-page h3 {
+    padding: 1rem;
+    font-size: 3.5vw;
+    color: var(--color-neutral-50);
+    letter-spacing: 7px;
+}
+section div.right-services-fourth-page p {
+    text-align: justify;
+    padding: 1rem;
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 3rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
+}
+section div.right-services-fourth-page a {
+    padding: 1rem;
+}
+div.left-services-fourth-page {
+    margin: 1rem ;
+}
+
+div.left-services-fourth-page img {
+    width: 100%;
+}
+/* -------------------------------------------------- Responsividade da página "Encontre os Serviços" --------------------------------------------- */
+@media (max-width: 830px) {  
+    section div.right-services-fourth-page p { /* --------- Responsividade max-830px da página "Encontre os Serviços" - Parágrafo --------- */
+    font-size: 2vw;
+    font-weight: 300;
+    line-height: 2rem;
+    transition: all 0.7s;
+}
+}
+@media (max-width: 660px) {
+    section.services-fourth-page { /* --------- Responsividade max-660px da section "Encontre os Serviços" --------- */
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: all 0.7s;
+    }
+    div.right-services-fourth-page { /* --------- Responsividade max-660px da div "Encontre os Serviços" --------- */
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+        text-align: center;
+    }
+    section div.right-services-fourth-page h3 { /* --------- Responsividade max-660px da página "Encontre os Serviços" h3 --------- */
+        padding: 1rem;
+        color:var(--color-neutral-50);
+        letter-spacing: 5px;
+        font-size: 7vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+    section div.right-services-fourth-page p { /* --------- Responsividade max-660px da página "Encontre os Serviços" Parágrafo --------- */
+        text-align: justify;
+        padding: 1rem;
+        font-size: 3vw;
+        font-weight: 300;
+        line-height: 2rem;
+        letter-spacing: 2.5px;
+        margin-bottom: 3rem;
+        transition: all 0.7s;
+    }
+}
+/* --------------------------------------------- Fim da estilização da página de "Encontre os Serviços" ---------------------------------------- */
+
+/* -------------------------------------------------- Estilização da página de "Rastreabilidade" --------------------------------------------- */
+section.rastreability-fourth-page { 
+    display: flex;
+    align-items: center;
+    margin: 4rem 1rem;
+    -webkit-flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+    flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+}
+div.right-rastreability-fourth-page {
+    width: 50%;
+    margin-left: 1rem;
+
+}
+div.left-rastreability-fourth-page {
+    width: 50%;
+}
+section div.left-rastreability-fourth-page h3 {
+    padding: 1rem;
+    font-size: 3vw;
+    color: var(--color-neutral-50);
+    letter-spacing: 7px;
+}
+section div.left-rastreability-fourth-page p {
+    text-align: justify;
+    padding: 1rem;
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 3rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
+}
+section div.left-rastreability-fourth-page a {
+    padding: 1rem;
+}
+div.right-rastreability-fourth-page {
+    margin: 1rem ;
+}
+
+div.right-rastreability-fourth-page img {
+    width: 90%;
+}
+/* -------------------------------------------------- Responsividade da página de "Rastreabilidade" --------------------------------------------- */
+@media (max-width: 400px) {
+    h3#rastreability-h3 {
+        font-size: 4.8vw;
+    }
+}
+@media (max-width: 830px) {  
+    section div.left-rastreability-fourth-page p { /* --------- Responsividade max-830px da página de "Rastreabilidade" - Parágrafo --------- */
+    font-size: 2vw;
+    font-weight: 300;
+    line-height: 2rem;
+    transition: all 0.7s;
+}
+}
+@media (max-width: 660px) {
+    section.rastreability-fourth-page { /* --------- Responsividade max-660px da section de "Rastreabilidade" --------- */
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: all 0.7s;
+    }
+    div.left-rastreability-fourth-page { /* --------- Responsividade max-660px da div de "Rastreabilidade" --------- */
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+
+    }
+    section div.left-rastreability-fourth-page h3 { /* --------- Responsividade max-660px da página de "Rastreabilidade" h3 --------- */
+        padding: 1rem;
+        color:var(--color-neutral-50);
+        letter-spacing: 5px;
+        font-size: 6.5vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+        text-align: center;
+    }
+    section div.left-rastreability-fourth-page p { /* --------- Responsividade max-660px da página de "Rastreabilidade" Parágrafo --------- */
+        text-align: justify;
+        padding: 1rem;
+        font-size: 3vw;
+        font-weight: 300;
+        line-height: 2rem;
+        letter-spacing: 2.5px;
+        margin-bottom: 3rem;
+        transition: all 0.7s;
+    }
+}
+/* -------------------------------------------------- Fim da estilização da página de "Rastreabilidade" --------------------------------------------- */
+
+/* --------------------------------------------- Estilização da página de "Suporte" ---------------------------------------- */
+section.client-suport-fourth-page { 
+    display: flex;
+    align-items: center;
+    margin: 4rem 1rem;
+    -webkit-flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+    flex-direction: row-reverse; /* --------- Inversão horizontal das divs --------- */
+}
+div.right-suport-fourth-page {
+    width: 50%;
+    margin-left: 1rem;
+
+}
+div.left-suport-description-fourth-page {
+    width: 50%;
+}
+section div.left-suport-description-fourth-page h3 {
+    padding: 1rem;
+    font-size: 3.5vw;
+    color: var(--color-neutral-50);
+    letter-spacing: 7px;
+}
+section div.left-suport-description-fourth-page p {
+    text-align: justify;
+    padding: 1rem;
+    font-size: 1.5vw;
+    font-weight: 300;
+    line-height: 3rem;
+    letter-spacing: 2.5px;
+    margin-bottom: 3rem;
+}
+section div.left-suport-description-fourth-page a {
+    padding: 1rem;
+}
+div.right-suport-fourth-page {
+    margin: 1rem ;
+}
+
+div.right-suport-fourth-page img {
+    width: 100%;
+}
+/* -------------------------------------------------- Responsividade da página "Suporte" --------------------------------------------- */
+@media (max-width: 830px) {  
+    section div.left-suport-description-fourth-page p { /* --------- Responsividade max-830px da página "Suporte" - Parágrafo --------- */
+    font-size: 2vw;
+    font-weight: 300;
+    line-height: 2rem;
+    transition: all 0.7s;
+}
+}
+@media (max-width: 660px) {
+    section.client-suport-fourth-page { /* --------- Responsividade max-660px da section "Suporte" --------- */
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: all 0.7s;
+    }
+    div.left-suport-description-fourth-page { /* --------- Responsividade max-660px da div "Suporte" --------- */
+        align-items: center;
+        justify-content: center;
+        width: 80%;
+        text-align: center;
+    }
+    section div.left-suport-description-fourth-page h3 { /* --------- Responsividade max-660px da página "Suporte" h3 --------- */
+        padding: 1rem;
+        color:var(--color-neutral-50);
+        letter-spacing: 5px;
+        font-size: 7vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+    section div.left-suport-description-fourth-page p { /* --------- Responsividade max-660px da página "Suporte" Parágrafo --------- */
+        text-align: justify;
+        padding: 1rem;
+        font-size: 3vw;
+        font-weight: 300;
+        line-height: 2rem;
+        letter-spacing: 2.5px;
+        margin-bottom: 3rem;
+        transition: all 0.7s;
+    }
+}
+/* --------------------------------------------- Fim da estilização da página de "Suporte" ---------------------------------------- */
+
+/* --------------------------------------------- Estilização da página de "Depoimentos" ---------------------------------------- */
+
+section.testimonials-page {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+section div.testimonials {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+section div.testimonials h3 {
+    padding: 1rem;
+    color: var(--color-neutral-30);
+    letter-spacing: 10px;
+    font-size: 5vw;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    transition: all 0.7s;
+}
+
+section div.testimonials img {
+    width: 100%;
+}
+
+@media (max-width: 830px) { /* --------- Responsividade max-830px da section "Depoimentos" --------- */
+    section div.testimonials h3 {
+        padding: 1rem;
+        color: var(--color-neutral-30);
+        letter-spacing: 10px;
+        font-size: 4vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+}
+
+@media (max-width: 660px) { /* --------- Responsividade max-660px da section "Depoimentos" --------- */
+    section div.testimonials h3 {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem;
+        color: var(--color-neutral-30);
+        letter-spacing: 10px;
+        font-size: 5vw;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+        transition: all 0.7s;
+    }
+}
 
 /* --------------------------------------------------Estilização do Footer -------------------------------------------------- */
 footer {
