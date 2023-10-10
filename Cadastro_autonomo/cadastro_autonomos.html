@@ -19,7 +19,7 @@
             <div class="half-box spacing">
                 <label for="nome">Nome</label>
                 <input type="text" name="name" id="name" placeholder="Digite seu nome" data-required data-min-length="3"
-                    data-max-length="16">
+                    data-max-length="16" data-only-letters>
             </div>
             <div class="half-box">
                 <label for="sobrenome">Sobrenome</label>
@@ -33,7 +33,7 @@
             </div>
             <div class="half-box">
                 <label for="email"> Confirme E-mail</label>
-                <input type="email" name="email" id="email" placeholder="Confirme seu e-mail" data-email-validate>
+                <input type="email" name="email" id="email" placeholder="Confirme seu e-mail" data-email-validate data-equal>
             </div>
             <div class="half-box spacing">
                 <label for="telefone">Telefone</label>
