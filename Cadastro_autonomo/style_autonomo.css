@@ -21,7 +21,7 @@ a {
 
 body {
     padding-top: 5vh;
-    background-image: linear-gradient(#0a0a13, #2d0555, #0f0d11);
+    background-image: linear-gradient(#7f37c9, #4B4AEF, #b8a7d5);
     background-size: cover;
     background-position-y: -150px;
 }
@@ -128,7 +128,8 @@ button {
 .checkbox-container input {
     display: flex;
     align-items: center;
-    margin-left: -20%; /* Correção na propriedade 'margin-left' */
+    margin-left: -20%;
+    /* Correção na propriedade 'margin-left' */
     margin-top: -12px;
 }
 
@@ -137,6 +138,3 @@ button {
     font-weight: 700;
     transition: all 0.5s;
 }
-
-
-
