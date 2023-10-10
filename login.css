@@ -144,7 +144,7 @@ button {
 .error-validation {
     color: #ff1a1a;
     position: absolute;
-    top: 57px;
+    top: 65px;
     font-size: 12px;
 }
 
@@ -213,7 +213,6 @@ div input#agreement {
         transition: all 0.7s;
     }
 }
-
 @media (max-width: 590px) {
     div.full-box {
         display: flex;
@@ -242,13 +241,32 @@ div input#agreement {
         font-size: 4vw;
         transition: all 0.7s;
     }
+    #right-container {
+        width: 90%;
+    }
 }
 
-@media (max-width: 280px) {
+@media (max-width: 295px) {
     #right-container {
         width: 90%;
     }
     div input::placeholder {
         font-size: 3vw;
+    }
+    form#register-form {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+/* -------------------------- Responsividade do erro de validação -------------------------- */
+@media (max-width: 660px) {
+    .error-validation {
+        font-size: 9px;
+    }
+}
+@media (max-width: 440px) {
+    .error-validation {
+        font-size: 8px;
     }
 }
