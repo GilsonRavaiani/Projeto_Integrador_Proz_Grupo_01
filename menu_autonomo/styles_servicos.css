@@ -8,6 +8,12 @@
   --color-neutral-50: #7f37c9;
 }
 
+body {
+
+  background: linear-gradient(#4B4AEF, #7f37c9, #7747ca);
+
+}
+
 * {
     font-family: "Poppins", sans-serif;
     margin: 0;
@@ -69,7 +75,8 @@ h1{
  
 .content{
    display:flex;
-   background-color: rgb(255, 208, 0);
+   background: linear-gradient(#4B4AEF, #7f37c9, #7747ca);
+   /*background-color: rgb(255, 208, 0);*/
    justify-content: center;
    
    
@@ -78,8 +85,10 @@ h1{
    
 }
 
-.content:hover{       
-  background-color: rgb(251, 251, 252);
+.content:hover{     
+  
+  background: linear-gradient(#f3f3f5, #ebeaec, #f2f0f5);
+  /*background-color: rgb(251, 251, 252);*/
 
 }
 
