@@ -1,0 +1,23 @@
+Clientes para Avaliações: (1, N) - Um cliente pode ter várias avaliações, mas uma avaliação pertence a apenas um cliente.
+
+Avaliações para Clientes: (N, 1) - Uma avaliação pertence a apenas um cliente, mas um cliente pode ter zero ou várias avaliações.
+
+
+Clientes para Categorias: (0, N) - Um cliente pode estar associado a zero ou várias categorias, e uma categoria pode ter vários clientes associados.
+
+Categorias para Clientes: (0, N) - Uma categoria pode estar associada a zero ou vários clientes, e um cliente pode estar associado a várias categorias.
+
+
+Profissionais para Serviços: (1, N) - Um profissional pode oferecer vários serviços, mas um serviço está associado a apenas um profissional.
+
+Serviços para Profissionais: (N, 1) - Um serviço está associado a apenas um profissional, mas um profissional pode oferecer zero ou vários serviços.
+
+
+Categorias para Serviços: (1, N) - Uma categoria pode ter vários serviços, mas um serviço pertence a apenas uma categoria.
+
+Serviços para Categorias: (N, 1) - Um serviço pertence a apenas uma categoria, mas uma categoria pode ter zero ou vários serviços.
+
+
+Serviços para Avaliações: (1, N) - Um serviço pode ter várias avaliações, mas uma avaliação está associada a apenas um serviço.
+
+Avaliações para Serviços: (N, 1) - Uma avaliação está associada a apenas um serviço, mas um serviço pode ter zero ou várias avaliações.
