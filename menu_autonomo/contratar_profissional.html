@@ -2,63 +2,121 @@
 <html lang="pt-br">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Um site que irá facilitar a divulgação dos seus serviços autônomos.">
-    <link rel="stylesheet" href="./styles_contratar.css">
-    <link rel="stylesheet" href="styles.css">
-    <title>Perfil dos Profissionais</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Um site que irá facilitar a divulgação dos seus serviços autônomos.">
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+  <link rel="stylesheet" href="./styles_contratar.css">
+  <link rel="stylesheet" href="styles.css">
+  <title>Perfil dos Profissionais</title>
 </head>
+
 <body>
-    
-    <header>
 
-        <div class="logo">
+  <header>
     
-          <img src="imagens/logo.png" alt="Logotipo" />
-          <br>
+    <a class="logo"><img src="./Imagens/logo.png" alt="logo-whatservice"><h2>Analise o Profissional Escolhido:</h2></a>
+
     
-          <h1>Analise o Profissional Escolhido</h1>
-          <br>
-    
-          <h2>CONTRATAR</h2>
-    
-        </div>
-    
-      </header>
+  </header>
 
-    <main>
+  
+ 
 
-        <section>
-            <div class banner>
-                
-            </div>
-            <img src="imagens/avaliacoes.jpg" height="300" alt="Nome do Profissional">
-            <br>
-           
-        </section>
-
-        <section>
-
-            <h3>Nome: Manuel Silva da Rocha</h3>
-            <h3>Idade: 36 anos</h3>
-            <h3>Profissão: Pedreiro</h3>
-            <h3>Valor da Diária R$: 80,00</h3>
-            <h3>Contato (Tel e WhatsApp): 83 988587878</h3>                    
-
-        </section>
+    <section class="first-page"> 
       
-            
-       
-    </main>
+      <div class="content">
+           
+          <a href="menu_pedreiro.html"><img src="imagens/avaliacoes.jpg" alt="Nome do Profissional"></a>
+          <br>
+          <a href="./Cadastro_autonomo/cadastro_autonomos.html"><button type="button"
+            id="register-button">Cadastre-se</button></a>
+          
+              
+      </div>
 
+     
+
+    </section>
+
+    
+    <div>
+
+      <form method="get" action="menu_servicos.html"><button class="glow-on-hover" type="submit">Voltar</button></form>
+
+    </div>
+
+    
+  
+  
     <footer>
+      <div id="footer-content">
+          <div id="footer-contacts">
+              <a href="./index.html"><img src="./Imagens/logo.png" id="logo-footer"
+                      alt="WhatService Logo"></a>
+              <p>All Rights Reserved © whatservice.com</p>
 
-        <h5>What Service - Todos os direitos reservados</h5>
+              <div id="footer-social-media">
+                  <a href="https://www.facebook.com/?locale=pt_BR" class="footer-link" id="facebook"><i
+                          class="fa-brands fa-facebook"></i></a>
+                  <a href="https://www.instagram.com/" class="footer-link" id="instagram"><i
+                          class="fa-brands fa-instagram"></i></a>
+                  <a href="https://web.whatsapp.com/" class="footer-link" id="whatsapp"><i
+                          class="fa-brands fa-whatsapp"></i></a>
 
-    </footer>
+              </div>
+          </div>
+          <ul class="footer-list">
+              <li>
+                  <h3>Organização</h3>
+              </li>
 
+              <li>
+                  <a href="#" class="footer-link">Empresa</a>
+              </li>
+              <li>
+                  <a href="./Documentos/negocio.pdf" class="footer-link">Regras de Negócio</a>
+              </li>
+          </ul>
 
+          <ul class="footer-list">
+              <li>
+                  <h3>Time</h3>
+              </li>
+
+              <li>
+                  <a href="./cv.html" class="footer-link">Sobre Nós</a>
+              </li>
+              <li>
+                  <a href="#" class="footer-link">Contate-nos</a>
+              </li>
+              <li>
+                  <a href="#" class="footer-link">Localização</a>
+              </li>
+          </ul>
+
+          <div id="footer-subscribe">
+              <h3><span class="orange-text">News</span><span class="blue-text">letter</span></h3>
+              <p>Insira o seu e-mail para receber notificações e/ou novas soluções</p>
+
+              <div id="input-group">
+                  <input type="email" id="email" placeholder="Insira o seu e-mail">
+                  <button type="button"><i class="fa-regular fa-envelope"></i>
+                  </button>
+
+              </div>
+          </div>
+      </div>
+      <div id="footer-copyright">
+          &#169
+          2023 All rights reserved
+      </div>
+  </footer>
+
+  
 
 </body>
+
 </html>
+
+
