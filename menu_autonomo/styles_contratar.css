@@ -41,7 +41,7 @@ header{
 
 section.first-page {
     margin-top: 0;
-    width: 80%;
+    width: 60%;
     height: 40%;
     display: flex;
     align-items: center;
@@ -74,20 +74,20 @@ h1{
 
 div button#register-button {
   font-size: 1.2vw;
-  background: #FFCA1D;
+  background: #04a519;
   width: 11vw;
   box-shadow: none;
   border-radius: 0.4rem;
-  border: #FFCA1D;
+  border: #eff3ee;
   padding: 0.5rem;
-  color: #000000;
+  color: #f5f2f2;
   text-decoration: none;
   font-weight: 500;
   cursor: pointer;
 }
 
 div button#register-button:hover {
-  background-color: violet;
+  background-color: rgb(104, 16, 155);
   color: white;
   font-weight: 700;
   transition: all 0.5s;
