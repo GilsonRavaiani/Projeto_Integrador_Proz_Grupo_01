@@ -92,8 +92,8 @@ input:focus {
 input[type="submit"],
 button {
   display: block;
-  background-color: #4CAF50;
-  color: black;
+  background-color: blueviolet;
+  color: white;
   border-radius: 20px;
   height: 40px;
   cursor: pointer;
@@ -102,6 +102,7 @@ button {
 
 button {
   background-color: #FFCA1D;
+  color: black;
 }
 
 #agreement {
