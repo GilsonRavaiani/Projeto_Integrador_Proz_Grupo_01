@@ -17,4 +17,4 @@ COPY . /app
 EXPOSE 8000
 
 # Defina o comando de inicialização (substitua por seu script principal)
-CMD ["python", "index.py"]
+CMD ["python", "main.py"]
